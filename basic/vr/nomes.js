@@ -93,8 +93,8 @@ function mnivelk1() {
 	var entityElw1 = sceneEl.querySelector('#ar6')
 	var p = document.getElementById("nv2").value
 	var q = document.getElementById("nv3").value
-	entityEl.setAttribute('geometry',`radius:4.5; primitive: torusKnot; p: ${p}; q: ${q}; radius-tubular:0.4; segments-radial: 30; segments-tubular: 600;`);
-	entityElw.setAttribute('geometry',`radius:4.501; primitive: torusKnot; p: ${p}; q: ${q}; radius-tubular:0.401; segments-radial: 30; segments-tubular: 600;`);
+	entityEl.setAttribute('geometry',`radius:4.5; primitive: torusKnot; p: ${p}; q: ${q}; radius-tubular:0.4; segments-radial: 30; segments-tubular: 150;`);
+	entityElw.setAttribute('geometry',`radius:4.501; primitive: torusKnot; p: ${p}; q: ${q}; radius-tubular:0.401; segments-radial: 30; segments-tubular: 150;`);
 	entityEl1.setAttribute('geometry',`radius:4.5; primitive: torusKnot; p: ${p}; q: ${q}; radius-tubular:0.59; segments-radial: 4; segments-tubular: 40;`);
 	entityElw1.setAttribute('geometry',`radius:4.501; primitive: torusKnot; p: ${p}; q: ${q}; radius-tubular:0.6; segments-radial: 4; segments-tubular: 40;`);
 }
