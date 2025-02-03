@@ -34,8 +34,8 @@
 		<a-mixin id="fc6" material="color: #f22; opacity:0.8; metalness:0.5; roughness:0.6" geometry="radius:4.5; primitive: torusKnot; p: 3; q: 1; radius-tubular:0.59; segments-radial: 4; segments-tubular: 40;"></a-mixin>
 		<a-mixin id="ar6" material="color: silver; wireframe: true; wireframeLinewidth: 1" geometry="radius:4.501; primitive: torusKnot; p: 3; q: 1; radius-tubular:0.6; segments-radial: 4; segments-tubular: 40;"></a-mixin>
 		<a-mixin id="fc7" material="color: #3d3; side: double; opacity:0.65; metalness:0.5; roughness:0.6" geometry="radius:4.5; primitive: torusKnot; p: 1; q: 2; radius-tubular:0.15; segments-radial: 30; segments-tubular: 150;"></a-mixin>
-		<a-mixin id="fc8" mixin="fc" material="color: #33d;"></a-mixin>
-		<a-mixin id="fc9" mixin="fc" material="color: #d33;"></a-mixin>
+		<a-mixin id="fc8" mixin="fc7" material="color: #33d;"></a-mixin>
+		<a-mixin id="fc9" mixin="fc7" material="color: #d33;"></a-mixin>
 		<a-mixin id="mtl9" material="color: #8ec; side:double;"></a-mixin>
 		<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.01255; segments-height:20; segments-width:20;" material="metalness:0.4; roughness:0.5;">
 		<a-asset-item id="material" src="vr/obj/c1.mtl"></a-asset-item>
@@ -114,7 +114,7 @@
 	
 	<a-marker type="barcode" value="7" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/BorromeanRings.htm"></a-link>
-	   	<a-entity position="2.7 0.9 0" scale="0.27 0.27 0.27" gesture-handler>
+	   	<a-entity position="2.7 0.9 0" scale="2.2 2.2 2.2" gesture-handler>
 			<a-light type="point" color="white" intensity="0.5" position="0 0 0"></a-light>
 			<a-obj-model id="fc" src="#poli" mtl="#material" scale="0.9985 0.9985 0.9985"></a-obj-model>
 			<a-obj-model id="ar" src="#poliw" mtl="#material"></a-obj-model>
