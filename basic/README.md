@@ -37,8 +37,8 @@ This work shows torus and toroids modeled in 3D, with views that can be accessed
 <p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
   <hr>
  <h3 align="center">Immersive room</h3>
-  <div class="embed-container"><iframe width="100%" src="../sala.htm" title="Sala Imersiva dos toros e toroides" frameborder="0" loading="lazy"></iframe></div>
-  <p align="center"><img align="middle" src="../vr/salas/videos/torus.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy" alt="Sala Imersiva de RV par aos toros e toroides"/><a href="../sala.htm" target="_blank">&#x1f517; link da sala</a></p> 
+  <div class="embed-container"><iframe width="100%" src="sala.htm" title="Sala Imersiva dos toros e toroides" frameborder="0" loading="lazy"></iframe></div>
+  <p align="center"><img align="middle" src="vr/salas/videos/torus.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy" alt="Sala Imersiva de RV par aos toros e toroides"/><a href="sala.htm" target="_blank">&#x1f517; room link</a></p> 
   <hr>
   <h3 id="ra" align="center">Augmented Reality</h3>
   To view torus and toroids in AR, simply visit the pages indicated in the 3D solid models using any browser with a webcam device (smartphone, tablet or notebook). 
@@ -91,7 +91,7 @@ This work shows torus and toroids modeled in 3D, with views that can be accessed
   <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
  <hr>
 <h4>8. Borromean rings: polyhedral toroid</h4>
-<a href="vr/BorromeanRings.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/3A.png" class="foto" alt="Egg of Life 3D"></a><img src="ar/3.png" class="qr">
+<a href="vr/BorromeanRings.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/7A.png" class="foto" alt="Borromean rings: polyhedral toroid"></a><img src="ar/7.png" class="qr">
  <br><br><br>The Borromean rings, also called Borromean links, are three interlocking rings named after the Italian Renaissance family that used them in their coat of arms. Removing any one ring leaves the other two unconnected. In this example, we have the Borromean rings made with polyhedral toroids with n = 4.
  <br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>

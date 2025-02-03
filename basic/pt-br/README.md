@@ -37,8 +37,8 @@ Este trabalho mostra toros e toroides modelados em 3D, com as visualizações qu
  <p align="center"><a href="#ra">Realidade Aumentada</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
 <hr>
  <h3 align="center">Sala imersiva</h3>
-  <div class="embed-container"><iframe width="100%" src="sala.htm" title="Sala Imersiva dos toros e toroides" frameborder="0" loading="lazy"></iframe></div>
-  <p align="center"><img align="middle" src="vr/salas/videos/torus.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy" alt="VR immersive room to torus and toroids"/><a href="sala.htm" target="_blank">&#x1f517; room link</a></p> 
+  <div class="embed-container"><iframe width="100%" src="../sala.htm" title="Sala Imersiva dos toros e toroides" frameborder="0" loading="lazy"></iframe></div>
+  <p align="center"><img align="middle" src="../vr/salas/videos/torus.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy" alt="VR immersive room to torus and toroids"/><a href="../sala.htm" target="_blank">&#x1f517; room link</a></p> 
   <hr>
   <h3 id="ra" align="center">Realidade Aumentada</h3>
   Para visualizar os toros e toroides em RA, visite as páginas indicadas nos modelos 3D dos sólidos utilizando qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
@@ -91,7 +91,7 @@ Este trabalho mostra toros e toroides modelados em 3D, com as visualizações qu
 <a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <hr>
 <h4>8. Anéis Borromeanos: toroide poliédrico</h4>
-<a href="../vr/BorromeanRings.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/7A.png" class="foto" alt="Ovo da vida 3D"></a><img src="../ar/7.png" class="qr">
+<a href="../vr/BorromeanRings.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/7A.png" class="foto" alt="Anéis Borromeanos: toroide poliédrico"></a><img src="../ar/7.png" class="qr">
  <br><br><br>Os anéis borromeanos, também chamados de elos borromeanos, são três anéis entrelaçados mutuamente, com o nome da família renascentista italiana que os usava em seu brasão de armas. A remoção de qualquer anel deixa os outros dois desconectados. Neste exemplo, temos os anéis borromeanos feitos com toroides poliédricos com n = 4.
  <br><br><br>
 <a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
