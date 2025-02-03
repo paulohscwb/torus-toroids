@@ -21,7 +21,7 @@
 		</a-assets>
 		
 		<a-entity rotation="0 0 0" scale="11 11 11">
-			<a-light type="point" color="white" intensity="0.5" position="0 0 0"></a-light>
+			<a-light type="point" color="white" intensity="0.25" position="0 0 0"></a-light>
 			<a-obj-model id="fc" src="#poli" mtl="#material" scale="0.9985 0.9985 0.9985"></a-obj-model>
 			<a-obj-model id="ar" src="#poliw" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera' position='0 0.3 -0.5'></a-sphere>
@@ -64,11 +64,11 @@
 		
 		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 300 300 700; maxDistance: 1500;"></a-entity>
 	  
-		<a-light type="ambient" color="white" intensity="0.5"></a-light>
-		<a-light type="directional" color="white" intensity="0.65" position="-3 2 1"></a-light>
-		<a-light type="directional" color="white" intensity="0.65" position="-3 -2 -2"></a-light>
-		<a-light type="directional" color="white" intensity="0.65" position="3 -2 1"></a-light>
-		<a-light type="directional" color="white" intensity="0.65" position="3 2 -2"></a-light>
+		<a-light type="ambient" color="white" intensity="0.4"></a-light>
+		<a-light type="directional" color="white" intensity="0.6" position="-3 2 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.6" position="-3 -2 -2"></a-light>
+		<a-light type="directional" color="white" intensity="0.6" position="3 -2 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.6" position="3 2 -2"></a-light>
 
 		<a-sky color="#f0fcfa"></a-sky>
     </a-scene>
