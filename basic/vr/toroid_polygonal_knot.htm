@@ -1,0 +1,46 @@
+<html>
+  <head>
+    <title>Torus and toroids</title>
+	<meta charset="utf-8">
+	<link rel="icon" type="image/png" href="salas/imagens/icone.png">
+	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+	<script src="https://unpkg.com/aframe-orbit-controls@1.3.0/dist/aframe-orbit-controls.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+	<script src="nomes.js"></script>
+	<link rel="stylesheet" href="nomes.css">
+  </head>
+  <body>
+<div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Lato; font-size:2.5vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2025 Paulo Henrique Siqueira</div>
+    <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
+		<a-assets>
+			<a-mixin id="fc" material="color: #f22; opacity:0.8; metalness:0.5; roughness:0.6" geometry="radius:4.5; primitive: torusKnot; p: 3; q: 1; radius-tubular:0.59; segments-radial: 4; segments-tubular: 40;"></a-mixin>
+			<a-mixin id="ar" material="color: silver; wireframe: true; wireframeLinewidth: 1" geometry="radius:4.501; primitive: torusKnot; p: 3; q: 1; radius-tubular:0.6; segments-radial: 4; segments-tubular: 40;"></a-mixin>
+		</a-assets>
+		<a-light type="point" color="white" intensity="0.5" position="0 0 0"></a-light>
+		
+		<a-entity rotation="0 0 0" scale="1 1 1">
+			<a-entity rotation="90 0 0" mixin="fc"></a-entity>
+			<a-entity rotation="90 0 0" mixin="ar"></a-entity>
+		</a-entity>
+		
+		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 300 500 700; maxDistance: 1500;"></a-entity>
+	  
+		<a-light type="ambient" color="white" intensity="0.6"></a-light>
+		<a-light type="directional" color="white" intensity="0.65" position="-7 5 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.65" position="7 -5 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.65" position="7 5 -1"></a-light>
+
+		<a-sky color="#f0fcfa"></a-sky>
+    </a-scene>
+	<div class="box">
+		<span class="titulo">Toroid polygonal</span>
+		<br><span class="titulo">Toróide poligonal</span>
+		<hr><input type="checkbox" id="arestas" checked onclick="marestas()">edges&nbsp;&nbsp;|&nbsp;&nbsp;<label for="rangevalue">p = </label><output id="rangevalue">3</output>
+		<br><input type="range" id="nv" min="1" max="15" step="1" value="3" onchange="rangevalue.value=value; mnivelkp()">
+		<br><label for="rangevalue1">q = </label><output id="rangevalue1">1</output>
+		<br><input type="range" id="nv1" min="1" max="15" step="1" value="1" onchange="rangevalue1.value=value; mnivelkp()">
+		<br><label for="rangevalue2">sides = </label><output id="rangevalue2">40</output>
+		<br><input type="range" id="nv2" min="10" max="100" step="5" value="40" onchange="rangevalue2.value=value; mnivelkp()">
+	</div>
+  </body>
+</html>

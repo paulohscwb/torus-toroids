@@ -1,0 +1,170 @@
+<!doctype HTML>
+<html>
+<head>
+	<script src="https://aframe.io/releases/1.3.0/aframe.js"></script>
+	<title>Sacred Geometry</title>
+	<link rel="icon" type="image/png" href="vr/salas/imagens/icone.png">
+	<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+	<script src="https://raw.githack.com/fcor/arjs-gestures/master/dist/gestures.js"></script>
+	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+	<script src="vr/nomes.js"></script>
+	<link rel="stylesheet" href="vr/nomes.css">
+</head>
+<body style='margin: 0; overflow: hidden;'>
+	<div style='position: fixed; top: 43px; width:100%; text-align: center; z-index: -2;'>
+		<font face="verdana" size="5" color="DarkSlateBlue">Loading...</font>
+	</div>
+<div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:80vw; z-index: 5; font-family: Lato; font-size:2.75vh; font-weight:bold; text-shadow:1px 1px 1px grey;'>paulohscwb@gmail.com <br> &copy; 2024 Paulo Henrique Siqueira</div>
+  <a-scene cursor="rayOrigin: mouse" raycaster="objects: .lnk;" embedded renderer="logarithmicDepthBuffer: true; colorManagement: true;" arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 4x4; debugUIEnabled: false;' gesture-detector>
+     
+     <a-assets>
+		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.25 0" link="title: 3D model; highlighted:true; backgroundColor:LightGray"></a-mixin>
+		<a-mixin id="fc1" material="color: #cc0; side: double; opacity:0.92; metalness:0.5; roughness:0.6" geometry="radius:6; primitive: torus; radius-tubular:0.6; segments-radial: 30; segments-tubular: 75;"></a-mixin>
+		<a-mixin id="ar1" material="color: grey; wireframe: true; wireframeLinewidth: 1" geometry="radius:6.001; primitive: torus; radius-tubular:0.601; segments-radial: 30; segments-tubular: 75;"></a-mixin>
+		<a-mixin id="fc2" material="color: #0af; side: double; opacity:0.92; metalness:0.5; roughness:0.6" geometry="radius:6; primitive: torus; radius-tubular:0.6; segments-radial: 30; segments-tubular: 3;"></a-mixin>
+		<a-mixin id="ar2" material="color: grey; wireframe: true; wireframeLinewidth: 1" geometry="radius:6.001; primitive: torus; radius-tubular:0.601; segments-radial: 30; segments-tubular: 3;"></a-mixin>
+		<a-mixin id="fc3" material="color: #3d3; side: double; opacity:0.92; metalness:0.5; roughness:0.6" geometry="radius:4.5; primitive: torusKnot; p: 3; q: 1; radius-tubular:0.4; segments-radial: 30; segments-tubular: 600;"></a-mixin>
+		<a-mixin id="ar3" material="color: grey; wireframe: true; wireframeLinewidth: 1" geometry="radius:4.501; primitive: torusKnot; p: 3; q: 1; radius-tubular:0.401; segments-radial: 30; segments-tubular: 600;"></a-mixin>
+		<a-mixin id="fcT" material="color: #cd0; side: double; opacity:0.62; metalness:0.5; roughness:0.6" geometry="radius:4.5; primitive: torus; radius-tubular:0.72; segments-radial: 30; segments-tubular: 75;"></a-mixin>
+		<a-mixin id="fc4" material="color: #0fc; side: double; opacity:0.92; metalness:0.5; roughness:0.6" geometry="radius:6; primitive: torus; radius-tubular:0.6; segments-radial: 5; segments-tubular: 75;"></a-mixin>
+		<a-mixin id="ar4" material="color: grey; wireframe: true; wireframeLinewidth: 1" geometry="radius:6.001; primitive: torus; radius-tubular:0.601; segments-radial: 5; segments-tubular: 75;"></a-mixin>
+		<a-mixin id="fc5" material="color: #0ba; opacity:0.8; metalness:0.5; roughness:0.6" geometry="radius:6; primitive: torus; radius-tubular:0.59; segments-radial: 3; segments-tubular: 3;"></a-mixin>
+		<a-mixin id="ar5" material="color: silver; wireframe: true; wireframeLinewidth: 1" geometry="radius:6.001; primitive: torus; radius-tubular:0.6; segments-radial: 3; segments-tubular: 3;"></a-mixin>
+		<a-mixin id="fc6" material="color: #f22; opacity:0.8; metalness:0.5; roughness:0.6" geometry="radius:4.5; primitive: torusKnot; p: 3; q: 1; radius-tubular:0.59; segments-radial: 4; segments-tubular: 40;"></a-mixin>
+		<a-mixin id="ar6" material="color: silver; wireframe: true; wireframeLinewidth: 1" geometry="radius:4.501; primitive: torusKnot; p: 3; q: 1; radius-tubular:0.6; segments-radial: 4; segments-tubular: 40;"></a-mixin>
+		<a-mixin id="fc7" material="color: #3d3; side: double; opacity:0.65; metalness:0.5; roughness:0.6" geometry="radius:4.5; primitive: torusKnot; p: 1; q: 2; radius-tubular:0.15; segments-radial: 30; segments-tubular: 150;"></a-mixin>
+		<a-mixin id="fc8" mixin="fc" material="color: #33d;"></a-mixin>
+		<a-mixin id="fc9" mixin="fc" material="color: #d33;"></a-mixin>
+		<a-mixin id="mtl9" material="color: #8ec; side:double;"></a-mixin>
+		<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.01255; segments-height:20; segments-width:20;" material="metalness:0.4; roughness:0.5;">
+		<a-asset-item id="material" src="vr/obj/c1.mtl"></a-asset-item>
+		<a-asset-item id="poli" src="vr/obj/BorromeanRings.obj"></a-asset-item>
+		<a-asset-item id="poliw" src="vr/obj/BorromeanRingsL.obj"></a-asset-item>
+	</a-assets>
+
+    <a-entity camera></a-entity>
+	
+	<a-marker preset="hiro">
+	    <a-link mixin="lnk" class="lnk" href="#"></a-link>
+	</a-marker>
+	
+	<a-light type="ambient" color="white" intensity="0.6"></a-light>
+	<a-light type="directional" color="white" intensity="0.35" position="-3 2 1"></a-light>
+	<a-light type="directional" color="white" intensity="0.35" position="3 -2 1"></a-light>
+    <a-light type="point" color="yellow" intensity="0.6" position="0 0 0"></a-light>
+	
+	<a-marker type="barcode" value="0" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
+		<a-link mixin="lnk" class="lnk" href="vr/torus.htm"></a-link>
+	   	<a-entity position="2.7 0.9 0" scale="0.2 0.2 0.2" gesture-handler>
+			<a-entity rotation="90 0 0" mixin="fc1"></a-entity>
+			<a-entity rotation="90 0 0" mixin="ar1"></a-entity>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="4" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
+		<a-link mixin="lnk" class="lnk" href="vr/torusN.htm"></a-link>
+	   	<a-entity position="2.7 0.9 0" scale="0.2 0.2 0.2" gesture-handler>
+			<a-entity rotation="90 0 0" mixin="fc2"></a-entity>
+			<a-entity rotation="90 0 0" mixin="ar2"></a-entity>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="3" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
+		<a-link mixin="lnk" class="lnk" href="vr/torusKnotN.htm"></a-link>
+		<a-entity position="2.7 0.9 0" scale="0.2 0.2 0.2" gesture-handler>
+			<a-entity rotation="90 0 0" mixin="fc3"></a-entity>
+			<a-entity rotation="90 0 0" mixin="ar3"></a-entity>
+			<a-entity rotation="90 0 0" mixin="fcT"></a-entity>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="5" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
+		<a-link mixin="lnk" class="lnk" href="vr/toroid_polygonal1.htm"></a-link>
+	   	<a-entity position="2.7 0.9 0" scale="0.2 0.2 0.2" gesture-handler>
+			<a-entity rotation="90 0 0" mixin="fc4"></a-entity>
+			<a-entity rotation="90 0 0" mixin="ar4"></a-entity>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="1" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
+		<a-link mixin="lnk" class="lnk" href="vr/toroid_polygonal.htm"></a-link>
+		<a-entity position="2.7 0.9 0" scale="0.2 0.2 0.2" gesture-handler>
+			<a-entity rotation="90 0 0" mixin="fc5"></a-entity>
+			<a-entity rotation="90 0 0" mixin="ar5"></a-entity>
+		</a-entity>
+	</a-marker>
+
+	<a-marker type="barcode" value="2" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
+		<a-link mixin="lnk" class="lnk" href="vr/toroid_polygonal_knot.htm"></a-link>
+	   	<a-entity position="2.7 0.9 0" scale="0.22 0.22 0.22" gesture-handler>
+			<a-entity rotation="90 0 0" mixin="fc6"></a-entity>
+			<a-entity rotation="90 0 0" mixin="ar6"></a-entity>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="6" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
+		<a-link mixin="lnk" class="lnk" href="vr/BorromeanRings1.htm"></a-link>
+	   	<a-entity position="2.7 0.9 0" scale="0.3 0.3 0.3" gesture-handler>
+			<a-entity rotation="90 0 0" mixin="fc7"></a-entity>
+			<a-entity rotation="0 90 0" mixin="fc8"></a-entity>
+			<a-entity rotation="0 0 90" mixin="fc9"></a-entity>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="7" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
+		<a-link mixin="lnk" class="lnk" href="vr/BorromeanRings.htm"></a-link>
+	   	<a-entity position="2.7 0.9 0" scale="0.27 0.27 0.27" gesture-handler>
+			<a-light type="point" color="white" intensity="0.5" position="0 0 0"></a-light>
+			<a-obj-model id="fc" src="#poli" mtl="#material" scale="0.9985 0.9985 0.9985"></a-obj-model>
+			<a-obj-model id="ar" src="#poliw" mtl="#material"></a-obj-model>
+			<a-sphere mixin='esfera' position='0 0.3 -0.5'></a-sphere>
+			<a-sphere mixin='esfera' position='0 -0.3 0.5'></a-sphere>
+			<a-sphere mixin='esfera' position='0 -0.3 -0.5'></a-sphere>
+			<a-sphere mixin='esfera' position='0.1 0.2 0.4'></a-sphere>
+			<a-sphere mixin='esfera' position='0.1 0.2 -0.4'></a-sphere>
+			<a-sphere mixin='esfera' position='0.1 -0.2 0.4'></a-sphere>
+			<a-sphere mixin='esfera' position='0.1 -0.2 -0.4'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.1 0.2 0.4'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.1 0.2 -0.4'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.1 -0.2 0.4'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.1 -0.2 -0.4'></a-sphere>
+			<a-sphere mixin='esfera' position='0.3 0.5 0'></a-sphere>
+			<a-sphere mixin='esfera' position='0.3 -0.5 0'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.3 0.5 0'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.3 -0.5 0'></a-sphere>
+			<a-sphere mixin='esfera' position='0.2 0.4 0.1'></a-sphere>
+			<a-sphere mixin='esfera' position='0.2 -0.4 0.1'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.2 0.4 0.1'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.2 -0.4 0.1'></a-sphere>
+			<a-sphere mixin='esfera' position='0.2 0.4 -0.1'></a-sphere>
+			<a-sphere mixin='esfera' position='0.2 -0.4 -0.1'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.2 0.4 -0.1'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.2 -0.4 -0.1'></a-sphere>
+			<a-sphere mixin='esfera' position='0.5 0 0.3'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.5 0 0.3'></a-sphere>
+			<a-sphere mixin='esfera' position='0.5 0 -0.3'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.5 0 -0.3'></a-sphere>
+			<a-sphere mixin='esfera' position='0.4 0.1 0.2'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.4 0.1 0.2'></a-sphere>
+			<a-sphere mixin='esfera' position='0.4 0.1 -0.2'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.4 0.1 -0.2'></a-sphere>
+			<a-sphere mixin='esfera' position='0.4 -0.1 0.2'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.4 -0.1 0.2'></a-sphere>
+			<a-sphere mixin='esfera' position='0.4 -0.1 -0.2'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.4 -0.1 -0.2'></a-sphere>
+			<a-sphere mixin='esfera' position='0 0.3 0.5'></a-sphere>
+		</a-entity>
+	</a-marker>
+	
+  </a-scene>
+  <div class="box">
+		<label for="rangevalue">order: </label><output id="rangevalue">3</output>
+		<br><input type="range" id="nv" min="3" max="15" step="1" value="3" onchange="rangevalue.value=value; mnivels1()">
+		<br><label for="rangevalue2">p = </label><output id="rangevalue2">3</output>
+		<br><input type="range" id="nv2" min="1" max="15" step="1" value="3" onchange="rangevalue2.value=value; mnivelk1()">
+		<br><label for="rangevalue1">q = </label><output id="rangevalue1">1</output>
+		<br><input type="range" id="nv3" min="1" max="15" step="1" value="1" onchange="rangevalue1.value=value; mnivelk1()">
+	</div>
+</body>
+</html>	 
