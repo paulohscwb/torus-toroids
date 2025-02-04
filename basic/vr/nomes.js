@@ -52,8 +52,8 @@ function mnivels() {
 	var p = document.getElementById("nv").value
 	var r = document.getElementById("nvr").value
 	var R = document.getElementById("nvR").value
-	r1 = r * 1.00025;
-	R1 = R * 1.00025;
+	r1 = r * 1.003
+	R1 = R * 1.0006
 	entityEl.setAttribute('geometry',`radius:${R}; primitive: torus; radius-tubular:${r}; segments-radial: 30; segments-tubular: ${p}`);
 	entityElw.setAttribute('geometry',`radius:${R1}; primitive: torus; radius-tubular:${r1}; segments-radial: 30; segments-tubular: ${p}`);
 }
@@ -68,11 +68,11 @@ function mnivels1() {
 	var entityElw2 = sceneEl.querySelector('#ar5')
 	var p = document.getElementById("nv").value
 	entityEl.setAttribute('geometry',`radius:6; primitive: torus; radius-tubular:0.6; segments-radial: 30; segments-tubular: ${p}`);
-	entityElw.setAttribute('geometry',`radius:6.001; primitive: torus; radius-tubular:0.601; segments-radial: 30; segments-tubular: ${p}`);
+	entityElw.setAttribute('geometry',`radius:6.007; primitive: torus; radius-tubular:0.607; segments-radial: 30; segments-tubular: ${p}`);
 	entityEl1.setAttribute('geometry',`radius:6; primitive: torus; radius-tubular:0.6; segments-radial: ${p}; segments-tubular: 75`);
-	entityElw1.setAttribute('geometry',`radius:6.001; primitive: torus; radius-tubular:0.601; segments-radial: ${p}; segments-tubular: 75`);
+	entityElw1.setAttribute('geometry',`radius:6.007; primitive: torus; radius-tubular:0.607; segments-radial: ${p}; segments-tubular: 75`);
 	entityEl2.setAttribute('geometry',`radius:6; primitive: torus; radius-tubular:0.6; segments-radial: 4; segments-tubular: ${p}`);
-	entityElw2.setAttribute('geometry',`radius:6.001; primitive: torus; radius-tubular:0.601; segments-radial: 4; segments-tubular: ${p}`);
+	entityElw2.setAttribute('geometry',`radius:6.007; primitive: torus; radius-tubular:0.607; segments-radial: 4; segments-tubular: ${p}`);
 }
 
 function mnivelk() {
@@ -82,7 +82,7 @@ function mnivelk() {
 	var p = document.getElementById("nv").value
 	var q = document.getElementById("nv1").value
 	entityEl.setAttribute('geometry',`radius:4.5; primitive: torusKnot; p: ${p}; q: ${q}; radius-tubular:0.4; segments-radial: 30; segments-tubular: 600;`);
-	entityElw.setAttribute('geometry',`radius:4.501; primitive: torusKnot; p: ${p}; q: ${q}; radius-tubular:0.401; segments-radial: 30; segments-tubular: 600;`);
+	entityElw.setAttribute('geometry',`radius:4.507; primitive: torusKnot; p: ${p}; q: ${q}; radius-tubular:0.407; segments-radial: 30; segments-tubular: 600;`);
 }
 
 function mnivelk1() {
@@ -94,9 +94,9 @@ function mnivelk1() {
 	var p = document.getElementById("nv2").value
 	var q = document.getElementById("nv3").value
 	entityEl.setAttribute('geometry',`radius:4.5; primitive: torusKnot; p: ${p}; q: ${q}; radius-tubular:0.4; segments-radial: 30; segments-tubular: 150;`);
-	entityElw.setAttribute('geometry',`radius:4.501; primitive: torusKnot; p: ${p}; q: ${q}; radius-tubular:0.401; segments-radial: 30; segments-tubular: 150;`);
+	entityElw.setAttribute('geometry',`radius:4.507; primitive: torusKnot; p: ${p}; q: ${q}; radius-tubular:0.407; segments-radial: 30; segments-tubular: 150;`);
 	entityEl1.setAttribute('geometry',`radius:4.5; primitive: torusKnot; p: ${p}; q: ${q}; radius-tubular:0.59; segments-radial: 4; segments-tubular: 40;`);
-	entityElw1.setAttribute('geometry',`radius:4.501; primitive: torusKnot; p: ${p}; q: ${q}; radius-tubular:0.6; segments-radial: 4; segments-tubular: 40;`);
+	entityElw1.setAttribute('geometry',`radius:4.507; primitive: torusKnot; p: ${p}; q: ${q}; radius-tubular:0.6; segments-radial: 4; segments-tubular: 40;`);
 }
 
 function mnivelt() {
@@ -105,8 +105,8 @@ function mnivelt() {
 	var entityElw = sceneEl.querySelector('#ar')
 	r = document.getElementById("nv").value
 	R = document.getElementById("nv1").value
-	r1 = r * 1.00025;
-	R1 = R * 1.00025;
+	r1 = r * 1.003
+	R1 = R * 1.0006
 	entityEl.setAttribute('geometry',`radius: ${R}; primitive: torus; radius-tubular: ${r}; segments-radial: 30; segments-tubular: 75;`);
 	entityElw.setAttribute('geometry',`radius: ${R1}; primitive: torus; radius-tubular: ${r1}; segments-radial: 30; segments-tubular: 75;`);
 }
@@ -118,8 +118,8 @@ function mniveltp() {
 	r = document.getElementById("nv").value
 	R = document.getElementById("nv1").value
 	n = document.getElementById("nv2").value
-	r1 = r * 1.00025;
-	R1 = R * 1.00025;
+	r1 = r * 1.003
+	R1 = R * 1.0006
 	entityEl.setAttribute('geometry',`radius: ${R}; primitive: torus; radius-tubular: ${r}; segments-radial: ${n}; segments-tubular: 75;`);
 	entityElw.setAttribute('geometry',`radius: ${R1}; primitive: torus; radius-tubular: ${r1}; segments-radial: ${n}; segments-tubular: 75;`);
 }
@@ -131,7 +131,7 @@ function mnivelp() {
 	var q = document.getElementById("nv").value
 	var p = document.getElementById("nv1").value
 	entityEl.setAttribute('geometry',`radius:6; primitive: torus; radius-tubular:0.59; segments-radial: ${p}; segments-tubular: ${q};`);
-	entityElw.setAttribute('geometry',`radius:6.001; primitive: torus; radius-tubular:0.6; segments-radial: ${p}; segments-tubular: ${q};`);
+	entityElw.setAttribute('geometry',`radius:6.007; primitive: torus; radius-tubular:0.6; segments-radial: ${p}; segments-tubular: ${q};`);
 }
 
 function mnivelkp() {
@@ -142,7 +142,7 @@ function mnivelkp() {
 	var q = document.getElementById("nv1").value
 	var r = document.getElementById("nv2").value
 	entityEl.setAttribute('geometry',`radius:4.5; primitive: torusKnot; p: ${p}; q: ${q}; radius-tubular:0.59; segments-radial: 4; segments-tubular: ${r};`);
-	entityElw.setAttribute('geometry',`radius:4.501; primitive: torusKnot; p: ${p}; q: ${q}; radius-tubular:0.6; segments-radial: 4; segments-tubular: ${r};`);
+	entityElw.setAttribute('geometry',`radius:4.507; primitive: torusKnot; p: ${p}; q: ${q}; radius-tubular:0.6; segments-radial: 4; segments-tubular: ${r};`);
 }
 
 function mnivelRA() {
