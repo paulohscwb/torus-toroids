@@ -62,7 +62,7 @@ Este trabalho mostra toros e toroides modelados em 3D, com as visualizações qu
 <hr>
 <h4>3. Nó toral</h4>
 <a href="../vr/torusKnotN.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3A.png" class="foto" alt="Nó toral"></a><img src="../ar/3.png" class="qr">
- <br><br><br>Um nó toral (p, q) é obtido ao enrolar uma corda através do furo de um toro p vezes, com q revoluções antes de unir suas extremidades, onde p e q são números primos. As equações paramétricas para um nó toral azimutalmente simétrico em torno do eixo z são: x = (R + r&middot;cos(q&middot;u))&middot;cos(p&middot;u), y = (R + r&middot;cos(q&middot;u))&middot;sin(p&middot;u) e z = r&middot;sin(q&middot;u), onde u &isin; [0, 2&pi;).
+ <br><br><br>Um nó toral (p, q) é obtido ao enrolar uma corda através do furo de um toro p vezes, com q revoluções antes de unir suas extremidades, onde p e q são números primos relativos. As equações paramétricas para um nó toral azimutalmente simétrico em torno do eixo z são: x = (R + r&middot;cos(q&middot;u))&middot;cos(p&middot;u), y = (R + r&middot;cos(q&middot;u))&middot;sin(p&middot;u) e z = r&middot;sin(q&middot;u), onde u &isin; [0, 2&pi;).
  <br><br><br>
 <a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <hr>
@@ -80,7 +80,7 @@ Este trabalho mostra toros e toroides modelados em 3D, com as visualizações qu
 <hr>
 <h4>6. Nó toroidal poliédrico</h4>
 <a href="../vr/toroid_polygonal_knot.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="Nó toroidal poliédrico"></a><img src="../ar/2.png" class="qr">
- <br><br><br>Um nó toroidal poliédrico (p, q) é obtido ao enrolar uma corrente através do furo de um toro p vezes, com q revoluções antes de unir suas extremidades, onde p e q são números primos. Os elos da corrente são formados por prismas e troncos de prismas.
+ <br><br><br>Um nó toroidal poliédrico (p, q) é obtido ao enrolar uma corrente através do furo de um toro p vezes, com q revoluções antes de unir suas extremidades, onde p e q são números primos relativos. Os elos da corrente são formados por prismas e troncos de prismas.
  <br><br><br>
 <a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <hr>
