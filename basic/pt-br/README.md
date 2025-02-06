@@ -50,13 +50,13 @@ Este trabalho mostra toros e toroides modelados em 3D, com as visualizações qu
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXqLmyaITBm0flxwtDvgTFT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 <h4>1. Toro</h4>
 <a href="../vr/torus.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/0A.png" class="foto" alt="Torus"></a><img src="../ar/0.png" class="qr">
- <br><br><br>Considere o raio do centro do furo ao centro do tubo do toro r, e o raio do tubo R. As equações paramétricas para um toro azimutalmente simétrico em torno do eixo z são: x = (R + r&middot;cos(v))&middot;cos(u), y = (R + r&middot;cos(v))&middot;sin(u) e z = r&middot;sin(v), onde u, v &isin; [0, 2&pi;).
+ <br><br><br>O toro é uma superfície de revolução obtida pela rotação de uma circunferência de raio r em torno de um eixo coplanar com a circunferência. A distância do centro da circunferência ao centro de rotação mede o raio do tubo R. As equações paramétricas para um toro azimutalmente simétrico em torno do eixo z são: x = (R + r&middot;cos(v))&middot;cos(u), y = (R + r&middot;cos(v))&middot;sin(u) e z = r&middot;sin(v), onde u, v &isin; [0, 2&pi;).
  <br><br><br>
 <a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <hr>
 <h4>2. Toro poliédrico</h4>
 <a href="../vr/torusN.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/4A.png" class="foto" alt="Toro poliédrico"></a><img src="../ar/4.png" class="qr">
- <br><br><br>Considere n troncos de cilindros iguais, equidistantes de um ponto. O sólido gerado por estes troncos de cilindros é um toro poliédrico de n lados, e as interseções dos troncos de cilindros são circunferências com raios iguais.
+ <br><br><br>Considere n troncos de cilindros iguais, equidistantes de um ponto e com eixos coplanares. O sólido gerado por estes troncos de cilindros é um toro poliédrico de n lados, e as interseções dos troncos de cilindros são circunferências com raios iguais.
  <br><br><br>
 <a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <hr>
@@ -68,7 +68,7 @@ Este trabalho mostra toros e toroides modelados em 3D, com as visualizações qu
 <hr>
 <h4>4. Toroide poligonal</h4>
 <a href="../vr/toroid_polygonal1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/5A.png" class="foto" alt="Toroide poligonal"></a><img src="../ar/5.png" class="qr">
- <br><br><br>O toroide poligonal é uma superfície de revolução obtida pela rotação de um polígono, em torno de um eixo paralelo ao plano que não intercepta a curva.
+ <br><br><br>O toroide poligonal é uma superfície de revolução obtida pela rotação de um polígono em torno de um eixo coplanar com o polígono.
  <br><br><br>
 <a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <hr>

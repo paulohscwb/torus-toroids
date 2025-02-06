@@ -50,13 +50,13 @@ This work shows torus and toroids modeled in 3D, with views that can be accessed
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXqLmyaITBm0flxwtDvgTFT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 <h4>1. Torus</h4>
 <a href="vr/torus.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/0A.png" class="foto" alt="Torus"></a><img src="ar/0.png" class="qr">
- <br><br><br>Let the radius from the center of the hole to the center of the torus tube be r, and the radius of the tube be R. The parametric equations for a torus azimuthally symmetric about the z-axis are: x = (R + r&middot;cos(v))&middot;cos(u), y = (R + r&middot;cos(v))&middot;sin(u) and z = r&middot;sin(v), for u, v &isin; [0, 2&pi;). 
+ <br><br><br>The torus is a surface of revolution obtained by rotating a circumference of radius r around an axis coplanar with the circumference. The distance from the circumference center to the rotation center measures the tube radius R. The parametric equations for a torus azimuthally symmetric about the z-axis are: x = (R + r&middot;cos(v))&middot;cos(u), y = (R + r&middot;cos(v))&middot;sin(u) and z = r&middot;sin(v), for u, v &isin; [0, 2&pi;). 
  <br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>2. Polyhedral torus</h4>
 <a href="vr/torusN.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/4A.png" class="foto" alt="Polyhedral torus"></a><img src="ar/4.png" class="qr">
- <br><br><br>Consider n equal cylinders frustums, equidistant from a point. The generated solid by the union of these cylinders frustums is a polyhedral torus with n sides, and the intersections of the cylinders frustums are circles with equal radii.
+ <br><br><br>Consider n equal cylinders frustums, equidistant from a point and with coplanar axes. The generated solid by the union of these cylinders frustums is a polyhedral torus with n sides, and the intersections of the cylinders frustums are circles with equal radii.
  <br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
@@ -68,7 +68,7 @@ This work shows torus and toroids modeled in 3D, with views that can be accessed
  <hr>
 <h4>4. Polygonal toroid</h4>
 <a href="vr/toroid_polygonal1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto" alt="Polygonal toroid"></a><img src="ar/5.png" class="qr">
- <br><br><br>The polygonal toroid is a surface of revolution obtained by rotating a polygon, around an axis parallel to the plane that does not intersect the curve.
+ <br><br><br>The polygonal toroid is a surface of revolution obtained by rotating a polygon around an axis coplanar with the polygon.
  <br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
