@@ -56,7 +56,7 @@ Este trabalho mostra toros e toroides modelados em 3D, com as visualizações qu
 <hr>
 <h4>2. Toro poliédrico</h4>
 <a href="../vr/torusN.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/4A.png" class="foto" alt="Toro poliédrico"></a><img src="../ar/4.png" class="qr">
- <br><br><br>Considere n cilindros iguais, equidistantes de um ponto. O sólido gerado é um toro poliédrico de n lados, e as interseções dos cilindros são circunferências com raios iguais.
+ <br><br><br>Considere n troncos de cilindros iguais, equidistantes de um ponto. O sólido gerado por estes troncos de cilindros é um toro poliédrico de n lados, e as interseções dos troncos de cilindros são circunferências com raios iguais.
  <br><br><br>
 <a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <hr>
@@ -74,7 +74,7 @@ Este trabalho mostra toros e toroides modelados em 3D, com as visualizações qu
 <hr>
 <h4>5. Toroide poliédrico</h4>
 <a href="../vr/toroid_polygonal.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Toroide poliédrico"></a><img src="../ar/1.png" class="qr">
- <br><br><br>Considere n prismas regulares iguais, equidistantes de um ponto P e com arestas laterais ortogonais ao eixo que passa por P. O sólido gerado pela união destes prismas é um toroide poliédrico com n lados, e as interseções dos prismas são polígonos regulares congruentes.
+ <br><br><br>Considere n troncos de prismas regulares iguais, equidistantes de um ponto P e com arestas laterais ortogonais ao eixo que passam por P. O sólido gerado pela união destes troncos de prismas é um toroide poliédrico com n lados, e as interseções dos troncos de prismas são polígonos regulares congruentes.
  <br><br><br>
 <a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <hr>
