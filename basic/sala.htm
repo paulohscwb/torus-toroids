@@ -30,7 +30,7 @@
 			<a-mixin id="botao2" geometry="radius:0.06; height:0.03;" material="opacity: 0.3; color:cyan;" clickable static-body></a-mixin>
 			<a-mixin id="piso" geometry="width: 40; height: 0.1; depth: 40;" material="opacity:0.07; color: rgb(100,100,100)" static-body shadow></a-mixin>
 			<a-mixin id="mfisicas" physics-collider collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.018" super-hands="colliderEvent: collisions; colliderEventProperty: els; colliderEndEvent: collisions; colliderEndEventProperty: clearedEls;"></a-mixin>
-			 <a-mixin id="pointer" raycaster="showLine: true; objects: #poli1, .poli, a-torus, a-tetrahedron, a-link, a-sphere, a-cylinder" collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els; colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-mixin>
+			 <a-mixin id="pointer" raycaster="showLine: true; objects: #poli1, .poli, a-torus, a-torus-knot, a-link, a-sphere, a-obj-model" collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els; colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-mixin>
 			<a-mixin id="controle" mixin="pointer"></a-mixin>
 			<a-mixin id="fc1" material="color: #cc0; side: double; opacity:0.92; metalness:0.5; roughness:0.6" geometry="radius:6; primitive: torus; radius-tubular:0.6; segments-radial: 30; segments-tubular: 75;"></a-mixin>
 			<a-mixin id="ar1" material="color: grey; wireframe: true; wireframeLinewidth: 1" geometry="radius:6.007; primitive: torus; radius-tubular:0.607; segments-radial: 30; segments-tubular: 75;"></a-mixin>
@@ -100,48 +100,48 @@
 		
 		<a-text mixin="texto1" position="-1.12 0.77 -0.04" value="Torus"></a-text>
 		<a-entity position="-0.75 0.85 -0.25" class="poli" mixin="poli1" scale="0.03 0.03 0.03">
-			<a-entity rotation="90 0 0" mixin="fc1"></a-entity>
-			<a-entity rotation="90 0 0" mixin="ar1"></a-entity>
+			<a-torus rotation="90 0 0" mixin="fc1"></a-torus>
+			<a-torus rotation="90 0 0" mixin="ar1"></a-torus>
 		</a-entity>
 		
 		<a-text mixin="texto1" position="-1.12 0.77 -0.54" value="Polyhedral torus"></a-text>
 		<a-entity position="-0.75 0.85 -0.77" class="poli" mixin="poli1" scale="0.03 0.03 0.03" shadow>
-			<a-entity rotation="90 0 0" mixin="fc2"></a-entity>
-			<a-entity rotation="90 0 0" mixin="ar2"></a-entity>
+			<a-torus rotation="90 0 0" mixin="fc2"></a-torus>
+			<a-torus rotation="90 0 0" mixin="ar2"></a-torus>
 		</a-entity>
 		
 		<a-text mixin="texto1" position="-0.38 0.77 -0.04" value="Torus knot"></a-text>
 		<a-entity position="-0.1 0.85 -0.25" class="poli" mixin="poli1" scale="0.03 0.03 0.03" shadow>
-			<a-entity rotation="90 0 0" mixin="fc3"></a-entity>
-			<a-entity rotation="90 0 0" mixin="ar3"></a-entity>
-			<a-entity rotation="90 0 0" mixin="fcT"></a-entity>
+			<a-torus-knot rotation="90 0 0" mixin="fc3"></a-torus-knot>
+			<a-torus-knot rotation="90 0 0" mixin="ar3"></a-torus-knot>
+			<a-torus rotation="90 0 0" mixin="fcT"></a-torus>
 		</a-entity>
 		
 		<a-text mixin="texto1" position="-0.38 0.77 -0.54" value="Polygonal toroid"></a-text>
 		<a-entity position="-0.1 0.85 -0.77" class="poli" mixin="poli1" scale="0.03 0.03 0.03" shadow>
-			<a-entity rotation="90 0 0" mixin="fc4"></a-entity>
-			<a-entity rotation="90 0 0" mixin="ar4"></a-entity>
+			<a-torus rotation="90 0 0" mixin="fc4"></a-torus>
+			<a-torus rotation="90 0 0" mixin="ar4"></a-torus>
 		</a-entity>
 		
 		<!-- segunda mesa: girada 180 graus, com afastamento 1.5-->
 		<a-text mixin="texto1" position="1.12 0.77 1.55" rotation="-90 180 0" value="Polyhedral toroid"></a-text>
 		<a-entity class="poli" mixin="poli1" position="0.75 0.85 1.75" scale="0.03 0.03 0.03" shadow>
-			<a-entity rotation="90 0 0" mixin="fc5"></a-entity>
-			<a-entity rotation="90 0 0" mixin="ar5"></a-entity>
+			<a-torus rotation="90 0 0" mixin="fc5"></a-torus>
+			<a-torus rotation="90 0 0" mixin="ar5"></a-torus>
 		</a-entity>
 		
 		<a-text mixin="texto1" position="1.12 0.77 2.05" rotation="-90 180 0" value="Polyhedral toroidal knot"></a-text>
 		<a-entity class="poli" mixin="poli1" position="0.75 0.85 2.25" scale="0.03 0.03 0.03" shadow>
-			<a-entity rotation="90 0 0" mixin="fc6"></a-entity>
-			<a-entity rotation="90 0 0" mixin="ar6"></a-entity>
+			<a-torus-knot rotation="90 0 0" mixin="fc6"></a-torus-knot>
+			<a-torus-knot rotation="90 0 0" mixin="ar6"></a-torus-knot>
 		</a-entity>
 			
 		<a-text mixin="texto1" position="0.38 0.77 1.62" rotation="-90 180 0" value="Borromean rings:"></a-text>
 		<a-text mixin="texto1" position="0.38 0.77 1.55" rotation="-90 180 0" value="torus knot"></a-text>
 		<a-entity class="poli" mixin="poli1" position="0 1.06 2" scale="0.04 0.04 0.04" shadow>
-			<a-entity rotation="90 0 0" mixin="fc7"></a-entity>
-			<a-entity rotation="0 90 0" mixin="fc8"></a-entity>
-			<a-entity rotation="0 0 90" mixin="fc9"></a-entity>
+			<a-torus-knot rotation="90 0 0" mixin="fc7"></a-torus-knot>
+			<a-torus-knot rotation="0 90 0" mixin="fc8"></a-torus-knot>
+			<a-torus rotation="0 0 90" mixin="fc9"></a-torus>
 		</a-entity>
 		
 		<a-text mixin="texto1" position="-0.38 0.77 1.62" rotation="-90 180 0" value="Borromean rings:"></a-text>
