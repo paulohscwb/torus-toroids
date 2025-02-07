@@ -62,7 +62,7 @@ This work shows torus and toroids modeled in 3D, with views that can be accessed
 <hr>
 <h4>3. Torus knot</h4>
 <a href="vr/torusKnotN.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/3A.png" class="foto" alt="Torus knot"></a><img src="ar/3.png" class="qr">
- <br><br><br>A (p, q) torus knot is obtained by winding a rope through the hole of a torus p times, with q revolutions before joining its ends, where p and q are relative prime numbers. The parametric equations for a torus azimuthally symmetric about the z-axis are: x = (R + r&middot;cos(q&middot;u))&middot;cos(p&middot;u), y = (R + r&middot;cos(q&middot;u))&middot;sin(p&middot;u) and z = r&middot;sin(q&middot;u), for u &isin; [0, 2&pi;).
+ <br><br><br>A (p, q) torus knot is obtained by winding a rope through the hole of a torus q times, with p revolutions before joining its ends, where p and q are relative prime numbers. The parametric equations for a torus azimuthally symmetric about the z-axis are: x = (R + r&middot;cos(q&middot;u))&middot;cos(p&middot;u), y = (R + r&middot;cos(q&middot;u))&middot;sin(p&middot;u) and z = r&middot;sin(q&middot;u), for u &isin; [0, 2&pi;).
  <br><br>
   <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
  <hr>
@@ -80,7 +80,7 @@ This work shows torus and toroids modeled in 3D, with views that can be accessed
  <hr>
 <h4>6. Polyhedral toroidal knot</h4>
 <a href="vr/toroid_polygonal_knot.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto" alt="Polyhedral toroidal knot"></a><img src="ar/2.png" class="qr">
- <br><br><br>A polyhedral toroidal knot (p, q) is obtained by winding a chain through the hole of a torus p times, with q revolutions before joining its ends, where p and q are relative prime numbers. The links of the chain are formed by prisms and prisms frustums.
+ <br><br><br>A polyhedral toroidal knot (p, q) is obtained by winding a chain through the hole of a torus q times, with p revolutions before joining its ends, where p and q are relative prime numbers. The links of the chain are formed by prisms and prisms frustums.
  <br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
