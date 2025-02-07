@@ -25,7 +25,7 @@ Este trabalho mostra toros e toroides modelados em 3D, com as visualizações qu
 <h3 style="margin-top:3px"><a target="_blank" href="../regular5/pt-br/"><img src="../regular5/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides poligonais regulares 5</a></h3>-->
 <hr>
 <h3 align="center">Salas imersivas</h3>
-<p align="center"><img src="../basic/vr/salas/videos/gs1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="../basic/vr/salas/videos/gs2.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>
+<p align="center"><img src="../basic/vr/salas/videos/torus-toroids1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="../basic/vr/salas/videos/torus-toroids1.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>
 <h3 align="center">Realidade Aumentada e modelos 3D</h3>
 <p align="center"><img src="../basic/ar/basic.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
