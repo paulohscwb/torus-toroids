@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../../scripts/style.css">
 <meta charset="utf-8">
-<link rel="icon" type="image/png" href="../vr/salas/imagens/icone.png">
+<link rel="icon" type="image/png" href="../basic/vr/salas/imagens/icone.png">
 <h2>Toros e toroides: visualização dos sólidos com Realidade Aumentada (RA) e Realidade Virtual (RV) em A-frame</h2>
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
