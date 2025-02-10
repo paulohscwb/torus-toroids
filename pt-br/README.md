@@ -10,7 +10,7 @@ Em geral, os toros também podem ter vários furos, sendo o termo n-toro usado p
 O toroide é uma superfície de revolução obtida pela rotação de uma curva plana fechada, ou um polígono, em torno de um eixo paralelo ao plano que não intercepta a curva. O toroide mais simples é o toro e o termo toroide é usado para se referir a um poliedro toroidal.
 Este trabalho mostra toros e toroides modelados em 3D, com as visualizações que podem ser acessadas com os recursos de Realidade Aumentada e também em salas imersivas de Realidade Virtual.
 <hr>
-<h3 style="margin-top:3px"><a target="_blank" href="../basic/pt-br/"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toros e toroides</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../basic/pt-br/"><img src="../basic/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toros e toroides</a></h3>
 <!--<h3 style="margin-top:3px"><a target="_blank" href="../tetragonal/pt-br/"><img src="../tetragonal/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides tetragonais</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../iris/pt-br/"><img src="../iris/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides de íris</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../mobius-cairo/pt-br/"><img src="../mobius-cairo/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides de Mobius e Cairo</a></h3>
