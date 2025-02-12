@@ -66,10 +66,8 @@
 		
 		<a-entity id="cameraRig">
 			<a-entity camera="fov:1; near:1;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 300 300 700; maxDistance: 1500;"></a-entity>
-			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: left"></a-entity>
+			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
 		</a-entity>
-		
-		<a-entity id="left-hand" teleport-controls></a-entity>
 		
 		<a-light type="ambient" color="white" intensity="0.4"></a-light>
 		<a-light type="directional" color="white" intensity="0.6" position="-3 2 1"></a-light>
