@@ -1,14 +1,14 @@
 <link rel="stylesheet" href="scripts/style.css">
 <meta charset="utf-8">
-<link rel="icon" type="image/png" href="ArchimedeanCatalanHulls/vr/salas/imagens/icone.png">
+<link rel="icon" type="image/png" href="basic/vr/salas/imagens/icone.png">
 <h2>Visualization of Torus and Toroids with Augmented Reality (AR) and Virtual Reality (VR) in A-frame</h2>
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/torus-toroids/pt-br/">versão em português</a>
  <br><br>An ordinary torus is considered a genus 1 surface. This solid has a single "hole", and can be constructed from a rectangle by gluing together both pairs of opposite edges without twists. The usual torus embedded in three-dimensional space is shaped like a donut, but the concept of a torus is also extremely useful in higher-dimensional space.
-In general, torus can also have multiple holes, with the term n-torus being used for a torus with n holes. The torus can be defined as the geometric locus formed by the rotation of a flat circular surface of radius r, around a circle of radius R.
-The toroid is a surface of revolution obtained by rotating a closed plane curve, or a polygon, around an axis parallel to the plane that does not intersect the curve. The simplest toroid is the torus and the term toroid is used to refer to a toroidal polyhedron.
-This work shows torus and toroids modeled in 3D, with views that can be accessed with Augmented Reality resources and also in immersive Virtual Reality rooms.
+<br>In general, torus can also have multiple holes, with the term n-torus being used for a torus with n holes. The torus can be defined as the geometric locus formed by the rotation of a flat circular surface of radius r, around a circle of radius R.
+<br>The toroid is a surface of revolution obtained by rotating a closed plane curve, or a polygon, around an axis parallel to the plane that does not intersect the curve. The simplest toroid is the torus and the term toroid is used to refer to a toroidal polyhedron.
+<br>This work shows torus and toroids modeled in 3D, with views that can be accessed with Augmented Reality resources and also in immersive Virtual Reality rooms.
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="basic/"><img src="basic/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Torus and toroids</a></h3>
 <!--<h3 style="margin-top:3px"><a target="_blank" href="tetragonal/"><img src="tetragonal/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tetragonal toroids</a></h3>

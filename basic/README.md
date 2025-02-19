@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../scripts/style.css">
 <meta charset="utf-8">
-<link rel="icon" type="image/png" href="basic/vr/salas/imagens/icone.png">
+<link rel="icon" type="image/png" href="vr/salas/imagens/icone.png">
 <h2>Torus and Toroids: visualization of solids with Augmented Reality (AR) and Virtual Reality (VR) in A-frame</h2>
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
@@ -32,8 +32,8 @@ function urlHandler(value) {
 <p id="p1"></p>
   <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Torus and Toroids</h2>
 An ordinary torus is considered a genus 1 surface. This solid has a single "hole", and can be constructed from a rectangle by gluing together both pairs of opposite edges without twists. The usual torus embedded in three-dimensional space is shaped like a donut.
-The toroid is a surface of revolution obtained by rotating a closed plane curve, or a polygon, around an axis parallel to the plane that does not intersect the curve. The simplest toroid is the torus, and the term toroid is used to refer to a toroidal polyhedron.
-This work shows torus and toroids modeled in 3D, with views that can be accessed with Augmented Reality resources and also in immersive Virtual Reality rooms.
+<br>The toroid is a surface of revolution obtained by rotating a closed plane curve, or a polygon, around an axis parallel to the plane that does not intersect the curve. The simplest toroid is the torus, and the term toroid is used to refer to a toroidal polyhedron.
+<br>This work shows torus and toroids modeled in 3D, with views that can be accessed with Augmented Reality resources and also in immersive Virtual Reality rooms.
 <p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
   <hr>
  <h3 align="center">Immersive room</h3>
