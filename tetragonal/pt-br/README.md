@@ -49,7 +49,7 @@ Este trabalho mostra toroides tetragonais modelados em 3D, com as visualizaçõe
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXgcL9RxOVEfCA1KDLByHZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 <h4>1. Toroide tetragonal triangular regular</h4>
 <a href="../vr/Regular3TetragonalToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/8A.png" class="foto" alt="Toroide tetragonal triangular regular"></a><img src="../ar/8.png" class="qr">
- <br><br><br><b>faces:</b> 3 retângulos e 6 trapézios isósceles
+ <br><br><b>faces:</b> 3 retângulos e 6 trapézios isósceles
  <br><b>vértices:</b> 9
  <br><b>arestas:</b> 18
  <br><br><br>
@@ -57,7 +57,7 @@ Este trabalho mostra toroides tetragonais modelados em 3D, com as visualizaçõe
 <hr>
 <h4>2. Toroide tetragonal triangular regular</h4>
 <a href="../vr/Regular3TetragonalToroid_A.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto" alt="Toroide tetragonal triangular regular"></a><img src="../ar/9.png" class="qr">
- <br><br><br><b>faces:</b> 6 retângulos e 12 trapézios isósceles
+ <br><br><b>faces:</b> 6 retângulos e 12 trapézios isósceles
  <br><b>vértices:</b> 18
  <br><b>arestas:</b> 36
  <br><br><br>
@@ -65,7 +65,7 @@ Este trabalho mostra toroides tetragonais modelados em 3D, com as visualizaçõe
 <hr>
 <h4>3. Toroide tetragonal triangular antiprismático regular</h4>
 <a href="../vr/RegularAntiprismaticTetragonalToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Toroide tetragonal triangular antiprismático regular"></a><img src="../ar/10.png" class="qr">
- <br><br><br><b>faces:</b> 12 dardos e 6 pipas
+ <br><br><b>faces:</b> 12 dardos e 6 pipas
  <br><b>vértices:</b> 18
  <br><b>arestas:</b> 36
  <br><br><br>
@@ -73,7 +73,7 @@ Este trabalho mostra toroides tetragonais modelados em 3D, com as visualizaçõe
 <hr>
 <h4>4. Toroide tetragonal triangular cúbico regular</h4>
 <a href="../vr/Regular3TetragonalToroid_C.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="Toroide tetragonal triangular cúbico regular"></a><img src="../ar/11.png" class="qr">
- <br><br><br><b>faces:</b> 12 pipas e 6 dardos
+ <br><br><b>faces:</b> 12 pipas e 6 dardos
  <br><b>vértices:</b> 18
  <br><b>arestas:</b> 36
  <br><br><br>
@@ -81,7 +81,7 @@ Este trabalho mostra toroides tetragonais modelados em 3D, com as visualizaçõe
 <hr>
 <h4>5. Toroide tetragonal quadrado regular</h4>
 <a href="../vr/Regular4TetragonalToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12A.png" class="foto" alt="Toroide tetragonal quadrado regular"></a><img src="../ar/12.png" class="qr">
- <br><br><br><b>faces:</b> 4 retângulos e 8 trapézios isósceles
+ <br><br><b>faces:</b> 4 retângulos e 8 trapézios isósceles
  <br><b>vértices:</b> 12
  <br><b>arestas:</b> 24
  <br><br><br>
@@ -89,7 +89,7 @@ Este trabalho mostra toroides tetragonais modelados em 3D, com as visualizaçõe
 <hr>
 <h4>6. Toroide trapezoedro antiprisma quadrado</h4>
 <a href="../vr/TetragonalAntiprismTrapezohedronToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13A.png" class="foto" alt="Toroide trapezoedro antiprisma quadrado"></a><img src="../ar/13.png" class="qr">
- <br><br><br><b>faces:</b> 8 triângulos equiláteros e 8 pentágonos simétricos
+ <br><br><b>faces:</b> 8 triângulos equiláteros e 8 pentágonos simétricos
  <br><b>vértices:</b> 16
  <br><b>arestas:</b> 32
  <br><br><br>
@@ -97,7 +97,7 @@ Este trabalho mostra toroides tetragonais modelados em 3D, com as visualizaçõe
 <hr>
 <h4>7. Toroide antiprisma trapezoedro quadrado</h4>
 <a href="../vr/TetragonalTrapezohedronAntiprismToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/14A.png" class="foto" alt="Toroide antiprisma trapezoedro quadrado"></a><img src="../ar/14.png" class="qr">
- <br><br><br><b>faces:</b> 8 triângulos equiláteros e 8 pentágonos simétricos
+ <br><br><b>faces:</b> 8 triângulos equiláteros e 8 pentágonos simétricos
  <br><b>vértices:</b> 16
  <br><b>arestas:</b> 32
  <br><br><br>
@@ -106,7 +106,7 @@ Este trabalho mostra toroides tetragonais modelados em 3D, com as visualizaçõe
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>8. Toroide trapezoedro quadrado</h4>
 <a href="../vr/TetragonalTrapezohedronToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15A.png" class="foto" alt="Toroide trapezoedro quadrado"></a><img src="../ar/15.png" class="qr">
- <br><br><br><b>faces:</b> 16 pentágonos simétricos
+ <br><br><b>faces:</b> 16 pentágonos simétricos
  <br><b>vértices:</b> 24
  <br><b>arestas:</b> 40
  <br><br><br>
@@ -114,7 +114,7 @@ Este trabalho mostra toroides tetragonais modelados em 3D, com as visualizaçõe
 <hr>
 <h4>9. Toroide tetragonal pentagonal regular</h4>
 <a href="../vr/Regular5TetragonalToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/16A.png" class="foto" alt="Toroide tetragonal pentagonal regular"></a><img src="../ar/16.png" class="qr">
- <br><br><br><b>faces:</b> 5 retângulos e 10 trapézios isósceles
+ <br><br><b>faces:</b> 5 retângulos e 10 trapézios isósceles
  <br><b>vértices:</b> 15
  <br><b>arestas:</b> 30
  <br><br><br>
@@ -122,7 +122,7 @@ Este trabalho mostra toroides tetragonais modelados em 3D, com as visualizaçõe
 <hr>
 <h4>10. Toroide tetragonal hexagonal regular</h4>
 <a href="../vr/Regular6TetragonalToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17A.png" class="foto" alt="Toroide tetragonal hexagonal regular"></a><img src="../ar/17.png" class="qr">
- <br><br><br><b>faces:</b> 6 retângulos e 12 trapézios isósceles
+ <br><br><b>faces:</b> 6 retângulos e 12 trapézios isósceles
  <br><b>vértices:</b> 18
  <br><b>arestas:</b> 36
  <br><br><br>
@@ -130,7 +130,7 @@ Este trabalho mostra toroides tetragonais modelados em 3D, com as visualizaçõe
 <hr>
 <h4>11. Toroide tetragonal heptagonal regular</h4>
 <a href="../vr/Regular7TetragonalToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18A.png" class="foto" alt="Toroide tetragonal heptagonal regular"></a><img src="../ar/18.png" class="qr">
- <br><br><br><b>faces:</b> 7 retângulos e 14 trapézios isósceles
+ <br><br><b>faces:</b> 7 retângulos e 14 trapézios isósceles
  <br><b>vértices:</b> 21
  <br><b>arestas:</b> 42
  <br><br><br>
@@ -138,7 +138,7 @@ Este trabalho mostra toroides tetragonais modelados em 3D, com as visualizaçõe
 <hr>
 <h4>12. Toroide tetragonal octogonal regular</h4>
 <a href="../vr/Regular8TetragonalToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/19A.png" class="foto" alt="Toroide tetragonal octogonal regular"></a><img src="../ar/19.png" class="qr">
- <br><br><br><b>faces:</b> 8 retângulos e 16 trapézios isósceles
+ <br><br><b>faces:</b> 8 retângulos e 16 trapézios isósceles
  <br><b>vértices:</b> 24
  <br><b>arestas:</b> 48
  <br><br><br>
@@ -146,7 +146,7 @@ Este trabalho mostra toroides tetragonais modelados em 3D, com as visualizaçõe
 <hr>
 <h4>13. Toroide tetragonal eneagonal regular</h4>
 <a href="../vr/Regular9TetragonalToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/20A.png" class="foto" alt="Toroide tetragonal eneagonal regular"></a><img src="../ar/20.png" class="qr">
- <br><br><br><b>faces:</b> 9 retângulos e 18 trapézios isósceles
+ <br><br><b>faces:</b> 9 retângulos e 18 trapézios isósceles
  <br><b>vértices:</b> 27
  <br><b>arestas:</b> 54
  <br><br><br>
@@ -154,7 +154,7 @@ Este trabalho mostra toroides tetragonais modelados em 3D, com as visualizaçõe
 <hr>
 <h4>14. Toroide tetragonal decagonal regular</h4>
 <a href="../vr/Regular10TetragonalToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/21A.png" class="foto" alt="Toroide tetragonal decagonal regular"></a><img src="../ar/21.png" class="qr">
- <br><br><br><b>faces:</b> 10 retângulos e 20 trapézios isósceles
+ <br><br><b>faces:</b> 10 retângulos e 20 trapézios isósceles
  <br><b>vértices:</b> 30
  <br><b>arestas:</b> 60
  <br><br><br>
