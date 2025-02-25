@@ -52,7 +52,7 @@ This work shows tetragonal toroids modeled in 3D, with views that can be accesse
  <br><br><b>faces:</b> 3 rectangles and 6 isosceles trapezoids
  <br><b>vertices:</b> 9
  <br><b>edges:</b> 18
- <br><br>
+ <br><br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>2. Regular triangular tetragonal toroid</h4>
@@ -60,7 +60,7 @@ This work shows tetragonal toroids modeled in 3D, with views that can be accesse
  <br><br><b>faces:</b> 6 rectangles and 12 isosceles trapezoids
  <br><b>vertices:</b> 18
  <br><b>edges:</b> 36
- <br><br>
+ <br><br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>3. Regular triangular antiprismatic tetragonal toroid</h4>
@@ -68,7 +68,7 @@ This work shows tetragonal toroids modeled in 3D, with views that can be accesse
  <br><br><b>faces:</b> 12 darts and 6 kites
  <br><b>vertices:</b> 18
  <br><b>edges:</b> 36
- <br><br>
+ <br><br><br>
   <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
  <hr>
 <h4>4. Regular triangular cubic tetragonal toroid</h4>
@@ -76,7 +76,7 @@ This work shows tetragonal toroids modeled in 3D, with views that can be accesse
  <br><br><b>faces:</b> 12 kites and 6 darts
  <br><b>vertices:</b> 18
  <br><b>edges:</b> 36
- <br><br>
+ <br><br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>5. Regular square tetragonal toroid</h4>
@@ -84,7 +84,7 @@ This work shows tetragonal toroids modeled in 3D, with views that can be accesse
  <br><br><b>faces:</b> 4 rectangles and 8 isosceles trapezoids
  <br><b>vertices:</b> 12
  <br><b>edges:</b> 24
- <br><br>
+ <br><br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
  <hr>
 <h4>6. Square antiprism trapezohedron toroid</h4>
@@ -92,7 +92,7 @@ This work shows tetragonal toroids modeled in 3D, with views that can be accesse
  <br><br><b>faces:</b> 8 equilateral triangles and 8 symmetric pentagons
  <br><b>vertices:</b> 16
  <br><b>edges:</b> 32
- <br><br>
+ <br><br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>7. Square trapezohedron antiprism toroid</h4>
@@ -100,7 +100,7 @@ This work shows tetragonal toroids modeled in 3D, with views that can be accesse
  <br><br><b>faces:</b> 8 equilateral triangles and 8 symmetric pentagons
  <br><b>vertices:</b> 16
  <br><b>edges:</b> 32
- <br><br>
+ <br><br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
@@ -109,7 +109,7 @@ This work shows tetragonal toroids modeled in 3D, with views that can be accesse
  <br><br><b>faces:</b> 16 symmetric pentagons
  <br><b>vertices:</b> 24
  <br><b>edges:</b> 40
- <br><br>
+ <br><br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>9. Regular pentagonal tetragonal toroid</h4>
@@ -117,7 +117,7 @@ This work shows tetragonal toroids modeled in 3D, with views that can be accesse
  <br><br><b>faces:</b> 5 rectangles and 10 isosceles trapezoids
  <br><b>vertices:</b> 15
  <br><b>edges:</b> 30
- <br><br>
+ <br><br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>10. Regular hexagonal tetragonal toroid</h4>
@@ -125,7 +125,7 @@ This work shows tetragonal toroids modeled in 3D, with views that can be accesse
  <br><br><b>faces:</b> 6 rectangles and 12 isosceles trapezoids
  <br><b>vertices:</b> 18
  <br><b>edges:</b> 36
- <br><br>
+ <br><br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>11. Regular heptagonal tetragonal toroid</h4>
@@ -133,7 +133,7 @@ This work shows tetragonal toroids modeled in 3D, with views that can be accesse
  <br><br><b>faces:</b> 7 rectangles and 14 isosceles trapezoids
  <br><b>vertices:</b> 21
  <br><b>edges:</b> 42
- <br><br>
+ <br><br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>12. Regular octagonal tetragonal toroid</h4>
@@ -141,7 +141,7 @@ This work shows tetragonal toroids modeled in 3D, with views that can be accesse
  <br><br><b>faces:</b> 8 rectangles and 16 isosceles trapezoids
  <br><b>vertices:</b> 24
  <br><b>edges:</b> 48
- <br><br>
+ <br><br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>13. Regular enneagonal tetragonal toroid</h4>
@@ -149,7 +149,7 @@ This work shows tetragonal toroids modeled in 3D, with views that can be accesse
  <br><br><b>faces:</b> 9 rectangles and 18 isosceles trapezoids
  <br><b>vertices:</b> 27
  <br><b>edges:</b> 54
- <br><br>
+ <br><br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>14. Regular decagonal tetragonal toroid</h4>
@@ -157,7 +157,7 @@ This work shows tetragonal toroids modeled in 3D, with views that can be accesse
  <br><br><b>faces:</b> 10 rectangles and 20 isosceles trapezoids
  <br><b>vertices:</b> 30
  <br><b>edges:</b> 60
- <br><br>
+ <br><br><br>
  <a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <hr>
