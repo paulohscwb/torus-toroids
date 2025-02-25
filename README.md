@@ -11,8 +11,8 @@
 <br>This work shows torus and toroids modeled in 3D, with views that can be accessed with Augmented Reality resources and also in immersive Virtual Reality rooms.
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="basic/"><img src="basic/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Torus and toroids</a></h3>
-<!--<h3 style="margin-top:3px"><a target="_blank" href="tetragonal/"><img src="tetragonal/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tetragonal toroids</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="iris/"><img src="iris/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Iris toroids</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="tetragonal/"><img src="tetragonal/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Tetragonal toroids</a></h3>
+<!--<h3 style="margin-top:3px"><a target="_blank" href="iris/"><img src="iris/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Iris toroids</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="mobius-cairo/"><img src="mobius-cairo/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40">Mobius and Cairo toroids</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="regular/"><img src="regular/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Regular toroids</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="hexagonal/"><img src="hexagonal/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Hexagonal toroids</a></h3>

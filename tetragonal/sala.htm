@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Torus and toroids</title>
+	<link rel="icon" type="image/png" href="vr/salas/imagens/icone.png">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+    <script src="https://unpkg.com/super-hands/dist/super-hands.min.js"></script>
+    <script src="https://rawgit.com/donmccurdy/aframe-physics-system/v4.0.1/dist/aframe-physics-system.min.js"></script>
+    <script src="https://unpkg.com/aframe-physics-extras/dist/aframe-physics-extras.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/gh/donmccurdy/aframe-extras@v6.1.1/dist/aframe-extras.misc.min.js"></script>
+	<script src="vr/nomes.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+  </head>
+  <body>
+  <div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Lato; font-size:2.75vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2025 Paulo Henrique Siqueira</div>
+	<div style='position: fixed; top: 43px; width:100%; text-align: center; z-index: -2;' id="info">
+		<font face="verdana" size="5" color="DarkSlateBlue">Loading...</font>
+	</div>
+	<script>
+		setTimeout(() => {
+		let get = document.getElementById('info');
+			get.style.display = 'none';
+		}, 5000);
+	</script>
+	<a-scene physics="gravity:-1; iterations:5;" shadow="type: pcfsoft" renderer="antialias: true; colorManagement: true; highRefreshRate: true;"> <!--logarithmicDepthBuffer: true-->
+        <a-assets>
+			<a-mixin id="poliA" shadow hoverable grabbable stretchable draggable droppable dynamic-body="linearDamping:0.05; angularDamping:0.05; mass:5; shape: auto"></a-mixin>
+			<a-mixin id="botao1" geometry="radius:0.06; height:0.03; phi-length: 180" scale="1 1 0.5" material="opacity: 0.22; color:yellow;" clickable static-body></a-mixin>
+			<a-mixin id="botao2" geometry="radius:0.06; height:0.03;" material="opacity: 0.3; color:cyan;" clickable static-body></a-mixin>
+			<a-mixin id="piso" geometry="width: 40; height: 0.1; depth: 40;" material="opacity:0.07; color: rgb(100,100,100)" static-body shadow></a-mixin>
+			<a-mixin id="mfisicas" physics-collider collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.018" super-hands="colliderEvent: collisions; colliderEventProperty: els; colliderEndEvent: collisions; colliderEndEventProperty: clearedEls;"></a-mixin>
+			 <a-mixin id="pointer" raycaster="showLine: true; objects: #poliA, .poli, a-torus, a-tetrahedron, a-link, a-sphere, a-cylinder" collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els; colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-mixin>
+			<a-mixin id="controle" mixin="pointer"></a-mixin>
+			<a-asset-item id="mtr" src="obj/c1.mtl"></a-asset-item>
+			<a-mixin id="mtl9" material="color: #8ec; side:double; metalness:0.4; roughness:0.5;" geometry="segments-height:20; segments-width:20;"></a-mixin>
+			<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.03067;"></a-mixin>
+			<a-mixin id="esfera1" mixin="mtl9" geometry="radius: 0.3833;"></a-mixin>
+			<a-mixin id="esfera2" mixin="mtl9" geometry="radius: 0.115;"></a-mixin>
+			<a-mixin id="esfera3" mixin="mtl9" geometry="radius: 0.4313;"></a-mixin>
+			<a-mixin id="esfera4" mixin="mtl9" geometry="radius: 0.03286;"></a-mixin>
+			<a-mixin id="esfera5" mixin="mtl9" geometry="radius: 0.0184;"></a-mixin>
+			<a-mixin id="esfera6" mixin="mtl9" geometry="radius: 0.07667;"></a-mixin>
+			<a-mixin id="esfera7" mixin="mtl9" geometry="radius: 0.02123;"></a-mixin>
+			<a-mixin id="esfera8" mixin="mtl9" geometry="radius: 0.03286;"></a-mixin>
+			<a-asset-item id="poli" src="obj/Regular3TetragonalToroid.obj"></a-asset-item>
+			<a-asset-item id="poliw" src="obj/Regular3TetragonalToroidL.obj"></a-asset-item>
+			<a-asset-item id="poli1" src="obj/Regular3TetragonalToroid_A.obj"></a-asset-item>
+			<a-asset-item id="poliw1" src="obj/Regular3TetragonalToroid_AL.obj"></a-asset-item>
+			<a-asset-item id="poli2" src="obj/Regular3TetragonalToroid_C.obj"></a-asset-item>
+			<a-asset-item id="poliw2" src="obj/Regular3TetragonalToroid_CL.obj"></a-asset-item>
+			<a-asset-item id="poli3" src="obj/Regular3TetragonalToroid_B.obj"></a-asset-item>
+			<a-asset-item id="poliw3" src="obj/Regular3TetragonalToroid_BL.obj"></a-asset-item>
+			<a-asset-item id="poli4" src="obj/Regular4TetragonalToroid.obj"></a-asset-item>
+			<a-asset-item id="poliw4" src="obj/Regular4TetragonalToroidL.obj"></a-asset-item>
+			<a-asset-item id="poli5" src="obj/TetragonalAntiprismTrapezohedronToroid.obj"></a-asset-item>
+			<a-asset-item id="poliw5" src="obj/TetragonalAntiprismTrapezohedronToroidL.obj"></a-asset-item>
+			<a-asset-item id="poli6" src="obj/TetragonalTrapezohedronAntiprismToroid.obj"></a-asset-item>
+			<a-asset-item id="poliw6" src="obj/TetragonalTrapezohedronAntiprismToroidL.obj"></a-asset-item>
+			<a-asset-item id="poli7" src="obj/TetragonalTrapezohedronToroid.obj"></a-asset-item>
+			<a-asset-item id="poliw7" src="obj/TetragonalTrapezohedronToroidL.obj"></a-asset-item>
+			<a-asset-item id="poli8" src="obj/Regular5TetragonalToroid.obj"></a-asset-item>
+			<a-asset-item id="poliw8" src="obj/Regular5TetragonalToroidL.obj"></a-asset-item>
+			<a-asset-item id="poli9" src="obj/Regular6TetragonalToroid.obj"></a-asset-item>
+			<a-asset-item id="poliw9" src="obj/Regular6TetragonalToroidL.obj"></a-asset-item>
+			<a-asset-item id="poli10" src="obj/Regular7TetragonalToroid.obj"></a-asset-item>
+			<a-asset-item id="poliw10" src="obj/Regular7TetragonalToroidL.obj"></a-asset-item>
+			<a-asset-item id="poli11" src="obj/Regular8TetragonalToroid.obj"></a-asset-item>
+			<a-asset-item id="poliw11" src="obj/Regular8TetragonalToroidL.obj"></a-asset-item>
+			<a-asset-item id="poli12" src="obj/Regular9TetragonalToroid.obj"></a-asset-item>
+			<a-asset-item id="poliw12" src="obj/Regular9TetragonalToroidL.obj"></a-asset-item>
+			<a-asset-item id="poli13" src="obj/Regular10TetragonalToroid.obj"></a-asset-item>
+			<a-asset-item id="poliw13" src="obj/Regular10TetragonalToroidL.obj"></a-asset-item>
+			
+			<a-mixin id="texto" rotation="-90 0 0" text="width: 1.75; side:double; color: lightgreen; xOffset:0.03; align:center;"></a-mixin>
+			<a-mixin id="texto1" mixin="texto" text="align:left; width: 1.3;"></a-mixin>
+        </a-assets>
+        <a-entity id="cameraRig">
+           <a-camera id="head" look-controls wasd-controls-enabled="false" position="0 1.7 1" cursor="rayOrigin:mouse" static-body="shape: sphere; sphereRadius: 0.001" super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els; colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-camera>
+           <a-entity id="lhand" mixin="mfisicas" hand-controls="hand: left"></a-entity>
+		   <a-entity id="rhand" mixin="controle" hand-controls="hand: right"></a-entity>
+        </a-entity>
+        <a-box mixin="piso" class="piso" visible="false" position="0 -0.05 0"></a-box>
+        <a-gltf-model static-body src="../imagens/mesa1_6.glb" position="0 0 0" shadow></a-gltf-model>
+		<a-gltf-model static-body src="../imagens/mesa2_8.glb" position="0 0 0" shadow></a-gltf-model>
+		<a-light type="point" color="yellow" intensity="0.5" position="0 0 0"></a-light>
+		
+		<a-text mixin="texto1" position="-1.12 0.77 -0.04" value="Triangular tetragonal toroid"></a-text>
+		<a-entity position="-0.75 0.85 -0.25" class="poliB" mixin="poliA" scale="1.21 1.21 1.21">
+			<a-light type="point" color="white" intensity="0.05" position="0 0 0"></a-light>
+			<a-obj-model id="fc" src="#poli" mtl="#mtr" scale="0.998 0.998 0.998" rotation="90 0 0"></a-obj-model>
+			<a-obj-model id="ar" src="#poliw" mtl="#mtr" rotation="90 0 0"></a-obj-model>
+			<a-entity rotation="90 0 0">
+				<a-sphere mixin='esfera' position='-1.224 -0.707 0'></a-sphere>
+				<a-sphere mixin='esfera' position='1.224 -0.707 0'></a-sphere>
+				<a-sphere mixin='esfera' position='0 1.413 0'></a-sphere>
+				<a-sphere mixin='esfera' position='-0.758 -0.438 -0.35'></a-sphere>
+				<a-sphere mixin='esfera' position='0.758 -0.438 -0.35'></a-sphere>
+				<a-sphere mixin='esfera' position='0 0.876 -0.35'></a-sphere>
+				<a-sphere mixin='esfera' position='-0.758 -0.438 0.35'></a-sphere>
+				<a-sphere mixin='esfera' position='0.758 -0.438 0.35'></a-sphere>
+				<a-sphere mixin='esfera' position='0 0.876 0.35'></a-sphere>
+			</a-entity>
+		</a-entity>
+		
+		<a-text mixin="texto1" position="-1.12 0.77 -0.54" value="Triangular tetragonal toroid"></a-text>
+		<a-entity position="-0.75 0.85 -0.77" class="poliB" mixin="poliA" scale="0.097 0.097 0.097" shadow>
+			<a-light type="point" color="white" intensity="0.05" position="0 0 0"></a-light>
+			<a-obj-model id="fc" src="#poli1" mtl="#mtr" scale="0.998 0.998 0.998" rotation="-35 -15 45"></a-obj-model>
+			<a-obj-model id="ar" src="#poliw1" mtl="#mtr" rotation="-35 -15 45"></a-obj-model>
+			<a-entity rotation="-35 -15 45">
+				<a-sphere mixin='esfera1' position='15.899 -6.4495 -6.4495'></a-sphere>
+				<a-sphere mixin='esfera1' position='-6.4495 15.899 -6.4495'></a-sphere>
+				<a-sphere mixin='esfera1' position='-8.4495 -8.4495 13.899'></a-sphere>
+				<a-sphere mixin='esfera1' position='13.899 -8.4495 -8.4495'></a-sphere>
+				<a-sphere mixin='esfera1' position='-8.4495 13.899 -8.4495'></a-sphere>
+				<a-sphere mixin='esfera1' position='-3.0 -3.0 12.0'></a-sphere>
+				<a-sphere mixin='esfera1' position='12.0 -3.0 -3.0'></a-sphere>
+				<a-sphere mixin='esfera1' position='-3.0 12.0 -3.0'></a-sphere>
+				<a-sphere mixin='esfera1' position='-7.0 -7.0 8.0'></a-sphere>
+				<a-sphere mixin='esfera1' position='8.0 -7.0 -7.0'></a-sphere>
+				<a-sphere mixin='esfera1' position='-7.0 8.0 -7.0'></a-sphere>
+				<a-sphere mixin='esfera1' position='-1.5505 -1.5505 6.101'></a-sphere>
+				<a-sphere mixin='esfera1' position='6.101 -1.5505 -1.5505'></a-sphere>
+				<a-sphere mixin='esfera1' position='-1.5505 6.101 -1.5505'></a-sphere>
+				<a-sphere mixin='esfera1' position='-3.5505 -3.5505 4.101'></a-sphere>
+				<a-sphere mixin='esfera1' position='4.101 -3.5505 -3.5505'></a-sphere>
+				<a-sphere mixin='esfera1' position='-3.5505 4.101 -3.5505'></a-sphere>
+				<a-sphere mixin='esfera1' position='-6.4495 -6.4495 15.899'></a-sphere>
+			</a-entity>
+		</a-entity>
+		
+		<a-text mixin="texto1" position="-0.38 0.77 -0.04" value="Triangular antiprismatic tetragonal toroid"></a-text>
+		<a-entity position="-0.1 0.85 -0.25" class="poliB" mixin="poliA" scale="0.086 0.086 0.086" shadow>
+			<a-light type="point" color="white" intensity="0.05" position="0 0 0"></a-light>
+			<a-obj-model id="fc" src="#poli3" mtl="#mtr" scale="0.998 0.998 0.998" rotation="-35 -15 45"></a-obj-model>
+			<a-obj-model id="ar" src="#poliw3" mtl="#mtr" rotation="-35 -15 45"></a-obj-model>
+			<a-entity rotation="-35 -15 45">
+				<a-sphere mixin='esfera3' position='0 0 -18.9'></a-sphere>
+				<a-sphere mixin='esfera3' position='18.9 0 0'></a-sphere>
+				<a-sphere mixin='esfera3' position='-18.9 0 0'></a-sphere>
+				<a-sphere mixin='esfera3' position='0 18.9 0'></a-sphere>
+				<a-sphere mixin='esfera3' position='0 -18.9 0'></a-sphere>
+				<a-sphere mixin='esfera3' position='-1.6 -1.6 2.9'></a-sphere>
+				<a-sphere mixin='esfera3' position='1.6 1.6 -2.9'></a-sphere>
+				<a-sphere mixin='esfera3' position='-2.9 1.6 1.6'></a-sphere>
+				<a-sphere mixin='esfera3' position='2.9 -1.6 -1.6'></a-sphere>
+				<a-sphere mixin='esfera3' position='1.6 -2.9 1.6'></a-sphere>
+				<a-sphere mixin='esfera3' position='-1.6 2.9 -1.6'></a-sphere>
+				<a-sphere mixin='esfera3' position='-5.4 -5.4 8.1'></a-sphere>
+				<a-sphere mixin='esfera3' position='5.4 5.4 -8.1'></a-sphere>
+				<a-sphere mixin='esfera3' position='-8.1 5.4 5.4'></a-sphere>
+				<a-sphere mixin='esfera3' position='8.1 -5.4 -5.4'></a-sphere>
+				<a-sphere mixin='esfera3' position='5.4 -8.1 5.4'></a-sphere>
+				<a-sphere mixin='esfera3' position='-5.4 8.1 -5.4'></a-sphere>
+				<a-sphere mixin='esfera3' position='0 0 18.9'></a-sphere>
+			</a-entity>
+		</a-entity>
+		
+		<a-text mixin="texto1" position="-0.38 0.77 -0.54" value="Triangular cubic tetragonal toroid"></a-text>
+		<a-entity position="-0.1 0.85 -0.25" class="poliB" mixin="poliA" scale="0.32 0.32 0.32" shadow>
+			<a-light type="point" color="white" intensity="0.05" position="0 0 0"></a-light>
+			<a-obj-model id="fc" src="#poli2" mtl="#mtr" scale="0.998 0.998 0.998" rotation="-35 -15 45"></a-obj-model>
+			<a-obj-model id="ar" src="#poliw2" mtl="#mtr" rotation="-35 -15 45"></a-obj-model>
+			<a-entity rotation="-35 -15 45">
+				<a-sphere mixin='esfera2' position='2.8 -2.8 -2.8'></a-sphere>
+				<a-sphere mixin='esfera2' position='2.8 -2.8 2.8'></a-sphere>
+				<a-sphere mixin='esfera2' position='-2.8 2.8 -2.8'></a-sphere>
+				<a-sphere mixin='esfera2' position='2.8 2.8 -2.8'></a-sphere>
+				<a-sphere mixin='esfera2' position='-2.8 -2.8 2.8'></a-sphere>
+				<a-sphere mixin='esfera2' position='-1 2.5 2.5'></a-sphere>
+				<a-sphere mixin='esfera2' position='1 -2.5 -2.5'></a-sphere>
+				<a-sphere mixin='esfera2' position='-2.5 1 -2.5'></a-sphere>
+				<a-sphere mixin='esfera2' position='2.5 -1 2.5'></a-sphere>
+				<a-sphere mixin='esfera2' position='-2.5 -2.5 1'></a-sphere>
+				<a-sphere mixin='esfera2' position='2.5 2.5 -1'></a-sphere>
+				<a-sphere mixin='esfera2' position='-2.8 -1.4 -1.4'></a-sphere>
+				<a-sphere mixin='esfera2' position='2.8 1.4 1.4'></a-sphere>
+				<a-sphere mixin='esfera2' position='1.4 2.8 1.4'></a-sphere>
+				<a-sphere mixin='esfera2' position='-1.4 -2.8 -1.4'></a-sphere>
+				<a-sphere mixin='esfera2' position='1.4 1.4 2.8'></a-sphere>
+				<a-sphere mixin='esfera2' position='-1.4 -1.4 -2.8'></a-sphere>
+				<a-sphere mixin='esfera2' position='-2.8 2.8 2.8'></a-sphere>
+			</a-entity>
+		</a-entity>
+		
+		<a-text mixin="texto1" position="0.38 0.77 -0.04" value="Square tetragonal toroid"></a-text>
+		<a-entity position="0.75 0.85 -0.25" class="poliB" mixin="poliA" scale="1.13 1.13 1.13" shadow>
+			<a-light type="point" color="white" intensity="0.05" position="0 0 0"></a-light>
+			<a-obj-model id="fc" src="#poli4" mtl="#mtr" scale="0.998 0.998 0.998" rotation="90 0 0"></a-obj-model>
+			<a-obj-model id="ar" src="#poliw4" mtl="#mtr" rotation="90 0 0"></a-obj-model>
+			<a-entity rotation="90 0 0">
+				<a-sphere mixin='esfera4' position='-1 -1 0'></a-sphere>
+				<a-sphere mixin='esfera4' position='1 -1 0'></a-sphere>
+				<a-sphere mixin='esfera4' position='1 1 0'></a-sphere>
+				<a-sphere mixin='esfera4' position='-1 1 0'></a-sphere>
+				<a-sphere mixin='esfera4' position='-0.62 -0.62 -0.35'></a-sphere>
+				<a-sphere mixin='esfera4' position='0.62 -0.62 -0.35'></a-sphere>
+				<a-sphere mixin='esfera4' position='0.62 0.62 -0.35'></a-sphere>
+				<a-sphere mixin='esfera4' position='-0.62 0.62 -0.35'></a-sphere>
+				<a-sphere mixin='esfera4' position='-0.62 -0.62 0.35'></a-sphere>
+				<a-sphere mixin='esfera4' position='0.62 -0.62 0.35'></a-sphere>
+				<a-sphere mixin='esfera4' position='0.62 0.62 0.35'></a-sphere>
+				<a-sphere mixin='esfera4' position='-0.62 0.62 0.35'></a-sphere>
+			</a-entity>
+		</a-entity>
+		
+		<a-text mixin="texto1" position="0.38 0.77 -0.54" value="Square antiprism trapezohedron toroid"></a-text>
+		<a-entity position="0.75 0.85 -0.25" class="poliB" mixin="poliA" scale="2.05 2.05 2.05" shadow>
+			<a-light type="point" color="white" intensity="0.05" position="0 0 0"></a-light>
+			<a-obj-model id="fc" src="#poli5" mtl="#mtr" scale="0.998 0.998 0.998" rotation="90 -30 0"></a-obj-model>
+			<a-obj-model id="ar" src="#poliw5" mtl="#mtr" rotation="90 -30 0"></a-obj-model>
+			<a-entity rotation="90 -30 0">
+				<a-sphere mixin='esfera5' position='0.6533 -0.2706 -0.4204'></a-sphere>
+				<a-sphere mixin='esfera5' position='-0.6533 -0.2706 0.4204'></a-sphere>
+				<a-sphere mixin='esfera5' position='-0.6533 0.2706 -0.4204'></a-sphere>
+				<a-sphere mixin='esfera5' position='0.2706 -0.6533 0.4204'></a-sphere>
+				<a-sphere mixin='esfera5' position='0.2706 0.6533 -0.4204'></a-sphere>
+				<a-sphere mixin='esfera5' position='-0.2706 0.6533 0.4204'></a-sphere>
+				<a-sphere mixin='esfera5' position='-0.2706 -0.6533 -0.4204'></a-sphere>
+				<a-sphere mixin='esfera5' position='0.2706 -0.1121 0.0721'></a-sphere>
+				<a-sphere mixin='esfera5' position='0.2706 0.1121 -0.0721'></a-sphere>
+				<a-sphere mixin='esfera5' position='-0.2706 0.1121 0.0721'></a-sphere>
+				<a-sphere mixin='esfera5' position='-0.2706 -0.1121 -0.0721'></a-sphere>
+				<a-sphere mixin='esfera5' position='0.1121 0.2706 0.0721'></a-sphere>
+				<a-sphere mixin='esfera5' position='0.1121 -0.2706 -0.0721'></a-sphere>
+				<a-sphere mixin='esfera5' position='-0.1121 -0.2706 0.0721'></a-sphere>
+				<a-sphere mixin='esfera5' position='-0.1121 0.2706 -0.0721'></a-sphere>
+				<a-sphere mixin='esfera5' position='0.6533 0.2706 0.4204'></a-sphere>
+			</a-entity>
+		</a-entity>
+		
+		<!-- segunda mesa: girada 180 graus, com afastamento 1.5-->
+		<a-text mixin="texto1" position="1.52 0.77 1.55" rotation="-90 180 0" value="Square trapezohedron antiprism toroid"></a-text>
+		<a-entity class="poliB" mixin="poliA" position="1.1 0.85 1.75" scale="0.486 0.486 0.486" shadow>
+			<a-light type="point" color="white" intensity="0.05" position="0 0 0"></a-light>
+			<a-obj-model id="fc" src="#poli6" mtl="#mtr" scale="0.998 0.998 0.998" rotation="90 -30 0"></a-obj-model>
+			<a-obj-model id="ar" src="#poliw6" mtl="#mtr" rotation="90 -30 0"></a-obj-model>
+			<a-entity rotation="90 -30 0">
+				<a-sphere mixin='esfera6' position='0.0 2.6525 -1.5772'></a-sphere>
+				<a-sphere mixin='esfera6' position='-1.8756 -1.8756 1.5772'></a-sphere>
+				<a-sphere mixin='esfera6' position='0.0 -2.6525 -1.5772'></a-sphere>
+				<a-sphere mixin='esfera6' position='-1.8756 1.8756 1.5772'></a-sphere>
+				<a-sphere mixin='esfera6' position='2.6525 0.0 -1.5772'></a-sphere>
+				<a-sphere mixin='esfera6' position='1.8756 -1.8756 1.5772'></a-sphere>
+				<a-sphere mixin='esfera6' position='-2.6525 0.0 -1.5772'></a-sphere>
+				<a-sphere mixin='esfera6' position='0.0 3.2961 -0.8118'></a-sphere>
+				<a-sphere mixin='esfera6' position='2.3307 2.3307 0.8118'></a-sphere>
+				<a-sphere mixin='esfera6' position='0.0 -3.2961 -0.8118'></a-sphere>
+				<a-sphere mixin='esfera6' position='-2.3307 -2.3307 0.8118'></a-sphere>
+				<a-sphere mixin='esfera6' position='3.2961 0.0 -0.8118'></a-sphere>
+				<a-sphere mixin='esfera6' position='-2.3307 2.3307 0.8118'></a-sphere>
+				<a-sphere mixin='esfera6' position='-3.2961 0.0 -0.8118'></a-sphere>
+				<a-sphere mixin='esfera6' position='2.3307 -2.3307 0.8118'></a-sphere>
+				<a-sphere mixin='esfera6' position='1.8756 1.8756 1.5772'></a-sphere>
+			</a-entity>
+		</a-entity>
+		
+		<a-text mixin="texto1" position="1.52 0.77 2.05" rotation="-90 180 0" value="Square trapezohedron toroid"></a-text>
+		<a-entity class="poliB" mixin="poliA" position="1.1 0.85 2.25" scale="1.755 1.755 1.755" shadow>
+			<a-light type="point" color="white" intensity="0.05" position="0 0 0"></a-light>
+			<a-obj-model id="fc" src="#poli7" mtl="#mtr" scale="0.998 0.998 0.998" rotation="90 -30 0"></a-obj-model>
+			<a-obj-model id="ar" src="#poliw7" mtl="#mtr" rotation="90 -30 0"></a-obj-model>
+			<a-entity rotation="90 -30 0">
+				<a-sphere mixin='esfera7' position='0.6533 -0.2706 -0.4204'></a-sphere>
+				<a-sphere mixin='esfera7' position='-0.6533 -0.2706 0.4204'></a-sphere>
+				<a-sphere mixin='esfera7' position='-0.6533 0.2706 -0.4204'></a-sphere>
+				<a-sphere mixin='esfera7' position='0.2706 -0.6533 0.4204'></a-sphere>
+				<a-sphere mixin='esfera7' position='0.2706 0.6533 -0.4204'></a-sphere>
+				<a-sphere mixin='esfera7' position='-0.2706 0.6533 0.4204'></a-sphere>
+				<a-sphere mixin='esfera7' position='-0.2706 -0.6533 -0.4204'></a-sphere>
+				<a-sphere mixin='esfera7' position='0.8118 0.3363 0.2164'></a-sphere>
+				<a-sphere mixin='esfera7' position='0.8118 -0.3363 -0.2164'></a-sphere>
+				<a-sphere mixin='esfera7' position='-0.8118 -0.3363 0.2164'></a-sphere>
+				<a-sphere mixin='esfera7' position='-0.8118 0.3363 -0.2164'></a-sphere>
+				<a-sphere mixin='esfera7' position='0.3363 -0.8118 0.2164'></a-sphere>
+				<a-sphere mixin='esfera7' position='0.3363 0.8118 -0.2164'></a-sphere>
+				<a-sphere mixin='esfera7' position='-0.3363 0.8118 0.2164'></a-sphere>
+				<a-sphere mixin='esfera7' position='-0.3363 -0.8118 -0.2164'></a-sphere>
+				<a-sphere mixin='esfera7' position='0.2706 -0.1121 0.0721'></a-sphere>
+				<a-sphere mixin='esfera7' position='0.2706 0.1121 -0.0721'></a-sphere>
+				<a-sphere mixin='esfera7' position='-0.2706 0.1121 0.0721'></a-sphere>
+				<a-sphere mixin='esfera7' position='-0.2706 -0.1121 -0.0721'></a-sphere>
+				<a-sphere mixin='esfera7' position='0.1121 0.2706 0.0721'></a-sphere>
+				<a-sphere mixin='esfera7' position='0.1121 -0.2706 -0.0721'></a-sphere>
+				<a-sphere mixin='esfera7' position='-0.1121 -0.2706 0.0721'></a-sphere>
+				<a-sphere mixin='esfera7' position='-0.1121 0.2706 -0.0721'></a-sphere>
+				<a-sphere mixin='esfera7' position='0.6533 0.2706 0.4204'></a-sphere>
+			</a-entity>
+		</a-entity>
+			
+		<a-text mixin="texto1" position="0.88 0.77 1.55" rotation="-90 180 0" value="Regular pentagonal tetragonal toroid"></a-text>
+		<a-entity class="poliB" mixin="poliA" position="0.38 1.06 1.75" scale="1.13 1.13 1.13" shadow>
+			<a-light type="point" color="white" intensity="0.05" position="0 0 0"></a-light>
+			<a-obj-model id="fc" src="#poli8" mtl="#mtr" scale="0.998 0.998 0.998" rotation="90 0 0"></a-obj-model>
+			<a-obj-model id="ar" src="#poliw8" mtl="#mtr" rotation="90 0 0"></a-obj-model>
+			<a-entity rotation="90 0 0">
+				<a-sphere mixin='esfera8' position='-0.831 -1.143 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.831 -1.143 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='1.344 0.437 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='0 1.413 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='-1.344 0.437 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.515 -0.708 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.515 -0.708 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.833 0.271 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0 0.876 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.833 0.271 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.515 -0.708 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.515 -0.708 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.833 0.271 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0 0.876 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.833 0.271 0.35'></a-sphere>
+			</a-entity>
+		</a-entity>
+		
+		<a-text mixin="texto1" position="0.88 0.77 2.05" rotation="-90 180 0" value="Regular hexagonal tetragonal toroid"></a-text>
+		<a-entity class="poliB" mixin="poliA" position="0.38 1.06 2.25" scale="1.13 1.13 1.13" shadow>
+			<a-light type="point" color="white" intensity="0.05" position="0 0 0"></a-light>
+			<a-obj-model id="fc" src="#poli9" mtl="#mtr" scale="0.998 0.998 0.998" rotation="90 0 0"></a-obj-model>
+			<a-obj-model id="ar" src="#poliw9" mtl="#mtr" rotation="90 0 0"></a-obj-model>
+			<a-entity rotation="90 0 0">
+				<a-sphere mixin='esfera8' position='1.0 0.0 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='1.39953 0.0 0.0'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.5 0.86603 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.5 0.86603 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.69976 1.21203 0.0'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.5 -0.86603 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.5 -0.86603 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.69976 -1.21203 0.0'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.5 0.86603 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.5 0.86603 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.69976 1.21203 0.0'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.5 -0.86603 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.5 -0.86603 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.69976 -1.21203 0.0'></a-sphere>
+				<a-sphere mixin='esfera8' position='-1.0 0.0 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-1.0 0.0 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-1.39953 0.0 0.0'></a-sphere>
+				<a-sphere mixin='esfera8' position='1.0 0.0 0.35'></a-sphere>
+			</a-entity>
+		</a-entity>
+		
+		<a-text mixin="texto1" position="-0.88 0.77 1.55" rotation="-90 180 0" value="Regular heptagonal tetragonal toroid"></a-text>
+		<a-entity class="poliB" mixin="poliA" position="-0.38 1.06 1.75" scale="1.13 1.13 1.13" shadow>
+			<a-light type="point" color="white" intensity="0.05" position="0 0 0"></a-light>
+			<a-obj-model id="fc" src="#poli10" mtl="#mtr" scale="0.998 0.998 0.998" rotation="90 0 0"></a-obj-model>
+			<a-obj-model id="ar" src="#poliw10" mtl="#mtr" rotation="90 0 0"></a-obj-model>
+			<a-entity rotation="90 0 0">
+				<a-sphere mixin='esfera8' position='-0.613 -1.273 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.613 -1.273 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='1.378 -0.315 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='1.105 0.881 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='0 1.413 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='-1.105 0.881 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='-1.378 -0.315 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.38 -0.789 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.38 -0.789 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.854 -0.195 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.685 0.546 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0 0.876 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.685 0.546 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.854 -0.195 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.38 -0.789 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.38 -0.789 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.854 -0.195 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.685 0.546 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0 0.876 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.685 0.546 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.854 -0.195 0.35'></a-sphere>
+			</a-entity>
+		</a-entity>
+		
+		<a-text mixin="texto1" position="-0.88 0.77 2.05" rotation="-90 180 0" value="Regular octagonal tetragonal toroid"></a-text>
+		<a-entity class="poliB" mixin="poliA" position="-0.38 1.06 2.25" scale="1.13 1.13 1.13" shadow>
+			<a-light type="point" color="white" intensity="0.05" position="0 0 0"></a-light>
+			<a-obj-model id="fc" src="#poli11" mtl="#mtr" scale="0.998 0.998 0.998"  rotation="90 0 0"></a-obj-model>
+			<a-obj-model id="ar" src="#poliw11" mtl="#mtr" rotation="90 0 0"></a-obj-model>
+			<a-entity rotation="90 0 0">
+				<a-sphere mixin='esfera8' position='-0.541 -1.306 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.541 -1.306 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='1.306 -0.541 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='1.306 0.541 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.541 1.306 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.541 1.306 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='-1.306 0.541 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='-1.306 -0.541 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.335 -0.809 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.335 -0.809 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.809 -0.335 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.809 0.335 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.335 0.809 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.335 0.809 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.809 0.335 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.809 -0.335 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.335 -0.809 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.335 -0.809 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.809 -0.335 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.809 0.335 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.335 0.809 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.335 0.809 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.809 0.335 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.809 -0.335 0.35'></a-sphere>
+			</a-entity>
+		</a-entity>
+		
+		<a-text mixin="texto1" position="1.52 0.77 1.55" rotation="-90 180 0" value="Regular enneagonal tetragonal toroid"></a-text>
+		<a-entity class="poliB" mixin="poliA" position="1.1 1.06 1.75" scale="1.13 1.13 1.13" shadow>
+			<a-light type="point" color="white" intensity="0.25" position="0 0 0"></a-light>
+			<a-obj-model id="fc" src="#poli12" mtl="#mtr" scale="0.998 0.998 0.998" rotation="90 0 0"></a-obj-model>
+			<a-obj-model id="ar" src="#poliw12" mtl="#mtr" rotation="90 0 0"></a-obj-model>
+			<a-entity rotation="90 0 0">
+				<a-sphere mixin='esfera8' position='-0.483 -1.328 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.483 -1.328 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='1.224 -0.707 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='1.392 0.245 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.908 1.083 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='0 1.413 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.908 1.083 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='-1.392 0.245 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='-1.224 -0.707 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.299 -0.823 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.299 -0.823 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.758 -0.438 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.862 0.152 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.563 0.671 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0 0.876 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.563 0.671 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.862 0.152 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.758 -0.438 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.299 -0.823 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.299 -0.823 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.758 -0.438 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.862 0.152 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.563 0.671 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0 0.876 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.563 0.671 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.862 0.152 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.758 -0.438 0.35'></a-sphere>
+			</a-entity>
+		</a-entity>
+		
+		<a-text mixin="texto1" position="1.52 0.77 2.05" rotation="-90 180 0" value="Regular decagonal tetragonal toroid"></a-text>
+		<a-entity class="poliB" mixin="poliA" position="1.1 1.06 2.25" scale="1.13 1.13 1.13" shadow>
+			<a-light type="point" color="white" intensity="0.25" position="0 0 0"></a-light>
+			<a-obj-model id="fc" src="#poli13" mtl="#mtr" scale="0.998 0.998 0.998" rotation="90 0 0"></a-obj-model>
+			<a-obj-model id="ar" src="#poliw13" mtl="#mtr" rotation="90 0 0"></a-obj-model>
+			<a-entity rotation="90 0 0">
+				<a-sphere mixin='esfera8' position='-0.437 -1.344 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.437 -1.344 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='1.143 -0.831 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='1.413 0 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='1.143 0.831 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.437 1.344 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.437 1.344 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='-1.143 0.831 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='-1.413 0 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='-1.143 -0.831 0'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.271 -0.833 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.271 -0.833 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.708 -0.515 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.876 0 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.708 0.515 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.271 0.833 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.271 0.833 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.708 0.515 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.876 0 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.708 -0.515 -0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.271 -0.833 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.271 -0.833 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.708 -0.515 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.876 0 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.708 0.515 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='0.271 0.833 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.271 0.833 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.708 0.515 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.876 0 0.35'></a-sphere>
+				<a-sphere mixin='esfera8' position='-0.708 -0.515 0.35'></a-sphere>
+			</a-entity>
+		</a-entity>
+		
+		<a-video src="vr/salas/videos/BorromeanRings1_ANIMACAO_x264_site_x264.mp4" position="2.055 1 1.16" rotation="0 270 0" depth="0.01" height="1.5" width="2.5"></a-video>
+		<a-box position="2.08 1 1.16" rotation="0 270 0" depth="0.03" height="1.8" width="2.9" src="../imagens/textura.jpg" material="repeat:5 2" static-body></a-box>		
+		<!--<a-cylinder mixin="botao2" class="botao" position="2.06 1.5 -0.7" onclick="fl='../symbols/sala.htm', window.open(fl, '_self');" radius="0.3" material="opacity: 0.5;" color="forestgreen" rotation="-90 270 0"></a-cylinder>
+		<a-text value="Next room" text="align:center;" position="2.06 1.95 -0.7" width="2" rotation="0 270 0"></a-text>
+		<a-text value="Proxima sala" text="align:center;" position="2.06 1.85 -0.7" width="2" rotation="0 270 0"></a-text>-->
+		<a-cylinder mixin="botao2" class="botao" position="2.06 0.65 -0.7" onclick="sairVR()" radius="0.3" material="opacity: 0.5;" color="coral" rotation="-90 270 0"></a-cylinder>
+		<a-text value="Sair do modo imersivo" text="align:center;" position="2.06 1 -0.7" width="2" rotation="0 270 0"></a-text>
+		<a-text value="Exit immersive mode" text="align:center;" position="2.06 1.1 -0.7" width="2" rotation="0 270 0"></a-text>
+		
+		<a-text value="Youtube: @paulohscwb" position="2.06 0.18 1.5" width="2" rotation="0 270 0"></a-text>
+		<a-text value="imagem panoramica: Hemul75" position="-2 0.18 1.5" width="2.3" rotation="0 90 0"></a-text>
+
+        <a-light type="ambient" color="white" intensity="0.5"></a-light>
+		<a-light type="directional" color="white" light="castShadow:true; shadowBias: -0.0007;" intensity="0.75" position="-3 2 1"></a-light>
+		<a-light type="directional" color="white" light="castShadow:true; shadowBias: -0.0007;" intensity="0.75" position="3 -2 1"></a-light>
+		<a-sky src="https://paulohscwb.github.io/SacredGeometry/imagens/toyF.jpg" geometry="phiStart: 180;"></a-sky> <!--geometry="phiStart: 95;"-->
+    </a-scene>
+  </body>
+</html>
