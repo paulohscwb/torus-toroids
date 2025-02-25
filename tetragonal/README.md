@@ -4,7 +4,7 @@
 <h2>Torus and Toroids: visualization of solids with Augmented Reality (AR) and Virtual Reality (VR) in A-frame</h2>
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
- <br><a href="https://paulohscwb.github.io/torus-toroids/basic/pt-br/">versão em português</a>
+ <br><a href="https://paulohscwb.github.io/torus-toroids/tetragonal/pt-br/">versão em português</a>
  <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More solids:</option>
