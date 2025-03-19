@@ -46,7 +46,7 @@ Este trabalho mostra toroides tetragonais modelados em 3D, com as visualizaçõe
 <p align="center"><img style="border-radius:7px;" alt="Realidade Aumentada dos toros e toroides" src="../ar/example.png" width="85%"></p>
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXgcL9RxOVEfCA1KDLByHZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXgcL9RxOVEfCA1KDLByHZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Toroide tetragonal triangular regular</h4>
 <a href="../vr/Regular3TetragonalToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/8A.png" class="foto" alt="Toroide tetragonal triangular regular"></a><img src="../ar/8.png" class="qr">
  <br><br><b>faces:</b> 3 retângulos e 6 trapézios isósceles

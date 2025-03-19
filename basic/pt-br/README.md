@@ -46,7 +46,7 @@ function urlHandler(value) {
 <p align="center"><img style="border-radius:7px;" alt="Realidade Aumentada dos toros e toroides" src="../ar/example.png" width="85%"></p>
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXgcL9RxOVEfCA1KDLByHZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXgcL9RxOVEfCA1KDLByHZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Toro</h4>
 <a href="../vr/torus.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/0A.png" class="foto" alt="Torus"></a><img src="../ar/0.png" class="qr">
  <br><br><br>O toro é uma superfície de revolução obtida pela rotação de uma circunferência de raio r em torno de um eixo coplanar com a circunferência. A distância do centro da circunferência ao centro de rotação mede o raio do tubo R. As equações paramétricas para um toro azimutalmente simétrico em torno do eixo z são: x = (R + r&middot;cos(v))&middot;cos(u), y = (R + r&middot;cos(v))&middot;sin(u) e z = r&middot;sin(v), onde u, v &isin; [0, 2&pi;).
