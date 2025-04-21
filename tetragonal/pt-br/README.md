@@ -10,8 +10,8 @@
 		<option disabled selected>Mais sólidos:</option>
 		<option value="../../basic/pt-br/">Toros e toroides</option>
 		<option disabled value="../../tetragonal/pt-br/">Toroides tetragonais</option>
-		<!--<option value="../../iris/pt-br/">Toroides de íris</option>
-		<option value="../../mobius-cairo/pt-br/">Toroides de Mobius e Cairo</option>
+		<option value="../../iris/pt-br/">Toroides de íris</option>
+		<!--<option value="../../mobius-cairo/pt-br/">Toroides de Mobius e Cairo</option>
 		<option value="../../regular/pt-br/">Toroides regulares</option>
 		<option value="../../hexagonal/pt-br/">Toroides hexagonais</option>
 		<option value="../../heptagonal/pt-br/">Dodecaedros heptagonais</option>
@@ -162,10 +162,10 @@ Este trabalho mostra toroides tetragonais modelados em 3D, com as visualizaçõe
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <hr>
 
-<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Tetragonal toroids: visualization of solids with Augmented Reality and Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/torus-toroids/basic/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
+<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Tetragonal toroids: visualization of solids with Augmented Reality and Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/torus-toroids/tetragonal/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
 
 <h4>Como citar este trabalho:</h4> 
-<p>Siqueira, P.H., "Tetragonal toroids: visualization of solids with Augmented Reality and Virtual Reality". Disponível em: <https://paulohscwb.github.io/torus-toroids/basic/pt-br/>, Fevereiro de 2025.</p>
+<p>Siqueira, P.H., "Tetragonal toroids: visualization of solids with Augmented Reality and Virtual Reality". Disponível em: <https://paulohscwb.github.io/torus-toroids/tetragonal/pt-br/>, Fevereiro de 2025.</p>
 <!--<a target="_blank" href="https://doi.org/10.5281/zenodo.14502405"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14502405.svg" alt="DOI"></a>-->
 <br><br><b>Referências:</b>
 <br>Weisstein, Eric W. "Torus" From MathWorld-A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/Torus.html" target="_blank">https://mathworld.wolfram.com/Torus.html</a>

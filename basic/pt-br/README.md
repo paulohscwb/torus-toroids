@@ -10,8 +10,8 @@
 		<option disabled selected>Mais sólidos:</option>
 		<option disabled value="../../basic/pt-br/">Toros e toroides</option>
 		<option value="../../tetragonal/pt-br/">Toroides tetragonais</option>
-		<!--<option value="../../iris/pt-br/">Toroides de íris</option>
-		<option value="../../mobius-cairo/pt-br/">Toroides de Mobius e Cairo</option>
+		<option value="../../iris/pt-br/">Toroides de íris</option>
+		<!--<option value="../../mobius-cairo/pt-br/">Toroides de Mobius e Cairo</option>
 		<option value="../../regular/pt-br/">Toroides regulares</option>
 		<option value="../../hexagonal/pt-br/">Toroides hexagonais</option>
 		<option value="../../heptagonal/pt-br/">Dodecaedros heptagonais</option>

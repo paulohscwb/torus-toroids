@@ -12,8 +12,8 @@
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="../basic/pt-br/"><img src="../basic/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toros e toroides</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../tetragonal/pt-br/"><img src="../tetragonal/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides tetragonais</a></h3>
-<!--<h3 style="margin-top:3px"><a target="_blank" href="../iris/pt-br/"><img src="../iris/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides de íris</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../mobius-cairo/pt-br/"><img src="../mobius-cairo/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides de Mobius e Cairo</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../iris/pt-br/"><img src="../iris/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides de íris</a></h3>
+<!--<h3 style="margin-top:3px"><a target="_blank" href="../mobius-cairo/pt-br/"><img src="../mobius-cairo/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides de Mobius e Cairo</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../regular/pt-br/"><img src="../regular/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides regulares</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../hexagonal/pt-br/"><img src="../hexagonal/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides hexagonais</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../heptagonal/pt-br/"><img src="../heptagonal/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Dodecaedros heptagonais</a></h3>
