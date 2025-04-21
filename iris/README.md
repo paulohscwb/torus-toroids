@@ -34,9 +34,9 @@ function urlHandler(value) {
 A toroidal solid or toroid, is an orientable polyhedron without self-intersections that has genus greater than zero (meaning that it contains one or more holes). An orientable polyhedron's genus (G) is related to the number of vertices (V), faces (F), and edges (E) as follows:
 <center>V + F − E = 2 − 2 * G</center>
 This work shows iris toroids modeled in 3D, with views that can be accessed with resources in immersive Virtual Reality rooms.
-<p align="center"><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
-  <hr>
-  <p align="center"><img src="../vr/salas/videos/iris1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="VR immersive iris"/><img src="../vr/salas/videos/iris2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR immersive iris"/></p> 
+  <p align="center"><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
+ <hr>
+ <p align="center"><img src="vr/salas/videos/iris1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV de Iris"/><img src="vr/salas/videos/iris2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de Iris"/></p>
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXgcL9RxOVEfCA1KDLByHZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
