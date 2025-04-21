@@ -35,7 +35,6 @@ Um sólido toroidal ou toroide é um poliedro orientável sem autointerseções 
 <center>V + F − E = 2 − 2 * G</center>
 Este trabalho mostra toroides de íris modelados em 3D, com as visualizações que podem ser acessadas com recursos em salas de Realidade Virtual imersivas.
  <p align="center"><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
-<hr>
  <hr>
  <p align="center"><img src="vr/salas/videos/iris1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV de Iris"/><img src="vr/salas/videos/iris2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de Iris"/></p> 
 <hr>
