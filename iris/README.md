@@ -40,49 +40,49 @@ This work shows iris toroids modeled in 3D, with views that can be accessed with
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXgcL9RxOVEfCA1KDLByHZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
-<h4>1. Toróide de íris anti-hexagonal</h4>
+<h4>1. Anti Hexagonal Iris Toroid</h4>
 <a href="vr/AntiHexagonalIrisToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/1A.png" class="foto" alt="Toróide de íris anti-hexagonal"></a>
  <br><b>faces:</b> 12 isosceles triangles and 12 scalene triangles
  <br><b>vertices:</b> 12
  <br><b>edges:</b> 36
  <br>
 <hr>
-<h4>2. Toróide de íris anti-heptagonal</h4>
+<h4>2. Anti Heptagonal Iris Toroid</h4>
 <a href="vr/AntiHeptagonalIrisToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto" alt="Toróide de íris anti-heptagonal"></a>
  <br><b>faces:</b> 14 isosceles triangles and 14 scalene triangles
  <br><b>vertices:</b> 14
  <br><b>edges:</b> 42
  <br>
 <hr>
-<h4>3. Toróide de íris anti-octogonal</h4>
+<h4>3. Anti Octagonal Iris Toroid</h4>
 <a href="vr/AntiOctagonalIrisToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/3A.png" class="foto" alt="Toróide de íris anti-octogonal"></a>
  <br><b>faces:</b> 16 isosceles triangles and 16 scalene triangles
  <br><b>vertices:</b> 16
  <br><b>edges:</b> 48
  <br>
 <hr>
-<h4>4. Toróide de íris pentagonal</h4>
+<h4>4. Pentagonal Iris Toroid</h4>
 <a href="vr/PentagonalIrisToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/4A.png" class="foto" alt="Toróide de íris pentagonal"></a>
  <br><b>faces:</b> 5 rectangles and 10 scalene triangles
  <br><b>vertices:</b> 10
  <br><b>edges:</b> 25
  <br>
 <hr>
-<h4>5. Toróide de íris hexagonal</h4>
+<h4>5. Hexagonal Iris Toroid</h4>
 <a href="vr/HexagonalIrisToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto" alt="Toróide de íris hexagonal"></a>
  <br><b>faces:</b> 6 rectangles and 12 scalene triangles
  <br><b>vertices:</b> 12
  <br><b>edges:</b> 30
  <br>
 <hr>
-<h4>6. Toróide de íris heptagonal</h4>
+<h4>6. Heptagonal Iris Toroid</h4>
 <a href="vr/HeptagonalIrisToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/6A.png" class="foto" alt="Toróide de íris heptagonal"></a>
  <br><b>faces:</b> 7 rectangles and 14 scalene triangles
  <br><b>vertices:</b> 14
  <br><b>edges:</b> 35
  <br>
 <hr>
-<h4>7. Toróide de íris heptagonal v2</h4>
+<h4>7. Heptagonal Iris Toroid v2</h4>
 <a href="vr/HeptagonalIrisToroid2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/7A.png" class="foto" alt="Toróide de íris heptagonal"></a>
  <br><b>faces:</b> 7 rectangles and 14 scalene triangles
  <br><b>vertices:</b> 14
@@ -90,42 +90,42 @@ This work shows iris toroids modeled in 3D, with views that can be accessed with
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
-<h4>8. Toróide de íris octogonal</h4>
+<h4>8. Octagonal Iris Toroid</h4>
 <a href="vr/OctagonalIrisToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/8A.png" class="foto" alt="Toróide de íris octogonal"></a>
  <br><b>faces:</b> 8 rectangles and 16 scalene triangles
  <br><b>vertices:</b> 16
  <br><b>edges:</b> 40
  <br>
 <hr>
-<h4>9. Toróide de íris octogonal v2</h4>
+<h4>9. Octagonal Iris Toroid v2</h4>
 <a href="vr/OctagonalIrisToroid2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto" alt="Toróide de íris octogonal"></a>
  <br><b>faces:</b> 8 rectangles and 16 scalene triangles
  <br><b>vertices:</b> 16
  <br><b>edges:</b> 40
  <br>
 <hr>
-<h4>10. Toróide de íris eneagonal</h4>
+<h4>10. Enneagonal Iris Toroid</h4>
 <a href="vr/EnneagonalIrisToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Toróide de íris eneagonal"></a>
  <br><b>faces:</b> 9 rectangles and 18 scalene triangles
  <br><b>vertices:</b> 18
  <br><b>edges:</b> 45
  <br>
 <hr>
-<h4>11. Toróide de íris eneagonal v2</h4>
+<h4>11. Enneagonal Iris Toroid v2</h4>
 <a href="vr/EnneagonalIrisToroid2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Toróide de íris eneagonal"></a>
  <br><b>faces:</b> 9 rectangles and 18 scalene triangles
  <br><b>vertices:</b> 18
  <br><b>edges:</b> 45
  <br>
 <hr>
-<h4>12. Toróide de íris decagonal</h4>
+<h4>12. Decagonal Iris Toroid</h4>
 <a href="vr/DecagonalIrisToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto" alt="Toróide de íris decagonal"></a>
  <br><b>faces:</b> 10 rectangles and 20 scalene triangles
  <br><b>vertices:</b> 20
  <br><b>edges:</b> 50
  <br>
 <hr>
-<h4>13. Toróide de íris decagonal v2</h4>
+<h4>13. Decagonal Iris Toroid v2</h4>
 <a href="vr/DecagonalIrisToroid2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto" alt="Toróide de íris decagonal"></a>
  <br><b>faces:</b> 10 rectangles and 20 scalene triangles
  <br><b>vertices:</b> 20
