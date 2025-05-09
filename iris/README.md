@@ -153,7 +153,7 @@ This work shows iris toroids modeled in 3D, with views that can be accessed with
  <br><b>edges:</b> 45
  <br>
 <hr>
-<h4>18. Decagonal Iris Toroid {10/4}</h4>
+<h4>17. Decagonal Iris Toroid {10/4}</h4>
 <a href="vr/DecagonalIrisToroid3.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/19A.png" class="foto" alt="Toróide de íris decagonal"></a>
  <br><b>faces:</b> 10 rectangles and 20 scalene triangles
  <br><b>vertices:</b> 20
