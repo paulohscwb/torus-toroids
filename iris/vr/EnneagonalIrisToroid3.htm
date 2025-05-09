@@ -1,0 +1,70 @@
+<html>
+  <head>
+    <title>Toroids</title>
+	<meta charset="utf-8">
+	<link rel="icon" type="image/png" href="salas/imagens/icone.png">
+	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+	<script src="https://unpkg.com/aframe-orbit-controls@1.3.0/dist/aframe-orbit-controls.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+	<script src="nomes.js"></script>
+	<link rel="stylesheet" href="nomes.css">
+ 	<script src="https://fernandojsg.github.io/aframe-teleport-controls/dist/aframe-teleport-controls.min.js"></script>
+  </head>
+  <body>
+<div style='color:#fada99; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Lato; font-size:2.5vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2025 Paulo Henrique Siqueira</div>
+    <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
+		<a-assets>
+			<a-mixin id="mtl9" material="color: #8ec; side:double;"></a-mixin>
+			<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.03; segments-height:20; segments-width:20;" material="metalness:0.4; roughness:0.5;">
+			<a-asset-item id="material" src="obj/c1.mtl"></a-asset-item>
+			<a-asset-item id="poli" src="obj/EnneagonalIrisToroid3.obj"></a-asset-item>
+			<a-asset-item id="poliw" src="obj/EnneagonalIrisToroid3L.obj"></a-asset-item>
+		</a-assets>
+		
+		<a-entity rotation="-90 0 0" scale="4.6 4.6 4.6">
+			<a-light type="point" color="white" intensity="0.07" position="0 0 0"></a-light>
+			<a-entity animation="property: rotation; from: 0 0 0; to: 0 360 0; dur: 325000; easing: linear; loop: true">
+				<a-obj-model id="fc" src="#poli" mtl="#material" scale="0.9999 0.9999 0.9999"></a-obj-model>
+				<a-obj-model id="ar" src="#poliw" mtl="#material"></a-obj-model>
+				<a-sphere mixin='esfera' position='1.22 -0.44 -0.42'></a-sphere>
+				<a-sphere mixin='esfera' position='1.22 0.44 -0.42'></a-sphere>
+				<a-sphere mixin='esfera' position='0.65 1.11 -0.42'></a-sphere>
+				<a-sphere mixin='esfera' position='-0.21 1.27 -0.42'></a-sphere>
+				<a-sphere mixin='esfera' position='-0.97 0.83 -0.42'></a-sphere>
+				<a-sphere mixin='esfera' position='-1.28 0 -0.42'></a-sphere>
+				<a-sphere mixin='esfera' position='-0.97 -0.83 -0.42'></a-sphere>
+				<a-sphere mixin='esfera' position='-0.21 -1.27 -0.42'></a-sphere>
+				<a-sphere mixin='esfera' position='0.65 -1.11 -0.42'></a-sphere>
+				<a-sphere mixin='esfera' position='1.22 -0.44 0.42'></a-sphere>
+				<a-sphere mixin='esfera' position='1.22 0.44 0.42'></a-sphere>
+				<a-sphere mixin='esfera' position='0.65 1.11 0.42'></a-sphere>
+				<a-sphere mixin='esfera' position='-0.21 1.27 0.42'></a-sphere>
+				<a-sphere mixin='esfera' position='-0.97 0.83 0.42'></a-sphere>
+				<a-sphere mixin='esfera' position='-1.28 0 0.42'></a-sphere>
+				<a-sphere mixin='esfera' position='-0.97 -0.83 0.42'></a-sphere>
+				<a-sphere mixin='esfera' position='-0.21 -1.27 0.42'></a-sphere>
+				<a-sphere mixin='esfera' position='0.65 -1.11 0.42'></a-sphere>
+			</a-entity>
+		</a-entity>
+		
+		<a-box mixin="piso" class="piso" visible="false" position="0 -1.5 0"></a-box>
+		<a-entity id="cameraRig" position="0 0 11">
+			<a-entity camera="fov:1; near:0.001;;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 425 425 425; maxDistance: 1500;"></a-entity>
+			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
+		</a-entity>
+	  
+		<a-light type="ambient" color="white" intensity="0.5"></a-light>
+		<a-light type="directional" color="white" intensity="0.8" position="-3 2 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.8" position="3 -2 1"></a-light>
+
+		<a-sky color="#f6fff6"></a-sky>
+    </a-scene>
+	<div class="box">
+		<span class="titulo">Enneagonal iris toroid v2</span>
+		<br><span class="titulo">Toróide de íris eneagonal v2</span>
+		<hr><input type="checkbox" id="faces" checked onclick="mfaces()">faces&nbsp;&nbsp;&nbsp;  
+		<input type="checkbox" id="arestas" checked onclick="marestas()">edges&nbsp;&nbsp;&nbsp; 
+		<input type="checkbox" id="vertices" checked onclick="mvertices()">vertices
+	</div>
+  </body>
+</html>
