@@ -11,8 +11,8 @@
 		<option disabled value="../basic/">Torus and toroids</option>
 		<option value="../tetragonal/">Tetragonal toroids</option>
 		<option value="../iris/">Iris toroids</option>
+		<option value="../regulartetrag/">Regular tetragonal toroids</option>
 		<!--<option value="../mobius-cairo/">Mobius and Cairo toroids</option>
-		<option value="../regular/">Regular toroids</option>
 		<option value="../hexagonal/">Hexagonal toroids</option>
 		<option value="../heptagonal/">Heptagonal dodecahedrons</option>
 		<option value="../regular1/">Regular polygonal toroids 1</option>

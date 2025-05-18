@@ -1,0 +1,130 @@
+<html>
+  <head>
+    <title>Toroids</title>
+	<meta charset="utf-8">
+	<link rel="icon" type="image/png" href="salas/imagens/icone.png">
+	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+	<script src="https://unpkg.com/aframe-orbit-controls@1.3.0/dist/aframe-orbit-controls.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+	<script src="nomes.js"></script>
+	<link rel="stylesheet" href="nomes.css">
+ 	<script src="https://fernandojsg.github.io/aframe-teleport-controls/dist/aframe-teleport-controls.min.js"></script>
+  </head>
+  <body>
+<div style='color:#fada99; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Lato; font-size:2.5vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2025 Paulo Henrique Siqueira</div>
+    <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
+		<a-assets>
+			<a-mixin id="mtl9" material="color: #8ec; side:double;"></a-mixin>
+			<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.046; segments-height:20; segments-width:20;" material="metalness:0.4; roughness:0.5;">
+			<a-asset-item id="material" src="obj/c1.mtl"></a-asset-item>
+			<a-asset-item id="poli" src="obj/Regular10TetragonalStarToroid1.obj"></a-asset-item>
+			<a-asset-item id="poliw" src="obj/Regular10TetragonalStarToroid1L.obj"></a-asset-item>
+		</a-assets>
+		
+		<a-entity rotation="-90 0 0" scale="3 3 3" animation="property: rotation; from: 90 0 0; to: 450 0 0; dur: 325000; easing: linear; loop: true">
+			<a-light type="point" color="white" intensity="0.5" position="0 0 0"></a-light>
+			<a-obj-model id="fc" src="#poli" mtl="#material" scale="0.9985 0.9985 0.9985"></a-obj-model>
+			<a-obj-model id="ar" src="#poliw" mtl="#material"></a-obj-model>
+			<a-sphere mixin='esfera' position='-0.6 -1.846 0'></a-sphere>
+			<a-sphere mixin='esfera' position='0 -1.41 0.6'></a-sphere>
+			<a-sphere mixin='esfera' position='0.6 -1.846 0'></a-sphere>
+			<a-sphere mixin='esfera' position='0.829 -1.14 0.6'></a-sphere>
+			<a-sphere mixin='esfera' position='1.571 -1.14 0'></a-sphere>
+			<a-sphere mixin='esfera' position='1.342 -0.435 0.6'></a-sphere>
+			<a-sphere mixin='esfera' position='1.942 0 0'></a-sphere>
+			<a-sphere mixin='esfera' position='1.342 0.435 0.6'></a-sphere>
+			<a-sphere mixin='esfera' position='1.571 1.14 0'></a-sphere>
+			<a-sphere mixin='esfera' position='0.829 1.14 0.6'></a-sphere>
+			<a-sphere mixin='esfera' position='0.6 1.846 0'></a-sphere>
+			<a-sphere mixin='esfera' position='0 1.41 0.6'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.6 1.846 0'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.829 1.14 0.6'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.571 1.14 0'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.342 0.435 0.6'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.942 0 0'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.342 -0.435 0.6'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.571 -1.14 0'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.829 -1.14 0.6'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.4 -1.23 0.35'></a-sphere>
+			<a-sphere mixin='esfera' position='0 -0.939 0.95'></a-sphere>
+			<a-sphere mixin='esfera' position='0.4 -1.23 0.35'></a-sphere>
+			<a-sphere mixin='esfera' position='0.553 -0.76 0.95'></a-sphere>
+			<a-sphere mixin='esfera' position='1.047 -0.76 0.35'></a-sphere>
+			<a-sphere mixin='esfera' position='0.894 -0.29 0.95'></a-sphere>
+			<a-sphere mixin='esfera' position='1.294 0 0.35'></a-sphere>
+			<a-sphere mixin='esfera' position='0.894 0.29 0.95'></a-sphere>
+			<a-sphere mixin='esfera' position='1.047 0.76 0.35'></a-sphere>
+			<a-sphere mixin='esfera' position='0.553 0.76 0.95'></a-sphere>
+			<a-sphere mixin='esfera' position='0.4 1.23 0.35'></a-sphere>
+			<a-sphere mixin='esfera' position='0 0.939 0.95'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.4 1.23 0.35'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.553 0.76 0.95'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.047 0.76 0.35'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.894 0.29 0.95'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.294 0 0.35'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.894 -0.29 0.95'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.047 -0.76 0.35'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.553 -0.76 0.95'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.4 -1.23 -0.35'></a-sphere>
+			<a-sphere mixin='esfera' position='0 -0.939 0.25'></a-sphere>
+			<a-sphere mixin='esfera' position='0.4 -1.23 -0.35'></a-sphere>
+			<a-sphere mixin='esfera' position='0.553 -0.76 0.25'></a-sphere>
+			<a-sphere mixin='esfera' position='1.047 -0.76 -0.35'></a-sphere>
+			<a-sphere mixin='esfera' position='0.894 -0.29 0.25'></a-sphere>
+			<a-sphere mixin='esfera' position='1.294 0 -0.35'></a-sphere>
+			<a-sphere mixin='esfera' position='0.894 0.29 0.25'></a-sphere>
+			<a-sphere mixin='esfera' position='1.047 0.76 -0.35'></a-sphere>
+			<a-sphere mixin='esfera' position='0.553 0.76 0.25'></a-sphere>
+			<a-sphere mixin='esfera' position='0.4 1.23 -0.35'></a-sphere>
+			<a-sphere mixin='esfera' position='0 0.939 0.25'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.4 1.23 -0.35'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.553 0.76 0.25'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.047 0.76 -0.35'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.894 0.29 0.25'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.294 0 -0.35'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.894 -0.29 0.25'></a-sphere>
+			<a-sphere mixin='esfera' position='-1.047 -0.76 -0.35'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.553 -0.76 0.25'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.2 -0.614 0'></a-sphere>
+			<a-sphere mixin='esfera' position='0 -0.469 0.6'></a-sphere>
+			<a-sphere mixin='esfera' position='0.2 -0.614 0'></a-sphere>
+			<a-sphere mixin='esfera' position='0.276 -0.379 0.6'></a-sphere>
+			<a-sphere mixin='esfera' position='0.524 -0.379 0'></a-sphere>
+			<a-sphere mixin='esfera' position='0.477 -0.144 0.6'></a-sphere>
+			<a-sphere mixin='esfera' position='0.647 0 0'></a-sphere>
+			<a-sphere mixin='esfera' position='0.477 0.144 0.6'></a-sphere>
+			<a-sphere mixin='esfera' position='0.524 0.379 0'></a-sphere>
+			<a-sphere mixin='esfera' position='0.276 0.379 0.6'></a-sphere>
+			<a-sphere mixin='esfera' position='0.2 0.614 0'></a-sphere>
+			<a-sphere mixin='esfera' position='0 0.469 0.6'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.2 0.614 0'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.276 0.379 0.6'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.524 0.379 0'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.477 0.144 0.6'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.647 0 0'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.477 -0.144 0.6'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.524 -0.379 0'></a-sphere>
+			<a-sphere mixin='esfera' position='-0.276 -0.379 0.6'></a-sphere>
+		</a-entity>
+		
+		<a-box mixin="piso" class="piso" visible="false" position="0 -1.5 0"></a-box>
+		<a-entity id="cameraRig" position="0 0 11">
+			<a-entity camera="fov:1; near:0.001;;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 425 425 425; maxDistance: 1500;"></a-entity>
+			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
+		</a-entity>
+	  
+		<a-light type="ambient" color="white" intensity="0.5"></a-light>
+		<a-light type="directional" color="white" intensity="0.8" position="-3 2 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.8" position="3 -2 1"></a-light>
+
+		<a-sky color="#f6fff6"></a-sky>
+    </a-scene>
+	<div class="box">
+		<span class="titulo">Regular star tetragonal toroid</span>
+		<br><span class="titulo">Toroide tetragonal regular estrelado</span>
+		<hr><input type="checkbox" id="faces" checked onclick="mfaces()">faces&nbsp;&nbsp;&nbsp;  
+		<input type="checkbox" id="arestas" checked onclick="marestas()">edges&nbsp;&nbsp;&nbsp; 
+		<input type="checkbox" id="vertices" checked onclick="mvertices()">vertices
+	</div>
+  </body>
+</html>

@@ -11,8 +11,8 @@
 		<option value="../../basic/pt-br/">Toros e toroides</option>
 		<option disabled value="../../tetragonal/pt-br/">Toroides tetragonais</option>
 		<option value="../../iris/pt-br/">Toroides de íris</option>
+		<option value="../../regulartetrag/pt-br/">Toroides tetragonais regulares</option>
 		<!--<option value="../../mobius-cairo/pt-br/">Toroides de Mobius e Cairo</option>
-		<option value="../../regular/pt-br/">Toroides regulares</option>
 		<option value="../../hexagonal/pt-br/">Toroides hexagonais</option>
 		<option value="../../heptagonal/pt-br/">Dodecaedros heptagonais</option>
 		<option value="../../regular1/pt-br/">Toroides poligonais regulares 1</option>
