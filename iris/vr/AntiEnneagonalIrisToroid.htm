@@ -21,7 +21,7 @@
 			<a-asset-item id="poliw" src="obj/AntiEnneagonalIrisToroidL.obj"></a-asset-item>
 		</a-assets>
 		
-		<a-entity rotation="90 0 180" scale="4.2 4.2 4.2">
+		<a-entity rotation="0 0 180" scale="4.2 4.2 4.2">
 			<a-light type="point" color="white" intensity="0.07" position="0 0 0"></a-light>
 			<a-entity>
 				<a-obj-model id="fc" src="#poli" mtl="#material" scale="0.9999 0.9999 0.9999"></a-obj-model>
@@ -49,7 +49,7 @@
 		
 		<a-box mixin="piso" class="piso" visible="false" position="0 -1.5 0"></a-box>
 		<a-entity id="cameraRig" position="0 0 11">
-			<a-entity camera="fov:1; near:0.001;;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 0 700 0; maxDistance: 1500;"></a-entity>
+			<a-entity camera="fov:1; near:0.001;;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 0 0 750; maxDistance: 1500;"></a-entity>
 			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
 		</a-entity>
 	  
