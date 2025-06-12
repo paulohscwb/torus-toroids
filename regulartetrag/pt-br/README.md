@@ -139,36 +139,36 @@ Este trabalho mostra toroides tetragonais regulares modelados em 3D, com as visu
  <br><b>arestas:</b> 168
  <br>
 <hr>
-<h4>15. Toroide tetragonal regular octagonal</h4>
-<a href="../vr/Regular8TetragonalToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15A.png" class="foto" alt="Toroide tetragonal regular octagonal"></a>
+<h4>15. Toroide tetragonal regular octogonal</h4>
+<a href="../vr/Regular8TetragonalToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15A.png" class="foto" alt="Toroide tetragonal regular octogonal"></a>
  <br><b>faces:</b> 32 trapézios
  <br><b>vértices:</b> 32
  <br><b>arestas:</b> 64
  <br>
 <hr>
-<h4>16. Toroide tetragonal regular estrelado octagonal</h4>
-<a href="../vr/Regular8TetragonalStarToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/16A.png" class="foto" alt="Toroide tetragonal regular estrelado octagonal"></a>
+<h4>16. Toroide tetragonal regular estrelado octogonal</h4>
+<a href="../vr/Regular8TetragonalStarToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/16A.png" class="foto" alt="Toroide tetragonal regular estrelado octogonal"></a>
  <br><b>faces:</b> 64 trapézios
  <br><b>vértices:</b> 64
  <br><b>arestas:</b> 128
  <br>
 <hr>
-<h4>17. Toroide tetragonal regular estrelado octagonal v2</h4>
-<a href="../vr/Regular8TetragonalStarToroid1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17A.png" class="foto" alt="Toroide tetragonal regular estrelado octagonal"></a>
+<h4>17. Toroide tetragonal regular estrelado octogonal v2</h4>
+<a href="../vr/Regular8TetragonalStarToroid1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17A.png" class="foto" alt="Toroide tetragonal regular estrelado octogonal"></a>
  <br><b>faces:</b> 128 triângulos
  <br><b>vértices:</b> 64
  <br><b>arestas:</b> 192
  <br>
 <hr>
-<h4>18. Toroide tetragonal senoidal regular octagonal</h4>
-<a href="../vr/Regular8TetragonalToroidSin.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18A.png" class="foto" alt="Toroide tetragonal senoidal regular octagonal"></a>
+<h4>18. Toroide tetragonal senoidal regular octogonal</h4>
+<a href="../vr/Regular8TetragonalToroidSin.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18A.png" class="foto" alt="Toroide tetragonal senoidal regular octogonal"></a>
  <br><b>faces:</b> 64 triângulos
  <br><b>vértices:</b> 32
  <br><b>arestas:</b> 96
  <br>
 <hr>
-<h4>19. Toroide tetragonal regular senoidal estrelado octagonal</h4>
-<a href="../vr/Regular8TetragonalStarToroidSin.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/19A.png" class="foto" alt="Toroide tetragonal regular senoidal estrelado octagonal"></a>
+<h4>19. Toroide tetragonal regular senoidal estrelado octogonal</h4>
+<a href="../vr/Regular8TetragonalStarToroidSin.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/19A.png" class="foto" alt="Toroide tetragonal regular senoidal estrelado octogonal"></a>
  <br><b>faces:</b> 128 triângulos
  <br><b>vértices:</b> 64
  <br><b>arestas:</b> 192
