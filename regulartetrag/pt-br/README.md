@@ -42,193 +42,139 @@ Este trabalho mostra toroides tetragonais regulares modelados em 3D, com as visu
 <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXgcL9RxOVEfCA1KDLByHZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Toroide tetragonal regular triangular</h4>
 <a href="../vr/Regular3TetragonalToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Toroide tetragonal regular triangular"></a>
- <br><b>faces:</b> 12 trapézios
- <br><b>vértices:</b> 12
- <br><b>arestas:</b> 24
+ <br><b>faces:</b> 12 trapézios | <b>vértices:</b> 12 | <b>arestas:</b> 24
  <br>
 <hr>
 <h4>2. Toroide tetragonal regular quadrado</h4>
 <a href="../vr/Regular4TetragonalToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="Toroide tetragonal regular quadrado"></a>
- <br><b>faces:</b> 16 trapézios
- <br><b>vértices:</b> 16
- <br><b>arestas:</b> 32
+ <br><b>faces:</b> 16 trapézios | <b>vértices:</b> 16 | <b>arestas:</b> 32
  <br>
 <hr>
 <h4>3. Toroide tetragonal senoidal regular quadrado</h4>
 <a href="../vr/Regular4TetragonalToroidSin.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3A.png" class="foto" alt="Toroide tetragonal senoidal regular quadrado"></a>
- <br><b>faces:</b> 32 triângulos
- <br><b>vértices:</b> 16
- <br><b>arestas:</b> 40
+ <br><b>faces:</b> 32 triângulos | <b>vértices:</b> 16 | <b>arestas:</b> 40
  <br>
 <hr>
 <h4>4. Toroide tetragonal regular pentagonal</h4>
 <a href="../vr/Regular5TetragonalToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/4A.png" class="foto" alt="Toroide tetragonal regular pentagonal"></a>
- <br><b>faces:</b> 20 trapézios
- <br><b>vértices:</b> 20
- <br><b>arestas:</b> 40
+ <br><b>faces:</b> 20 trapézios | <b>vértices:</b> 20 | <b>arestas:</b> 40
  <br>
 <hr>
 <h4>5. Toroide tetragonal regular estrelado pentagonal</h4>
 <a href="../vr/Regular5TetragonalStarToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/5A.png" class="foto" alt="Toroide tetragonal regular estrelado pentagonal"></a>
- <br><b>faces:</b> 40 trapézios
- <br><b>vértices:</b> 40
- <br><b>arestas:</b> 80
+ <br><b>faces:</b> 40 trapézios | <b>vértices:</b> 40 | <b>arestas:</b> 80
  <br>
 <hr>
 <h4>6. Toroide tetragonal regular estrelado pentagonal v2</h4>
 <a href="../vr/Regular5TetragonalStarToroid1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/6A.png" class="foto" alt="Toroide tetragonal regular estrelado pentagonal"></a>
- <br><b>faces:</b> 80 triângulos
- <br><b>vértices:</b> 40
- <br><b>arestas:</b> 120
+ <br><b>faces:</b> 80 triângulos | <b>vértices:</b> 40 | <b>arestas:</b> 120
  <br>
 <hr>
 <h4>7. Toroide tetragonal regular hexagonal</h4>
 <a href="../vr/Regular6TetragonalToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/7A.png" class="foto" alt="Toroide tetragonal regular hexagonal"></a>
- <br><b>faces:</b> 24 trapézios
- <br><b>vértices:</b> 24
- <br><b>arestas:</b> 48
+ <br><b>faces:</b> 24 trapézios | <b>vértices:</b> 24 | <b>arestas:</b> 48
  <br>
 <hr>
 <h4>8. Toroide tetragonal regular estrelado hexagonal</h4>
 <a href="../vr/Regular6TetragonalStarToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/8A.png" class="foto" alt="Toroide tetragonal regular estrelado hexagonal"></a>
- <br><b>faces:</b> 48 trapézios
- <br><b>vértices:</b> 48
- <br><b>arestas:</b> 96
+ <br><b>faces:</b> 48 trapézios | <b>vértices:</b> 48 | <b>arestas:</b> 96
  <br>
 <hr>
 <h4>9. Toroide tetragonal regular estrelado hexagonal v2</h4>
 <a href="../vr/Regular6TetragonalStarToroid1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto" alt="Toroide tetragonal regular estrelado hexagonal"></a>
- <br><b>faces:</b> 96 triângulos
- <br><b>vértices:</b> 48
- <br><b>arestas:</b> 144
+ <br><b>faces:</b> 96 triângulos | <b>vértices:</b> 48 | <b>arestas:</b> 144
  <br>
 <hr>
 <h4>10. Toroide tetragonal senoidal regular hexagonal</h4>
 <a href="../vr/Regular6TetragonalToroidSin.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Toroide tetragonal senoidal regular hexagonal"></a>
- <br><b>faces:</b> 48 triângulos
- <br><b>vértices:</b> 24
- <br><b>arestas:</b> 72
+ <br><b>faces:</b> 48 triângulos | <b>vértices:</b> 24 | <b>arestas:</b> 72
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>11. Toroide tetragonal regular senoidal estrelado hexagonal</h4>
 <a href="../vr/Regular6TetragonalStarToroidSin.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="Toroide tetragonal regular senoidal estrelado hexagonal"></a>
- <br><b>faces:</b> 96 triângulos
- <br><b>vértices:</b> 48
- <br><b>arestas:</b> 144
+ <br><b>faces:</b> 96 triângulos | <b>vértices:</b> 48 | <b>arestas:</b> 144
  <br>
 <hr>
 <h4>12. Toroide tetragonal regular heptagonal</h4>
 <a href="../vr/Regular7TetragonalToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12A.png" class="foto" alt="Toroide tetragonal regular heptagonal"></a>
- <br><b>faces:</b> 28 trapézios
- <br><b>vértices:</b> 28
- <br><b>arestas:</b> 56
+ <br><b>faces:</b> 28 trapézios | <b>vértices:</b> 28 | <b>arestas:</b> 56
  <br>
 <hr>
 <h4>13. Toroide tetragonal regular estrelado heptagonal</h4>
 <a href="../vr/Regular7TetragonalStarToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13A.png" class="foto" alt="Toroide tetragonal regular estrelado heptagonal"></a>
- <br><b>faces:</b> 56 trapézios
- <br><b>vértices:</b> 56
- <br><b>arestas:</b> 112
+ <br><b>faces:</b> 56 trapézios | <b>vértices:</b> 56 | <b>arestas:</b> 112
  <br>
 <hr>
 <h4>14. Toroide tetragonal regular estrelado heptagonal v2</h4>
 <a href="../vr/Regular7TetragonalStarToroid1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/14A.png" class="foto" alt="Toroide tetragonal regular estrelado heptagonal"></a>
- <br><b>faces:</b> 112 triângulos
- <br><b>vértices:</b> 56
- <br><b>arestas:</b> 168
+ <br><b>faces:</b> 112 triângulos | <b>vértices:</b> 56 | <b>arestas:</b> 168
  <br>
 <hr>
 <h4>15. Toroide tetragonal regular octogonal</h4>
 <a href="../vr/Regular8TetragonalToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15A.png" class="foto" alt="Toroide tetragonal regular octogonal"></a>
- <br><b>faces:</b> 32 trapézios
- <br><b>vértices:</b> 32
- <br><b>arestas:</b> 64
+ <br><b>faces:</b> 32 trapézios | <b>vértices:</b> 32 | <b>arestas:</b> 64
  <br>
 <hr>
 <h4>16. Toroide tetragonal regular estrelado octogonal</h4>
 <a href="../vr/Regular8TetragonalStarToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/16A.png" class="foto" alt="Toroide tetragonal regular estrelado octogonal"></a>
- <br><b>faces:</b> 64 trapézios
- <br><b>vértices:</b> 64
- <br><b>arestas:</b> 128
+ <br><b>faces:</b> 64 trapézios | <b>vértices:</b> 64 | <b>arestas:</b> 128
  <br>
 <hr>
 <h4>17. Toroide tetragonal regular estrelado octogonal v2</h4>
 <a href="../vr/Regular8TetragonalStarToroid1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17A.png" class="foto" alt="Toroide tetragonal regular estrelado octogonal"></a>
- <br><b>faces:</b> 128 triângulos
- <br><b>vértices:</b> 64
- <br><b>arestas:</b> 192
+ <br><b>faces:</b> 128 triângulos | <b>vértices:</b> 64 | <b>arestas:</b> 192
  <br>
 <hr>
 <h4>18. Toroide tetragonal senoidal regular octogonal</h4>
 <a href="../vr/Regular8TetragonalToroidSin.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18A.png" class="foto" alt="Toroide tetragonal senoidal regular octogonal"></a>
- <br><b>faces:</b> 64 triângulos
- <br><b>vértices:</b> 32
- <br><b>arestas:</b> 96
+ <br><b>faces:</b> 64 triângulos | <b>vértices:</b> 32 | <b>arestas:</b> 96
  <br>
 <hr>
 <h4>19. Toroide tetragonal regular senoidal estrelado octogonal</h4>
 <a href="../vr/Regular8TetragonalStarToroidSin.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/19A.png" class="foto" alt="Toroide tetragonal regular senoidal estrelado octogonal"></a>
- <br><b>faces:</b> 128 triângulos
- <br><b>vértices:</b> 64
- <br><b>arestas:</b> 192
+ <br><b>faces:</b> 128 triângulos | <b>vértices:</b> 64 | <b>arestas:</b> 192
  <br>
 <hr>
 <h4>20. Toroide tetragonal regular eneagonal</h4>
 <a href="../vr/Regular9TetragonalToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/20A.png" class="foto" alt="Toroide tetragonal regular eneagonal"></a>
- <br><b>faces:</b> 36 trapézios
- <br><b>vértices:</b> 36
- <br><b>arestas:</b> 72
+ <br><b>faces:</b> 36 trapézios | <b>vértices:</b> 36 | <b>arestas:</b> 72
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>21. Toroide tetragonal regular estrelado eneagonal</h4>
 <a href="../vr/Regular9TetragonalStarToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/21A.png" class="foto" alt="Toroide tetragonal regular estrelado eneagonal"></a>
- <br><b>faces:</b> 72 trapézios
- <br><b>vértices:</b> 72
- <br><b>arestas:</b> 144
+ <br><b>faces:</b> 72 trapézios | <b>vértices:</b> 72 | <b>arestas:</b> 144
  <br>
 <hr>
 <h4>22. Toroide tetragonal regular estrelado eneagonal v2</h4>
 <a href="../vr/Regular9TetragonalStarToroid1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/22A.png" class="foto" alt="Toroide tetragonal regular estrelado eneagonal"></a>
- <br><b>faces:</b> 144 triângulos
- <br><b>vértices:</b> 72
- <br><b>arestas:</b> 216
+ <br><b>faces:</b> 144 triângulos | <b>vértices:</b> 72 | <b>arestas:</b> 216
  <br>
 <hr>
 <h4>23. Toroide tetragonal regular decagonal</h4>
 <a href="../vr/Regular10TetragonalToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/23A.png" class="foto" alt="Toroide tetragonal regular decagonal"></a>
- <br><b>faces:</b> 40 trapézios
- <br><b>vértices:</b> 40
- <br><b>arestas:</b> 80
+ <br><b>faces:</b> 40 trapézios | <b>vértices:</b> 40 | <b>arestas:</b> 80
  <br>
 <hr>
 <h4>24. Toroide tetragonal regular estrelado decagonal</h4>
 <a href="../vr/Regular10TetragonalStarToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/24A.png" class="foto" alt="Toroide tetragonal regular estrelado decagonal"></a>
- <br><b>faces:</b> 80 trapézios
- <br><b>vértices:</b> 80
- <br><b>arestas:</b> 160
+ <br><b>faces:</b> 80 trapézios | <b>vértices:</b> 80 | <b>arestas:</b> 160
  <br>
 <hr>
 <h4>25. Toroide tetragonal regular estrelado decagonal v2</h4>
 <a href="../vr/Regular10TetragonalStarToroid1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/25A.png" class="foto" alt="Toroide tetragonal regular estrelado decagonal"></a>
- <br><b>faces:</b> 160 triângulos
- <br><b>vértices:</b> 80
- <br><b>arestas:</b> 240
+ <br><b>faces:</b> 160 triângulos | <b>vértices:</b> 80 | <b>arestas:</b> 240
  <br>
 <hr>
 <h4>26. Toroide tetragonal senoidal regular decagonal</h4>
 <a href="../vr/Regular10TetragonalToroidSin.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/26A.png" class="foto" alt="Toroide tetragonal senoidal regular decagonal"></a>
- <br><b>faces:</b> 80 triângulos
- <br><b>vértices:</b> 40
- <br><b>arestas:</b> 120
+ <br><b>faces:</b> 80 triângulos | <b>vértices:</b> 40 | <b>arestas:</b> 120
  <br>
 <hr>
 <h4>27. Toroide tetragonal regular senoidal estrelado decagonal</h4>
 <a href="../vr/Regular10TetragonalStarToroidSin.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/27A.png" class="foto" alt="Toroide tetragonal regular senoidal estrelado decagonal"></a>
- <br><b>faces:</b> 160 triângulos
- <br><b>vértices:</b> 80
- <br><b>arestas:</b> 240
+ <br><b>faces:</b> 160 triângulos | <b>vértices:</b> 80 | <b>arestas:</b> 240
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>

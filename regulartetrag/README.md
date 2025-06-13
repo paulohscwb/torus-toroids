@@ -42,193 +42,139 @@ This work shows regular tetragonal toroids modeled in 3D, with views that can be
 <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXgcL9RxOVEfCA1KDLByHZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Triangular regular tetragonal toroid</h4>
 <a href="vr/Regular3TetragonalToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/1A.png" class="foto" alt="Triangular regular tetragonal toroid"></a>
- <br><b>faces:</b> 12 trapezoids
- <br><b>vertices:</b> 12
- <br><b>edges:</b> 24
+ <br><b>faces:</b> 12 trapezoids | <b>vertices:</b> 12 | <b>edges:</b> 24
  <br>
 <hr>
 <h4>2. Square regular tetragonal toroid</h4>
 <a href="vr/Regular4TetragonalToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto" alt="Square regular tetragonal toroid"></a>
- <br><b>faces:</b> 16 trapezoids
- <br><b>vertices:</b> 16
- <br><b>edges:</b> 32
+ <br><b>faces:</b> 16 trapezoids | <b>vertices:</b> 16 | <b>edges:</b> 32
  <br>
 <hr>
 <h4>3. Square regular sinusoidal tetragonal toroid</h4>
 <a href="vr/Regular4TetragonalToroidSin.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/3A.png" class="foto" alt="Square regular sinusoidal tetragonal toroid"></a>
- <br><b>faces:</b> 32 triangles
- <br><b>vertices:</b> 16
- <br><b>edges:</b> 40
+ <br><b>faces:</b> 32 triangles | <b>vertices:</b> 16 | <b>edges:</b> 40
  <br>
 <hr>
 <h4>4. Pentagonal regular tetragonal toroid</h4>
 <a href="vr/Regular5TetragonalToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/4A.png" class="foto" alt="Pentagonal regular tetragonal toroid"></a>
- <br><b>faces:</b> 20 trapezoids
- <br><b>vertices:</b> 20
- <br><b>edges:</b> 40
+ <br><b>faces:</b> 20 trapezoids | <b>vertices:</b> 20 | <b>edges:</b> 40
  <br>
 <hr>
 <h4>5. Pentagonal regular star tetragonal toroid</h4>
 <a href="vr/Regular5TetragonalStarToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto" alt="Pentagonal regular star tetragonal toroid"></a>
- <br><b>faces:</b> 40 trapezoids
- <br><b>vertices:</b> 40
- <br><b>edges:</b> 80
+ <br><b>faces:</b> 40 trapezoids | <b>vertices:</b> 40 | <b>edges:</b> 80
  <br>
 <hr>
 <h4>6. Pentagonal regular star tetragonal toroid v2</h4>
 <a href="vr/Regular5TetragonalStarToroid1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/6A.png" class="foto" alt="Pentagonal regular star tetragonal toroid"></a>
- <br><b>faces:</b> 80 triangles
- <br><b>vertices:</b> 40
- <br><b>edges:</b> 120
+ <br><b>faces:</b> 80 triangles | <b>vertices:</b> 40 | <b>edges:</b> 120
  <br>
 <hr>
 <h4>7. Hexagonal regular tetragonal toroid</h4>
 <a href="vr/Regular6TetragonalToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/7A.png" class="foto" alt="Hexagonal regular tetragonal toroid"></a>
- <br><b>faces:</b> 24 trapezoids
- <br><b>vertices:</b> 24
- <br><b>edges:</b> 48
+ <br><b>faces:</b> 24 trapezoids | <b>vertices:</b> 24 | <b>edges:</b> 48
  <br>
 <hr>
 <h4>8. Hexagonal regular star tetragonal toroid</h4>
 <a href="vr/Regular6TetragonalStarToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/8A.png" class="foto" alt="Hexagonal regular star tetragonal toroid"></a>
- <br><b>faces:</b> 48 trapezoids
- <br><b>vertices:</b> 48
- <br><b>edges:</b> 96
+ <br><b>faces:</b> 48 trapezoids | <b>vertices:</b> 48 | <b>edges:</b> 96
  <br>
 <hr>
 <h4>9. Hexagonal regular star tetragonal toroid v2</h4>
 <a href="vr/Regular6TetragonalStarToroid1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto" alt="Hexagonal regular star tetragonal toroid"></a>
- <br><b>faces:</b> 96 triangles
- <br><b>vertices:</b> 48
- <br><b>edges:</b> 144
+ <br><b>faces:</b> 96 triangles | <b>vertices:</b> 48 | <b>edges:</b> 144
  <br>
 <hr>
 <h4>10. Hexagonal regular sinusoidal tetragonal toroid</h4>
 <a href="vr/Regular6TetragonalToroidSin.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Hexagonal regular sinusoidal tetragonal toroid"></a>
- <br><b>faces:</b> 48 triangles
- <br><b>vertices:</b> 24
- <br><b>edges:</b> 72
+ <br><b>faces:</b> 48 triangles | <b>vertices:</b> 24 | <b>edges:</b> 72
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>11. Hexagonal regular star sinusoidal tetragonal toroid</h4>
 <a href="vr/Regular6TetragonalStarToroidSin.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Hexagonal regular star sinusoidal tetragonal toroid"></a>
- <br><b>faces:</b> 96 triangles
- <br><b>vertices:</b> 48
- <br><b>edges:</b> 144
+ <br><b>faces:</b> 96 triangles | <b>vertices:</b> 48 | <b>edges:</b> 144
  <br>
 <hr>
 <h4>12. Heptagonal regular tetragonal toroid</h4>
 <a href="vr/Regular7TetragonalToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto" alt="Heptagonal regular tetragonal toroid"></a>
- <br><b>faces:</b> 28 trapezoids
- <br><b>vertices:</b> 28
- <br><b>edges:</b> 56
+ <br><b>faces:</b> 28 trapezoids | <b>vertices:</b> 28 | <b>edges:</b> 56
  <br>
 <hr>
 <h4>13. Heptagonal regular star tetragonal toroid</h4>
 <a href="vr/Regular7TetragonalStarToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto" alt="Heptagonal regular star tetragonal toroid"></a>
- <br><b>faces:</b> 56 trapezoids
- <br><b>vertices:</b> 56
- <br><b>edges:</b> 112
+ <br><b>faces:</b> 56 trapezoids | <b>vertices:</b> 56 | <b>edges:</b> 112
  <br>
 <hr>
 <h4>14. Heptagonal regular star tetragonal toroid v2</h4>
 <a href="vr/Regular7TetragonalStarToroid1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="Heptagonal regular star tetragonal toroid"></a>
- <br><b>faces:</b> 112 triangles
- <br><b>vertices:</b> 56
- <br><b>edges:</b> 168
+ <br><b>faces:</b> 112 triangles | <b>vertices:</b> 56 | <b>edges:</b> 168
  <br>
 <hr>
 <h4>15. Octagonal regular tetragonal toroid</h4>
 <a href="vr/Regular8TetragonalToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Octagonal regular tetragonal toroid"></a>
- <br><b>faces:</b> 32 trapezoids
- <br><b>vertices:</b> 32
- <br><b>edges:</b> 64
+ <br><b>faces:</b> 32 trapezoids | <b>vertices:</b> 32 | <b>edges:</b> 64
  <br>
 <hr>
 <h4>16. Octagonal regular star tetragonal toroid</h4>
 <a href="vr/Regular8TetragonalStarToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/16A.png" class="foto" alt="Octagonal regular star tetragonal toroid"></a>
- <br><b>faces:</b> 64 trapezoids
- <br><b>vertices:</b> 64
- <br><b>edges:</b> 128
+ <br><b>faces:</b> 64 trapezoids | <b>vertices:</b> 64 | <b>edges:</b> 128
  <br>
 <hr>
 <h4>17. Octagonal regular star tetragonal toroid v2</h4>
 <a href="vr/Regular8TetragonalStarToroid1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/17A.png" class="foto" alt="Octagonal regular star tetragonal toroid"></a>
- <br><b>faces:</b> 128 triangles
- <br><b>vertices:</b> 64
- <br><b>edges:</b> 192
+ <br><b>faces:</b> 128 triangles | <b>vertices:</b> 64 | <b>edges:</b> 192
  <br>
 <hr>
 <h4>18. Octagonal regular sinusoidal tetragonal toroid</h4>
 <a href="vr/Regular8TetragonalToroidSin.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/18A.png" class="foto" alt="Octagonal regular sinusoidal tetragonal toroid"></a>
- <br><b>faces:</b> 64 triangles
- <br><b>vertices:</b> 32
- <br><b>edges:</b> 96
+ <br><b>faces:</b> 64 triangles | <b>vertices:</b> 32 | <b>edges:</b> 96
  <br>
 <hr>
 <h4>19. Octagonal regular star sinusoidal tetragonal toroid</h4>
 <a href="vr/Regular8TetragonalStarToroidSin.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/19A.png" class="foto" alt="Octagonal regular star sinusoidal tetragonal toroid"></a>
- <br><b>faces:</b> 128 triangles
- <br><b>vertices:</b> 64
- <br><b>edges:</b> 192
+ <br><b>faces:</b> 128 triangles | <b>vertices:</b> 64 | <b>edges:</b> 192
  <br>
 <hr>
 <h4>20. Enneagonal regular tetragonal toroid</h4>
 <a href="vr/Regular9TetragonalToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/20A.png" class="foto" alt="Enneagonal regular tetragonal toroid"></a>
- <br><b>faces:</b> 36 trapezoids
- <br><b>vertices:</b> 36
- <br><b>edges:</b> 72
+ <br><b>faces:</b> 36 trapezoids | <b>vertices:</b> 36 | <b>edges:</b> 72
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>21. Enneagonal regular star tetragonal toroid</h4>
 <a href="vr/Regular9TetragonalStarToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/21A.png" class="foto" alt="Enneagonal regular star tetragonal toroid"></a>
- <br><b>faces:</b> 72 trapezoids
- <br><b>vertices:</b> 72
- <br><b>edges:</b> 144
+ <br><b>faces:</b> 72 trapezoids | <b>vertices:</b> 72 | <b>edges:</b> 144
  <br>
 <hr>
 <h4>22. Enneagonal regular star tetragonal toroid v2</h4>
 <a href="vr/Regular9TetragonalStarToroid1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/22A.png" class="foto" alt="Enneagonal regular star tetragonal toroid"></a>
- <br><b>faces:</b> 144 triangles
- <br><b>vertices:</b> 72
- <br><b>edges:</b> 216
+ <br><b>faces:</b> 144 triangles | <b>vertices:</b> 72 | <b>edges:</b> 216
  <br>
 <hr>
 <h4>23. Decagonal regular tetragonal toroid</h4>
 <a href="vr/Regular10TetragonalToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/23A.png" class="foto" alt="Decagonal regular tetragonal toroid"></a>
- <br><b>faces:</b> 40 trapezoids
- <br><b>vertices:</b> 40
- <br><b>edges:</b> 80
+ <br><b>faces:</b> 40 trapezoids | <b>vertices:</b> 40 | <b>edges:</b> 80
  <br>
 <hr>
 <h4>24. Decagonal regular star tetragonal toroid</h4>
 <a href="vr/Regular10TetragonalStarToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/24A.png" class="foto" alt="Decagonal regular star tetragonal toroid"></a>
- <br><b>faces:</b> 80 trapezoids
- <br><b>vertices:</b> 80
- <br><b>edges:</b> 160
+ <br><b>faces:</b> 80 trapezoids | <b>vertices:</b> 80 | <b>edges:</b> 160
  <br>
 <hr>
 <h4>25. Decagonal regular star tetragonal toroid v2</h4>
 <a href="vr/Regular10TetragonalStarToroid1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/25A.png" class="foto" alt="Decagonal regular star tetragonal toroid"></a>
- <br><b>faces:</b> 160 triangles
- <br><b>vertices:</b> 80
- <br><b>edges:</b> 240
+ <br><b>faces:</b> 160 triangles | <b>vertices:</b> 80 | <b>edges:</b> 240
  <br>
 <hr>
 <h4>26. Decagonal regular sinusoidal tetragonal toroid</h4>
 <a href="vr/Regular10TetragonalToroidSin.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/26A.png" class="foto" alt="Decagonal regular sinusoidal tetragonal toroid"></a>
- <br><b>faces:</b> 80 triangles
- <br><b>vertices:</b> 40
- <br><b>edges:</b> 120
+ <br><b>faces:</b> 80 triangles | <b>vertices:</b> 40 | <b>edges:</b> 120
  <br>
 <hr>
 <h4>27. Decagonal regular star sinusoidal tetragonal toroid</h4>
 <a href="vr/Regular10TetragonalStarToroidSin.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/27A.png" class="foto" alt="Decagonal regular star sinusoidal tetragonal toroid"></a>
- <br><b>faces:</b> 160 triangles
- <br><b>vertices:</b> 80
- <br><b>edges:</b> 240
+ <br><b>faces:</b> 160 triangles | <b>vertices:</b> 80 | <b>edges:</b> 240
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
