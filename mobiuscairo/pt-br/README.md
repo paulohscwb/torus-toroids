@@ -66,7 +66,7 @@ O azulejo do Cairo recebeu esse nome em homenagem ao padrão de reboco de alguma
  <br>
 <hr>
 <h4>6. Toroide de Möbius e Vélez-Jahn de Tetraedro Chanfrado</h4>
-<a href="../vr/ChamferedTetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/6A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Tetraedros Chanfrados"></a>
+<a href="../vr/ChamferedTetrahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/6A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Tetraedros Chanfrados"></a>
  <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Tetraedros Chanfrados
  <br>
 <hr>
@@ -86,33 +86,33 @@ O azulejo do Cairo recebeu esse nome em homenagem ao padrão de reboco de alguma
  <br>
 <hr>
 <h4>10. Toroide de Möbius e Vélez-Jahn de Cuboctaedro</h4>
-<a href="../vr/Cuboctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Cuboctaedro"></a>
+<a href="../vr/Cuboctahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Cuboctaedro"></a>
  <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Cuboctaedros
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>11. Toroide de Möbius e Vélez-Jahn de Cuboctaedro com pipas</h4>
-<a href="../vr/CuboctahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Cuboctaedro com pipas"></a>
+<a href="../vr/CuboctahedronKites.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Cuboctaedro com pipas"></a>
  <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Cuboctaedros com pipas
  <br>
 <hr>
 <h4>12. Toroide de Möbius e Vélez-Jahn de Cubohemioctaedro</h4>
-<a href="../vr/Cubohemioctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Cubohemioctaedro"></a>
+<a href="../vr/Cubohemioctahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Cubohemioctaedro"></a>
  <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Cubohemioctaedros
  <br>
 <hr>
 <h4>13. Toroide de Möbius e Vélez-Jahn do sólido de Escher</h4>
-<a href="../vr/Escher.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn do sólido de Escher"></a>
+<a href="../vr/Escher.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn do sólido de Escher"></a>
  <br>Toroide de Möbius e Vélez-Jahn modelado com 10 sólidos de Escher
  <br>
 <hr>
 <h4>14. Toroide de Möbius e Vélez-Jahn de Grande Cubicuboctaedro</h4>
-<a href="../vr/GreatCubicuboctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/14A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Grande Cubicuboctaedro"></a>
+<a href="../vr/GreatCubicuboctahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/14A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Grande Cubicuboctaedro"></a>
  <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Grandes Cubicuboctaedros
  <br>
 <hr>
 <h4>15. Toroide de Möbius e Vélez-Jahn de Grande Rombihexaedro</h4>
-<a href="../vr/GreatRhombihexahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Grande Rombihexaedro"></a>
+<a href="../vr/GreatRhombihexahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Grande Rombihexaedro"></a>
  <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Grandes Rombihexaedros
  <br>
 <hr>
@@ -122,22 +122,22 @@ O azulejo do Cairo recebeu esse nome em homenagem ao padrão de reboco de alguma
  <br>
 <hr>
 <h4>17. Toroide de Möbius e Vélez-Jahn de Octahemioctacron</h4>
-<a href="../vr/Octahemioctacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Octahemioctacron"></a>
+<a href="../vr/Octahemioctacron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Octahemioctacron"></a>
  <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Octahemioctacrons
  <br>
 <hr>
 <h4>18. Toroide de Möbius e Vélez-Jahn de Octahemioctaedro</h4>
-<a href="../vr/Octahemioctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Octahemioctaedro"></a>
+<a href="../vr/Octahemioctahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Octahemioctaedro"></a>
  <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Octahemioctaedros
  <br>
 <hr>
 <h4>19. Toroide de Möbius e Vélez-Jahn de Rombicuboctaedro</h4>
-<a href="../vr/Rhombicuboctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/19A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Rombicuboctaedro"></a>
+<a href="../vr/Rhombicuboctahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/19A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Rombicuboctaedro"></a>
  <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Rombicuboctaedros
  <br>
 <hr>
 <h4>20. Toroide de Möbius e Vélez-Jahn de Rombicuboctaedro com pipas</h4>
-<a href="../vr/RhombicuboctahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/20A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Rombicuboctaedro com pipas"></a>
+<a href="../vr/RhombicuboctahedronKites.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/20A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Rombicuboctaedro com pipas"></a>
  <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Rombicuboctaedros com pipas
  <br>
 <hr>
@@ -148,7 +148,7 @@ O azulejo do Cairo recebeu esse nome em homenagem ao padrão de reboco de alguma
  <br>
 <hr>
 <h4>22. Toroide de Möbius e Vélez-Jahn de Pequeno Rombihexaedro</h4>
-<a href="../vr/SmallRhombihexahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/22A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Pequeno Rombihexaedro"></a>
+<a href="../vr/SmallRhombihexahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/22A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Pequeno Rombihexaedro"></a>
  <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Pequenos Rombihexaedros
  <br>
 <hr>

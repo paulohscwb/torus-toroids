@@ -66,7 +66,7 @@ Cairo tiles are named after the plaster pattern on some streets in Cairo.
  <br>
 <hr>
 <h4>6. Möbius and Vélez-Jahn Toroid of Chamfered Tetrahedron</h4>
-<a href="vr/ChamferedTetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/6A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Chamfered Tetrahedra"></a>
+<a href="vr/ChamferedTetrahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/6A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Chamfered Tetrahedra"></a>
  <br>Möbius and Vélez-Jahn toroid modeled with 10 Chamfered Tetrahedra
  <br>
 <hr>
@@ -86,33 +86,33 @@ Cairo tiles are named after the plaster pattern on some streets in Cairo.
  <br>
 <hr>
 <h4>10. Möbius and Vélez-Jahn Toroid of Cuboctahedron</h4>
-<a href="vr/Cuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Cuboctahedron"></a>
+<a href="vr/Cuboctahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Cuboctahedron"></a>
  <br>Möbius and Vélez-Jahn toroid modeled with 10 Cuboctahedrons
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>11. Möbius and Vélez-Jahn Toroid of Cuboctahedron kites</h4>
-<a href="vr/CuboctahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Cuboctahedron kites"></a>
+<a href="vr/CuboctahedronKites.html" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Cuboctahedron kites"></a>
  <br>Möbius and Vélez-Jahn toroid modeled with 10 Cuboctahedrons kites
  <br>
 <hr>
 <h4>12. Möbius and Vélez-Jahn Toroid of Cubohemioctahedron</h4>
-<a href="vr/Cubohemioctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Cubohemioctahedron"></a>
+<a href="vr/Cubohemioctahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Cubohemioctahedron"></a>
  <br>Möbius and Vélez-Jahn toroid modeled with 10 Cubohemioctahedrons
  <br>
 <hr>
 <h4>13. Möbius and Vélez-Jahn Toroid of Escher solid</h4>
-<a href="vr/Escher.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Escher solid"></a>
+<a href="vr/Escher.html" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Escher solid"></a>
  <br>Möbius and Vélez-Jahn toroid modeled with 10 Escher solids
  <br>
 <hr>
 <h4>14. Möbius and Vélez-Jahn Toroid of Great Cubicuboctahedron</h4>
-<a href="vr/GreatCubicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Great Cubicuboctahedron"></a>
+<a href="vr/GreatCubicuboctahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Great Cubicuboctahedron"></a>
  <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Cubicuboctahedrons
  <br>
 <hr>
 <h4>15. Möbius and Vélez-Jahn Toroid of Great Rhombihexahedron</h4>
-<a href="vr/GreatRhombihexahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Great Rhombihexahedron"></a>
+<a href="vr/GreatRhombihexahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Great Rhombihexahedron"></a>
  <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Rhombihexahedrons
  <br>
 <hr>
@@ -122,22 +122,22 @@ Cairo tiles are named after the plaster pattern on some streets in Cairo.
  <br>
 <hr>
 <h4>17. Möbius and Vélez-Jahn Toroid of Octahemioctacron</h4>
-<a href="vr/Octahemioctacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/17A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Octahemioctacron"></a>
+<a href="vr/Octahemioctacron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/17A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Octahemioctacron"></a>
  <br>Möbius and Vélez-Jahn toroid modeled with 10 Octahemioctacrons
  <br>
 <hr>
 <h4>18. Möbius and Vélez-Jahn Toroid of Octahemioctahedron</h4>
-<a href="vr/Octahemioctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/18A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Octahemioctahedron"></a>
+<a href="vr/Octahemioctahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/18A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Octahemioctahedron"></a>
  <br>Möbius and Vélez-Jahn toroid modeled with 10 Octahemioctahedrons
  <br>
 <hr>
 <h4>19. Möbius and Vélez-Jahn Toroid of Rhombicuboctahedron</h4>
-<a href="vr/Rhombicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Rhombicuboctahedron"></a>
+<a href="vr/Rhombicuboctahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/19A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Rhombicuboctahedron"></a>
  <br>Möbius and Vélez-Jahn toroid modeled with 10 Rhombicuboctahedrons
  <br>
 <hr>
 <h4>20. Möbius and Vélez-Jahn Toroid of Rhombicuboctahedron kites</h4>
-<a href="vr/RhombicuboctahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/20A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Rhombicuboctahedron kites"></a>
+<a href="vr/RhombicuboctahedronKites.html" target="_blank" title="3D model" class="fotoA"><img src="ar/20A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Rhombicuboctahedron kites"></a>
  <br>Möbius and Vélez-Jahn toroid modeled with 10 Rhombicuboctahedrons kites
  <br>
 <hr>
@@ -148,7 +148,7 @@ Cairo tiles are named after the plaster pattern on some streets in Cairo.
  <br>
 <hr>
 <h4>22. Möbius and Vélez-Jahn Toroid of Small Rhombihexahedron</h4>
-<a href="vr/SmallRhombihexahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/22A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Small Rhombihexahedron"></a>
+<a href="vr/SmallRhombihexahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/22A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Small Rhombihexahedron"></a>
  <br>Möbius and Vélez-Jahn toroid modeled with 10 Small Rhombihexahedrons
  <br>
 <hr>
