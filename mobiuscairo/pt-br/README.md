@@ -36,7 +36,7 @@ O azulejo do Cairo recebeu esse nome em homenagem ao padrão de reboco de alguma
 <br>Este trabalho mostra toroides de Möbius, Vélez-Jahn e Cairo modelados em 3D, com as visualizações que podem ser acessadas com recursos em salas de Realidade Virtual imersivas.
  <p align="center"><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
  <hr>
-  <p align="center"><img src="../vr/salas/videos/cairo1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="VR immersive iris"/><img src="../vr/salas/videos/cairo2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR immersive iris"/></p>  
+  <p align="center"><img src="../vr/salas/videos/cairo1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="VR immersive Cairo"/><img src="../vr/salas/videos/cairo2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR immersive Mobius"/></p>  
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXgcL9RxOVEfCA1KDLByHZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->

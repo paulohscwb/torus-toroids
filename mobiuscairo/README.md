@@ -36,7 +36,7 @@ Cairo tiles are named after the plaster pattern on some streets in Cairo.
 <br>This work shows Möbius, Vélez-Jahn and Cairo toroids modeled in 3D, with views that can be accessed with resources in immersive Virtual Reality rooms.
  <p align="center"><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
  <hr>
- <p align="center"><img src="vr/salas/videos/cairo1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV de Iris"/><img src="vr/salas/videos/cairo2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de Iris"/></p>
+ <p align="center"><img src="vr/salas/videos/cairo1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV de Cairo"/><img src="vr/salas/videos/cairo2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de Mobius"/></p>
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXgcL9RxOVEfCA1KDLByHZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
