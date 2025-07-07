@@ -52,7 +52,7 @@ O azulejo do Cairo recebeu esse nome em homenagem ao padrão de reboco de alguma
 <hr>
 <h4>3. Toroide de azulejo de Cairo v3</h4>
 <a href="../vr/CairoTiling_B.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3A.png" class="foto" alt="Toroide de azulejo de Cairo"></a>
- <br><b>faces:</b> 16 pentágonos simétricos | <b>vértices:</b> 24 | <b>arestas:</b> 40
+ <br><b>faces:</b> 16 pentágonos irregulares | <b>vértices:</b> 24 | <b>arestas:</b> 40
  <br>
 <hr>
 <h4>4. Toroide de azulejo de Cairo bumerangue</h4>

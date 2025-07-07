@@ -52,7 +52,7 @@ Cairo tiles are named after the plaster pattern on some streets in Cairo.
 <hr>
 <h4>3. Cairo Tiling Toroid v3</h4>
 <a href="vr/CairoTiling_B.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/3A.png" class="foto" alt="Cairo Tiling Toroid"></a>
- <br><b>faces:</b> 16 mirror-symmetric pentagons | <b>vertices:</b> 24 | <b>edges:</b> 40
+ <br><b>faces:</b> 16 irregular pentagons | <b>vertices:</b> 24 | <b>edges:</b> 40
  <br>
 <hr>
 <h4>4. Cairo Tiling boomerang Toroid</h4>
