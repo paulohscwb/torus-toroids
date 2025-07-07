@@ -32,7 +32,7 @@ function urlHandler(value) {
 <p id="p1"></p>
   <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Möbius, Vélez-Jahn and Cairo toroids</h2>
 Cairo tiles are named after the plaster pattern on some streets in Cairo.
-<br>Os sólidos com características semelhantes às folhas de Möbius foram descobertos por Gonzalo Vélez-Jahn em 1968. Estes sólidos foram descritos por Martin Gardner como poliedros toroidais, que são transformações de anéis prismáticos.
+<br>Solids with characteristics similar to Möbius sheets were discovered by Gonzalo Vélez-Jahn in 1968. These solids were described by Martin Gardner as toroidal polyhedra, which are transformations of prismatic rings.
 <br>This work shows Möbius, Vélez-Jahn and Cairo toroids modeled in 3D, with views that can be accessed with resources in immersive Virtual Reality rooms.
  <p align="center"><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
  <hr>
