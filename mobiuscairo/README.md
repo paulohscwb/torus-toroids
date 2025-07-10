@@ -182,6 +182,246 @@ Cairo tiles are named after the plaster pattern on some streets in Cairo.
  <br>Möbius and Vélez-Jahn toroid modeled with 10 Truncated Octahedrons kites
  <br>
 <hr>
+<h4>29. Möbius and Vélez-Jahn Toroid of Concave Dodecahedron</h4>
+<a href="vr/ConcaveDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/29A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of concave dodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Concave Dodecahedrons
+ <br>
+<hr>
+<h4>30. Möbius and Vélez-Jahn Toroid of Ditrigonal Dodecadodecahedron</h4>
+<a href="vr/DitrigonalDodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/30A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of ditrigonal dodecadodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Ditrigonal Dodecadodecahedrons
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>31. Möbius and Vélez-Jahn Toroid of Dodecadodecahedron</h4>
+<a href="vr/Dodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/31A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Dodecadodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Dodecadodecahedrons
+ <br>
+<hr>
+<h4>32. Möbius and Vélez-Jahn Toroid of Dodecahedron</h4>
+<a href="vr/Dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/32A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Dodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Dodecahedrons
+ <br>
+<hr>
+<h4>33. Möbius and Vélez-Jahn Toroid of Great Ditrigonal Dodecicosidodecahedron</h4>
+<a href="vr/GreatDitrigonalDodecicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/33A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Great Ditrigonal Dodecicosidodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Ditrigonal Dodecicosidodecahedrons
+ <br>
+<hr>
+<h4>34. Möbius and Vélez-Jahn Toroid of Great Ditrigonal Icosidodecahedron</h4>
+<a href="vr/GreatDitrigonalIcosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/34A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Great Ditrigonal Icosidodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Ditrigonal Icosidodecahedrons
+ <br>
+<hr>
+<h4>35. Möbius and Vélez-Jahn Toroid of Great Dodecacronic Hexecontahedron</h4>
+<a href="vr/GreatDodecacronicHexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of great dodecacronic hexecontahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Dodecacronic Hexecontahedrons
+ <br>
+<hr>
+<h4>36. Möbius and Vélez-Jahn Toroid of Great Godecahedron</h4>
+<a href="vr/GreatDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of great dodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Dodecahedrons
+ <br>
+<hr>
+<h4>37. Möbius and Vélez-Jahn Toroid of Great Dodecahemicosahedron</h4>
+<a href="vr/GreatDodecahemicosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of great dodecahemicosahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Dodecahemicosahedrons
+ <br>
+<hr>
+<h4>38. Möbius and Vélez-Jahn Toroid of Great Dodecahemidodecahedron</h4>
+<a href="vr/GreatDodecahemidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/38A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of great dodecahemidodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Dodecahemidodecahedrons
+ <br>
+<hr>
+<h4>39. Möbius and Vélez-Jahn Toroid of Great Dodecicosahedron</h4>
+<a href="vr/GreatDodecicosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/39A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of great dodecicosahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Dodecicosahedrons
+ <br>
+<hr>
+<h4>40. Möbius and Vélez-Jahn Toroid of Great Dodecicosidodecahedron</h4>
+<a href="vr/GreatDodecicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/40A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of great dodecicosidodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Dodecicosidodecahedrons
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>41. Möbius and Vélez-Jahn Toroid of Great Icosahedron</h4>
+<a href="vr/GreatIcosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/41A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of great icosahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Icosahedrons
+ <br>
+<hr>
+<h4>42. Möbius and Vélez-Jahn Toroid of Great Icosicosidodecahedron</h4>
+<a href="vr/GreatIcosicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/42A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of great icosicosidodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Icosicosidodecahedrons
+ <br>
+<hr>
+<h4>43. Möbius and Vélez-Jahn Toroid of Great Icosidodecahedron</h4>
+<a href="vr/GreatIcosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/43A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of great icosidodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Icosidodecahedrons
+ <br>
+<hr>
+<h4>44. Möbius and Vélez-Jahn Toroid of Great Icosihemidodecahedron</h4>
+<a href="vr/GreatIcosihemidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/44A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of great icosihemidodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Icosihemidodecahedrons
+ <br>
+<hr>
+<h4>45. Möbius and Vélez-Jahn Toroid of Great Rhombidodecahedron</h4>
+<a href="vr/GreatRhombidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/45A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of great rhombidodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Great rhombidodecahedrons
+ <br>
+<hr>
+<h4>46. Möbius and Vélez-Jahn Toroid of Great Stellated Truncated Dodecahedron</h4>
+<a href="vr/GreatStellatedTruncatedDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/46A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of great stellated truncated dodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Stellated Truncated Dodecahedrons
+ <br>
+<hr>
+<h4>47. Möbius and Vélez-Jahn Toroid of Great Truncated Icosidodecahedron</h4>
+<a href="vr/GreatTruncatedIcosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/47A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of great truncated icosidodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Truncated Icosidodecahedrons
+ <br>
+<hr>
+<h4>48. Möbius and Vélez-Jahn Toroid of Icosahedron</h4>
+<a href="vr/Icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/48A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Icosahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Icosahedrons
+ <br>
+<hr>
+<h4>49. Möbius and Vélez-Jahn Toroid of Icosidodecadodecahedron</h4>
+<a href="vr/Icosidodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/49A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of icosidodecadodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Icosidodecadodecahedrons
+ <br>
+<hr>
+<h4>50. Möbius and Vélez-Jahn Toroid of Icositruncated Dodecadodecahedron</h4>
+<a href="vr/IcositruncatedDodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/50A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Icositruncated Dodecadodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Icositruncated Dodecadodecahedrons
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>51. Möbius and Vélez-Jahn Toroid of Pentakis Dodecahedron</h4>
+<a href="vr/PentakisDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/51A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Pentakis Dodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Pentakis Dodecahedrons
+ <br>
+<hr>
+<h4>52. Möbius and Vélez-Jahn Toroid of Rhombicosahedron</h4>
+<a href="vr/Rhombicosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/52A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Rhombicosahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Rhombicosahedrons
+ <br>
+<hr>
+<h4>53. Möbius and Vélez-Jahn Toroid of Rhombicosidodecahedron</h4>
+<a href="vr/Rhombicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/53A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Rhombicosidodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Rhombicosidodecahedrons
+ <br>
+<hr>
+<h4>54. Möbius and Vélez-Jahn Toroid of Rhombidodecadodecahedron</h4>
+<a href="vr/Rhombidodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/54A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Rhombidodecadodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Rhombidodecadodecahedron
+ <br>
+<hr>
+<h4>55. Möbius and Vélez-Jahn Toroid of Small Ditrigonal Dodecicosidodecahedron</h4>
+<a href="vr/SmallDitrigonalDodecicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/55A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Small Ditrigonal Dodecicosidodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Small Ditrigonal Dodecicosidodecahedrons
+ <br>
+<hr>
+<h4>56. Möbius and Vélez-Jahn Toroid of Small Ditrigonal Icosidodecahedron</h4>
+<a href="vr/SmallDitrigonalIcosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/56A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Small Ditrigonal Icosidodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Small Ditrigonal Icosidodecahedrons
+ <br>
+<hr>
+<h4>57. Möbius and Vélez-Jahn Toroid of Small Dodecahemicosahedron</h4>
+<a href="vr/SmallDodecahemicosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/57A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Small Dodecahemicosahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Small Dodecahemicosahedrons
+ <br>
+<hr>
+<h4>58. Möbius and Vélez-Jahn Toroid of Small Dodecicosahedron</h4>
+<a href="vr/SmallDodecicosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/58A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Small dodecicosahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Small Dodecicosahedrons
+ <br>
+<hr>
+<h4>59. Möbius and Vélez-Jahn Toroid of Small Dodecicosidodecahedron</h4>
+<a href="vr/SmallDodecicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/59A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Small dodecicosidodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Small Dodecicosidodecahedrons
+ <br>
+<hr>
+<h4>60. Möbius and Vélez-Jahn Toroid of Small Hexagonal Hexecontahedron</h4>
+<a href="vr/SmallHexagonalHexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/60A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Small Hexagonal Hexecontahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Small Hexagonal Hexecontahedrons
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>61. Möbius and Vélez-Jahn Toroid of Small Icosicosidodecahedron</h4>
+<a href="vr/SmallIcosicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/61A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Small icosicosidodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Small Icosicosidodecahedrons
+ <br>
+<hr>
+<h4>62. Möbius and Vélez-Jahn Toroid of Small Rhombidodecahedron</h4>
+<a href="vr/SmallRhombidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/62A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Small Rhombidodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Small Rhombidodecahedrons
+ <br>
+<hr>
+<h4>63. Möbius and Vélez-Jahn Toroid of Small Snub Icosicosidodecahedron</h4>
+<a href="vr/SmallSnubIcosicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/63A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Small Snub Icosicosidodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Small Snub Icosicosidodecahedrons
+ <br>
+<hr>
+<h4>64. Möbius and Vélez-Jahn Toroid of Small Stellated Truncated Dodecahedron</h4>
+<a href="vr/SmallStellatedTruncatedDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/64A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Small Stellated Truncated Dodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Small Stellated Truncated Dodecahedrons
+ <br>
+<hr>
+<h4>65. Möbius and Vélez-Jahn Toroid of Small Triambic Icosahedron</h4>
+<a href="vr/SmallTriambicIcosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/65A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Small Triambic Icosahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Small Triambic Icosahedrons
+ <br>
+<hr>
+<h4>66. Möbius and Vélez-Jahn Toroid of Stellated Truncated Hexahedron</h4>
+<a href="vr/StellatedTruncatedHexahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/66A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Stellated Truncated Hexahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Stellated Truncated Hexahedrons
+ <br>
+<hr>
+<h4>67. Möbius and Vélez-Jahn Toroid of Triakis Icosahedron</h4>
+<a href="vr/TriakisIcosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/67A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Triakis Icosahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Triakis Icosahedrons
+ <br>
+<hr>
+<h4>68. Möbius and Vélez-Jahn Toroid of Truncated Dodecadodecahedron</h4>
+<a href="vr/TruncatedDodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/68A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Truncated Dodecadodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Truncated Dodecadodecahedrons
+ <br>
+<hr>
+<h4>69. Möbius and Vélez-Jahn Toroid of Truncated Dodecahedron</h4>
+<a href="vr/TruncatedDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/69A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Truncated Dodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Truncated Dodecahedrons
+ <br>
+<hr>
+<h4>70. Möbius and Vélez-Jahn Toroid of Great Truncated Dodecahedron</h4>
+<a href="vr/TruncatedGreatDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/70A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Great Truncated Dodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Truncated Dodecahedrons
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>71. Möbius and Vélez-Jahn Toroid of Great Truncated Icosahedron</h4>
+<a href="vr/TruncatedGreatIcosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/71A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Great Truncated Icosahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Truncated Icosahedrons
+ <br>
+<hr>
+<h4>72. Möbius and Vélez-Jahn Toroid of Truncated Icosahedron</h4>
+<a href="vr/TruncatedIcosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/72A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Truncated Icosahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Truncated Icosahedrons
+ <br>
+<hr>
+<h4>73. Möbius and Vélez-Jahn Toroid of Truncated Icosidodecahedron</h4>
+<a href="vr/TruncatedIcosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/73A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Truncated Icosidodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Truncated Icosidodecahedrons
+ <br>
+<hr>
+<h4>74. Möbius and Vélez-Jahn Toroid of Uniform Great Rhombicosidodecahedron</h4>
+<a href="vr/UniformGreatRhombicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/74A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Uniform Great Rhombicosidodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Uniform Great Rhombicosidodecahedrons
+ <br>
+<hr>
+<h4>75. Möbius and Vélez-Jahn Toroid of Uniform Great Rhombicuboctahedron</h4>
+<a href="vr/UniformGreatRhombicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/75A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Uniform Great Rhombicuboctahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Uniform Great Rhombicuboctahedrons
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 
