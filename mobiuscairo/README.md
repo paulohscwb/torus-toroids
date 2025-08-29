@@ -39,7 +39,7 @@ Cairo tiles are named after the plaster pattern on some streets in Cairo.
  <p align="center"><img src="vr/salas/videos/cairo1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV de Cairo"/><img src="vr/salas/videos/cairo2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de Mobius"/></p>
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxX4SO0YCbBirWFdv0fun3KV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxX4SO0YCbBirWFdv0fun3KV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Cairo Tiling Toroid</h4>
 <a href="vr/CairoTiling.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/1A.png" class="foto" alt="Cairo Tiling Toroid"></a>
  <br><b>faces:</b> 8 mirror-symmetric pentagons | <b>vertices:</b> 12 | <b>edges:</b> 20
