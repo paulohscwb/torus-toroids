@@ -13,8 +13,8 @@
 		<option value="../iris/">Iris toroids</option>
 		<option value="../regulartetrag/">Regular tetragonal toroids</option>
 		<option disabled value="../mobiuscairo/">Möbius, Vélez-Jahn and Cairo toroids</option>
-		<!--<option value="../hexagonal/">Hexagonal toroids</option>
-		<option value="../heptagonal/">Heptagonal dodecahedrons</option>
+		<option value="../hexagonal/">Hexagonal toroids</option>
+		<!--<option value="../heptagonal/">Heptagonal dodecahedrons</option>
 		<option value="../regular1/">Regular polygonal toroids 1</option>
 		<option value="../regular2/">Regular polygonal toroids 2</option>
 		<option value="../regular3/">Regular polygonal toroids 3</option>

@@ -15,8 +15,8 @@
 <h3 style="margin-top:3px"><a target="_blank" href="iris/"><img src="iris/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Iris toroids</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="regulartetrag/"><img src="regulartetrag/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Regular tetragonal toroids</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="mobiuscairo/"><img src="mobiuscairo/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Möbius, Vélez-Jahn and Cairo toroids</a></h3>
-<!--<h3 style="margin-top:3px"><a target="_blank" href="hexagonal/"><img src="hexagonal/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Hexagonal toroids</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="heptagonal/"><img src="heptagonal/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Heptagonal dodecahedrons</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="hexagonal/"><img src="hexagonal/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Hexagonal toroids</a></h3>
+<!--<h3 style="margin-top:3px"><a target="_blank" href="heptagonal/"><img src="heptagonal/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Heptagonal dodecahedrons</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="regular1/"><img src="regular1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Regular polygonal toroids 1</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="regular2/"><img src="regular2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Regular polygonal toroids 2</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="regular3/"><img src="regular3/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Regular polygonal toroids 3</a></h3>
