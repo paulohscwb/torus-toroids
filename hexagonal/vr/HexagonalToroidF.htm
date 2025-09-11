@@ -15,13 +15,13 @@
     <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
 		<a-assets>
 			<a-mixin id="mtl9" material="color: #8ec; side:double;"></a-mixin>
-			<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.08364; segments-height:20; segments-width:20;" material="metalness:0.4; roughness:0.5;">
+			<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.05364; segments-height:20; segments-width:20;" material="metalness:0.4; roughness:0.5;">
 			<a-asset-item id="material" src="obj/c1.mtl"></a-asset-item>
 			<a-asset-item id="poli" src="obj/HexagonalToroid_F.obj"></a-asset-item>
 			<a-asset-item id="poliw" src="obj/HexagonalToroid_FL.obj"></a-asset-item>
 		</a-assets>
 		
-		<a-entity scale="2.2 2.2 2.2">
+		<a-entity rotation="0 150 0" scale="2.2 2.2 2.2">
 			<a-light type="point" color="white" intensity="0.5" position="0 0 0"></a-light>
 			<a-obj-model id="fc" src="#poli" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model id="ar" src="#poliw" mtl="#material"></a-obj-model>
