@@ -38,7 +38,7 @@ O azulejo do Cairo recebeu esse nome em homenagem ao padrão de reboco de alguma
  <hr>
   <p align="center"><img src="../vr/salas/videos/cairo1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="VR immersive Cairo"/><img src="../vr/salas/videos/cairo2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR immersive Mobius"/></p>  
 <hr>
-<h3 id="m3d" align="center">3D models</h3>
+<h3 id="m3d" align="center">Modelos 3D</h3>
 <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxX4SO0YCbBirWFdv0fun3KV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Toroide de azulejo de Cairo</h4>
 <a href="../vr/CairoTiling.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Toroide de azulejo de Cairo"></a>
