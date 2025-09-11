@@ -66,7 +66,7 @@ This work shows hexagonal toroids modeled in 3D, with views that can be accessed
  <br>
 <hr>
 <h4>6. Hexagonal toroid A</h4>
-<a href="vr/HexagonalToroidA.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/6A.png" class="foto" alt="Toroide de íris anti-decagonal"></a>
+<a href="vr/HexagonalToroidA.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/6A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 8 nonconvex hexagons | <b>vertices:</b> 16 | <b>edges:</b> 24
  <br>
 <hr>
