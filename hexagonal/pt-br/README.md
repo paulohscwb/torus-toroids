@@ -65,109 +65,109 @@ Este trabalho mostra toroides hexagonais modelados em 3D, com as visualizações
  <br><b>faces:</b> 7 hexágonos (1 convexo e 6 não convexos) | <b>vértices:</b> 14 | <b>arestas:</b> 21
  <br>
 <hr>
-<h4>6. Toroide hexagonal A</h4>
+<h4>6. Toroide hexagonal #1</h4>
 <a href="../vr/HexagonalToroidA.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/6A.png" class="foto" alt="Toroide hexagonal"></a>
  <br><b>faces:</b> 8 hexágonos não convexos | <b>vértices:</b> 16 | <b>arestas:</b> 24
  <br>
 <hr>
-<h4>7. Toroide hexagonal B</h4>
+<h4>7. Toroide hexagonal #2</h4>
 <a href="../vr/HexagonalToroidB.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/7A.png" class="foto" alt="Toroide hexagonal"></a>
  <br><b>faces:</b> 9 hexágonos (3 convexos e 6 não convexos) | <b>vértices:</b> 18 | <b>arestas:</b> 27
  <br>
 <hr>
-<h4>8. Toroide hexagonal C</h4>
+<h4>8. Toroide hexagonal #3</h4>
 <a href="../vr/HexagonalToroidC.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/8A.png" class="foto" alt="Toroide hexagonal"></a>
  <br><b>faces:</b> 8 hexágonos não convexos | <b>vértices:</b> 16 | <b>arestas:</b> 24
  <br>
 <hr>
-<h4>9. Toroide hexagonal D</h4>
+<h4>9. Toroide hexagonal #4</h4>
 <a href="../vr/HexagonalToroidD.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto" alt="Toroide hexagonal"></a>
  <br><b>faces:</b> 9 hexágonos não convexos | <b>vértices:</b> 18 | <b>arestas:</b> 27
  <br>
 <hr>
-<h4>10. Toroide hexagonal E</h4>
+<h4>10. Toroide hexagonal #5</h4>
 <a href="../vr/HexagonalToroidE.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Toroide hexagonal"></a>
  <br><b>faces:</b> 9 hexágonos não convexos | <b>vértices:</b> 18 | <b>arestas:</b> 27
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
-<h4>11. Toroide hexagonal F</h4>
+<h4>11. Toroide hexagonal #6</h4>
 <a href="../vr/HexagonalToroidF.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="Toroide hexagonal"></a>
  <br><b>faces:</b> 10 hexágonos não convexos | <b>vértices:</b> 20 | <b>arestas:</b> 30
  <br>
 <hr>
-<h4>12. Toroide hexagonal G</h4>
+<h4>12. Toroide hexagonal #7</h4>
 <a href="../vr/HexagonalToroidG.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12A.png" class="foto" alt="Toroide hexagonal"></a>
  <br><b>faces:</b> 10 hexágonos não convexos | <b>vértices:</b> 20 | <b>arestas:</b> 30
  <br>
 <hr>
-<h4>13. Toroide hexagonal H</h4>
+<h4>13. Toroide hexagonal #8</h4>
 <a href="../vr/HexagonalToroidH.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13A.png" class="foto" alt="Toroide hexagonal"></a>
  <br><b>faces:</b> 12 hexágonos não convexos | <b>vértices:</b> 24 | <b>arestas:</b> 36
  <br>
 <hr>
-<h4>14. Toroide hexagonal I</h4>
+<h4>14. Toroide hexagonal #9</h4>
 <a href="../vr/HexagonalToroidI.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/14A.png" class="foto" alt="Toroide hexagonal"></a>
  <br><b>faces:</b> 12 hexágonos não convexos | <b>vértices:</b> 24 | <b>arestas:</b> 36
  <br>
 <hr>
-<h4>15. Toroide hexagonal J</h4>
+<h4>15. Toroide hexagonal #10</h4>
 <a href="../vr/HexagonalToroidJ.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15A.png" class="foto" alt="Toroide hexagonal"></a>
  <br><b>faces:</b> 12 hexágonos não convexos | <b>vértices:</b> 24 | <b>arestas:</b> 36
  <br>
 <hr>
-<h4>16. Toroide hexagonal K</h4>
+<h4>16. Toroide hexagonal #11</h4>
 <a href="../vr/HexagonalToroidK.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/16A.png" class="foto" alt="Toroide hexagonal"></a>
  <br><b>faces:</b> 12 hexágonos não convexos | <b>vértices:</b> 24 | <b>arestas:</b> 36
  <br>
 <hr>
-<h4>17. Toroide hexagonal L</h4>
+<h4>17. Toroide hexagonal #12</h4>
 <a href="../vr/HexagonalToroidL.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17A.png" class="foto" alt="Toroide hexagonal"></a>
  <br><b>faces:</b> 12 hexágonos não convexos | <b>vértices:</b> 24 | <b>arestas:</b> 36
  <br>
 <hr>
-<h4>18. Toroide hexagonal M</h4>
+<h4>18. Toroide hexagonal #13</h4>
 <a href="../vr/HexagonalToroidM.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18A.png" class="foto" alt="Toroide hexagonal"></a>
  <br><b>faces:</b> 13 hexágonos não convexos | <b>vértices:</b> 26 | <b>arestas:</b> 39
  <br>
 <hr>
-<h4>19. Toroide hexagonal N</h4>
+<h4>19. Toroide hexagonal #14</h4>
 <a href="../vr/HexagonalToroidN.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/19A.png" class="foto" alt="Toroide hexagonal"></a>
  <br><b>faces:</b> 14 hexágonos (2 convexos e 12 não convexos) | <b>vértices:</b> 28 | <b>arestas:</b> 42
  <br>
 <hr>
-<h4>20. Toroide hexagonal O</h4>
+<h4>20. Toroide hexagonal #15</h4>
 <a href="../vr/HexagonalToroidO.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/20A.png" class="foto" alt="Toroide hexagonal"></a>
  <br><b>faces:</b> 14 hexágonos (4 convexos e 10 não convexos) | <b>vértices:</b> 28 | <b>arestas:</b> 42
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
-<h4>21. Toroide hexagonal P</h4>
+<h4>21. Toroide hexagonal #16</h4>
 <a href="../vr/HexagonalToroidP.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/21A.png" class="foto" alt="Toroide hexagonal"></a>
  <br><b>faces:</b> 14 hexágonos (2 convexos e 12 não convexos) | <b>vértices:</b> 28 | <b>arestas:</b> 42
  <br>
 <hr>
-<h4>22. Toroide hexagonal Q</h4>
+<h4>22. Toroide hexagonal #17</h4>
 <a href="../vr/HexagonalToroidQ.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/22A.png" class="foto" alt="Toroide hexagonal"></a>
  <br><b>faces:</b> 12 hexágonos (4 convexos e 8 não convexos) | <b>vértices:</b> 24 | <b>arestas:</b> 36
  <br>
 <hr>
-<h4>23. Toroide hexagonal R</h4>
+<h4>23. Toroide hexagonal #18</h4>
 <a href="../vr/HexagonalToroidR.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/23A.png" class="foto" alt="Toroide hexagonal"></a>
  <br><b>faces:</b> 15 hexágonos (5 convexos e 10 não convexos) | <b>vértices:</b> 30 | <b>arestas:</b> 45
  <br>
 <hr>
-<h4>24. Toroide hexagonal S</h4>
+<h4>24. Toroide hexagonal #19</h4>
 <a href="../vr/HexagonalToroidS.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/24A.png" class="foto" alt="Toroide hexagonal"></a>
  <br><b>faces:</b> 15 hexágonos não convexos | <b>vértices:</b> 30 | <b>arestas:</b> 45
  <br>
 <hr>
-<h4>25. Toroide hexagonal T</h4>
+<h4>25. Toroide hexagonal #20</h4>
 <a href="../vr/HexagonalToroidT.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/25A.png" class="foto" alt="Toroide hexagonal"></a>
  <br><b>faces:</b> 15 hexágonos (3 convexos e 12 não convexos) | <b>vértices:</b> 30 | <b>arestas:</b> 45
  <br>
 <hr>
-<h4>26. Toroide hexagonal U</h4>
+<h4>26. Toroide hexagonal #21</h4>
 <a href="../vr/HexagonalToroidU.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/26A.png" class="foto" alt="Toroide hexagonal"></a>
  <br><b>faces:</b> 24 hexágonos não convexos | <b>vértices:</b> 48 | <b>arestas:</b> 72
  <br>

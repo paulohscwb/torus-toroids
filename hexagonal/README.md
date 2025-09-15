@@ -65,109 +65,109 @@ This work shows hexagonal toroids modeled in 3D, with views that can be accessed
  <br><b>faces:</b> 7 hexagons (1 convex and 6 nonconvex) | <b>vertices:</b> 14 | <b>edges:</b> 21
  <br>
 <hr>
-<h4>6. Hexagonal toroid A</h4>
+<h4>6. Hexagonal toroid #1</h4>
 <a href="vr/HexagonalToroidA.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/6A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 8 nonconvex hexagons | <b>vertices:</b> 16 | <b>edges:</b> 24
  <br>
 <hr>
-<h4>7. Hexagonal Toroid B</h4>
+<h4>7. Hexagonal Toroid #2</h4>
 <a href="vr/HexagonalToroidB.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/7A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 9 hexagons (3 convex and 6 nonconvex) | <b>vertices:</b> 18 | <b>edges:</b> 27
  <br>
 <hr>
-<h4>8. Hexagonal Toroid C</h4>
+<h4>8. Hexagonal Toroid #3</h4>
 <a href="vr/HexagonalToroidC.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/8A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 8 nonconvex hexagons | <b>vertices:</b> 16 | <b>edges:</b> 24
  <br>
 <hr>
-<h4>9. Hexagonal Toroid D</h4>
+<h4>9. Hexagonal Toroid #4</h4>
 <a href="vr/HexagonalToroidD.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 9 nonconvex hexagons | <b>vertices:</b> 18 | <b>edges:</b> 27
  <br>
 <hr>
-<h4>10. Hexagonal Toroid E</h4>
+<h4>10. Hexagonal Toroid #5</h4>
 <a href="vr/HexagonalToroidE.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 9 nonconvex hexagons | <b>vertices:</b> 18 | <b>edges:</b> 27
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
-<h4>11. Hexagonal Toroid F</h4>
+<h4>11. Hexagonal Toroid #6</h4>
 <a href="vr/HexagonalToroidF.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 10 nonconvex hexagons | <b>vertices:</b> 20 | <b>edges:</b> 30
  <br>
 <hr>
-<h4>12. Hexagonal Toroid G</h4>
+<h4>12. Hexagonal Toroid #7</h4>
 <a href="vr/HexagonalToroidG.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 10 nonconvex hexagons | <b>vertices:</b> 20 | <b>edges:</b> 30
  <br>
 <hr>
-<h4>13. Hexagonal Toroid H</h4>
+<h4>13. Hexagonal Toroid #8</h4>
 <a href="vr/HexagonalToroidH.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 12 nonconvex hexagons | <b>vertices:</b> 24 | <b>edges:</b> 36
  <br>
 <hr>
-<h4>14. Hexagonal Toroid I</h4>
+<h4>14. Hexagonal Toroid #9</h4>
 <a href="vr/HexagonalToroidI.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 12 nonconvex hexagons | <b>vertices:</b> 24 | <b>edges:</b> 36
  <br>
 <hr>
-<h4>15. Hexagonal Toroid J</h4>
+<h4>15. Hexagonal Toroid #10</h4>
 <a href="vr/HexagonalToroidJ.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 12 nonconvex hexagons | <b>vertices:</b> 24 | <b>edges:</b> 36
  <br>
 <hr>
-<h4>16. Hexagonal Toroid K</h4>
+<h4>16. Hexagonal Toroid #11</h4>
 <a href="vr/HexagonalToroidK.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/16A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 12 nonconvex hexagons | <b>vertices:</b> 24 | <b>edges:</b> 36
  <br>
 <hr>
-<h4>17. Hexagonal Toroid L</h4>
+<h4>17. Hexagonal Toroid #12</h4>
 <a href="vr/HexagonalToroidL.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/17A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 12 nonconvex hexagons | <b>vertices:</b> 24 | <b>edges:</b> 36
  <br>
 <hr>
-<h4>18. Hexagonal Toroid M</h4>
+<h4>18. Hexagonal Toroid #13</h4>
 <a href="vr/HexagonalToroidM.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/18A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 13 nonconvex hexagons | <b>vertices:</b> 26 | <b>edges:</b> 39
  <br>
 <hr>
-<h4>19. Hexagonal Toroid N</h4>
+<h4>19. Hexagonal Toroid #14</h4>
 <a href="vr/HexagonalToroidN.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/19A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 14 hexagons (2 convex and 12 nonconvex) | <b>vertices:</b> 28 | <b>edges:</b> 42
  <br>
 <hr>
-<h4>20. Hexagonal Toroid O</h4>
+<h4>20. Hexagonal Toroid #15</h4>
 <a href="vr/HexagonalToroidO.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/20A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 14 hexagons (4 convex and 10 nonconvex) | <b>vertices:</b> 28 | <b>edges:</b> 42
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
-<h4>21. Hexagonal Toroid P</h4>
+<h4>21. Hexagonal Toroid #16</h4>
 <a href="vr/HexagonalToroidP.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/21A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 14 hexagons (2 convex and 12 nonconvex) | <b>vertices:</b> 28 | <b>edges:</b> 42
  <br>
 <hr>
-<h4>22. Hexagonal Toroid Q</h4>
+<h4>22. Hexagonal Toroid #17</h4>
 <a href="vr/HexagonalToroidQ.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/22A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 12 hexagons (4 convex and 8 nonconvex) | <b>vertices:</b> 24 | <b>edges:</b> 36
  <br>
 <hr>
-<h4>23. Hexagonal Toroid R</h4>
+<h4>23. Hexagonal Toroid #18</h4>
 <a href="vr/HexagonalToroidR.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/23A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 15 hexagons (5 convex and 10 nonconvex) | <b>vertices:</b> 30 | <b>edges:</b> 45
  <br>
 <hr>
-<h4>24. Hexagonal Toroid S</h4>
+<h4>24. Hexagonal Toroid #19</h4>
 <a href="vr/HexagonalToroidS.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/24A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 15 nonconvex hexagons | <b>vertices:</b> 30 | <b>edges:</b> 45
  <br>
 <hr>
-<h4>25. Hexagonal Toroid T</h4>
+<h4>25. Hexagonal Toroid #20</h4>
 <a href="vr/HexagonalToroidT.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/25A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 15 hexagons (3 convex and 12 nonconvex) | <b>vertices:</b> 30 | <b>edges:</b> 45
  <br>
 <hr>
-<h4>26. Hexagonal Toroid U</h4>
+<h4>26. Hexagonal Toroid #21</h4>
 <a href="vr/HexagonalToroidU.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/26A.png" class="foto" alt="Hexagonal Toroid"></a>
  <br><b>faces:</b> 24 nonconvex hexagons | <b>vertices:</b> 48 | <b>edges:</b> 72
  <br>
