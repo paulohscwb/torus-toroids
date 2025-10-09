@@ -5,10 +5,11 @@
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/torus-toroids/">english version</a>
-<br><br>Um toro comum é considerado uma superfície de gênero 1. Este sólido possui um único "buraco", e pode ser construído a partir de um retângulo colando ambos os pares de bordas opostas sem torções. O toro usual incorporado no espaço tridimensional tem o formato de uma rosquinha, mas o conceito de toro também é extremamente útil no espaço de dimensões superiores.
+<div><img align="right" src="../imagens/qr.png"/>
+<br>Um toro comum é considerado uma superfície de gênero 1. Este sólido possui um único "buraco", e pode ser construído a partir de um retângulo colando ambos os pares de bordas opostas sem torções. O toro usual incorporado no espaço tridimensional tem o formato de uma rosquinha, mas o conceito de toro também é extremamente útil no espaço de dimensões superiores.
 <br>Em geral, os toros também podem ter vários furos, sendo o termo n-toro usado para um toro com n furos. O toro pode ser definido como o lugar geométrico  formado pela rotação de uma superfície circular plana de raio r, em torno de uma circunferência de raio R. 
 <br>O toroide é uma superfície de revolução obtida pela rotação de uma curva plana fechada, ou um polígono, em torno de um eixo paralelo ao plano que não intercepta a curva. O toroide mais simples é o toro e o termo toroide é usado para se referir a um poliedro toroidal.
-<br>Este trabalho mostra toros e toroides modelados em 3D, com as visualizações que podem ser acessadas com os recursos de Realidade Aumentada e também em salas imersivas de Realidade Virtual.
+<br>Este trabalho mostra toros e toroides modelados em 3D, com as visualizações que podem ser acessadas com os recursos de Realidade Aumentada e também em salas imersivas de Realidade Virtual.</div>
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="../basic/pt-br/"><img src="../basic/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toros e toroides</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../tetragonal/pt-br/"><img src="../tetragonal/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides tetragonais</a></h3>
