@@ -177,6 +177,57 @@ Este trabalho mostra toroides tetragonais regulares modelados em 3D, com as visu
  <br><b>faces:</b> 160 triângulos | <b>vértices:</b> 80 | <b>arestas:</b> 240
  <br>
 <hr>
+<h4>28. Árvore geométrica de Natal com toroides v1</h4>
+<a href="../vr/Tree7.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto" alt="Árvore geométrica de Natal com toroides"></a>
+ <br>Construção de uma árvore de Natal usando toroides tetragonais heptagonais e toroides hexagonais. 
+ <br>
+<hr>
+<h4>29. Árvore geométrica de Natal com toroides v2</h4>
+<a href="../vr/Tree7a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/29A.png" class="foto" alt="Árvore geométrica de Natal com toroides"></a>
+ <br>Construção de uma árvore de Natal usando toroides tetragonais heptagonais e toroides hexagonais. 
+ <br>
+<hr>
+<h4>30. Árvore geométrica de Natal com toroides v3</h4>
+<a href="../vr/Tree8.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto" alt="Árvore geométrica de Natal com toroides"></a>
+ <br>Construção de uma árvore de Natal usando toroides tetragonais octogonais e toroides hexagonais. 
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>31. Árvore geométrica de Natal com toroides v4</h4>
+<a href="../vr/Tree8a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/31A.png" class="foto" alt="Árvore geométrica de Natal com toroides"></a>
+ <br>Construção de uma árvore de Natal usando toroides tetragonais octogonais e toroides hexagonais. 
+ <br>
+<hr>
+<h4>32. Árvore geométrica de Natal com toroides v5</h4>
+<a href="../vr/Tree8b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/32A.png" class="foto" alt="Árvore geométrica de Natal com toroides"></a>
+ <br>Construção de uma árvore de Natal usando toroides tetragonais octogonais e toroides hexagonais. 
+ <br>
+<hr>
+<h4>33. Árvore geométrica de Natal com toroides v6</h4>
+<a href="../vr/Tree9.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/33A.png" class="foto" alt="Árvore geométrica de Natal com toroides"></a>
+ <br>Construção de uma árvore de Natal usando toroides tetragonais eneagonais e toroides hexagonais. 
+ <br>
+<hr>
+<h4>34. Árvore geométrica de Natal com toroides v7</h4>
+<a href="../vr/Tree9a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/34A.png" class="foto" alt="Árvore geométrica de Natal com toroides"></a>
+ <br>Construção de uma árvore de Natal usando toroides tetragonais eneagonais e toroides hexagonais. 
+ <br>
+<hr>
+<h4>35. Árvore geométrica de Natal com toroides v8</h4>
+<a href="../vr/Tree10.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/35A.png" class="foto" alt="Árvore geométrica de Natal com toroides"></a>
+ <br>Construção de uma árvore de Natal usando toroides tetragonais decagonais e toroides hexagonais. 
+ <br>
+<hr>
+<h4>36. Árvore geométrica de Natal com toroides v9</h4>
+<a href="../vr/Tree10a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/36A.png" class="foto" alt="Árvore geométrica de Natal com toroides"></a>
+ <br>Construção de uma árvore de Natal usando toroides tetragonais decagonais e toroides hexagonais. 
+ <br>
+<hr>
+<h4>37. Árvore geométrica de Natal com toroides v10</h4>
+<a href="../vr/Tree10b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="Árvore geométrica de Natal com toroides"></a>
+ <br>Construção de uma árvore de Natal usando toroides tetragonais decagonais e toroides hexagonais. 
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Regular tetragonal toroids: visualization of solids with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/torus-toroids/regulartetrag/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
