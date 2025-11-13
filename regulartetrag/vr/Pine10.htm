@@ -30,9 +30,6 @@
 			<a-mixin id="galho9" rotation="0 288 -90" mixin="galho1"></a-mixin>
 			<a-mixin id="galho10" rotation="0 324 -90" mixin="galho1"></a-mixin>
 			<a-mixin id="piso" scale="25 0.1 25"></a-mixin>
-
-			<a-mixin id="piso" scale="25 0.1 25"></a-mixin>
-
 		</a-assets>
 		<a-entity id="cena" position="0 -2.7 0" scale="1.15 1.15 1.15">
 			<a-cone position="0 2.57 0" mixin="mtl1"></a-cone>
@@ -126,8 +123,8 @@
 				</a-entity>
 			</a-entity>
 		</a-entity>
-		<a-box mixin="piso" visible="false" position="0 -2 0"></a-box>
 		<a-entity id="cameraRig" position="0 -2 8">
+			<a-box mixin="piso" visible="false" position="0 0 0"></a-box>
 			<a-entity camera="fov:1; near:0.001;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 200 150 700; maxDistance: 1500;"></a-entity>
 			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
 		</a-entity>
