@@ -179,7 +179,7 @@ Este trabalho mostra toroides tetragonais regulares modelados em 3D, com as visu
 <hr>
 <h4>28. Árvore geométrica de Natal com toroides v1</h4>
 <a href="../vr/Tree7.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto" alt="Árvore geométrica de Natal com toroides"></a>
- <br>Construção de uma árvore de Natal usando toroides tetragonais heptagonais e toroides hexagonais. 
+ <br>Construção de uma árvore de Natal usando toroides tetragonais heptagonais e toroides tetragonais regulares. 
  <br>
 <hr>
 <h4>29. Árvore geométrica de Natal com toroides v2</h4>
@@ -189,18 +189,18 @@ Este trabalho mostra toroides tetragonais regulares modelados em 3D, com as visu
 <hr>
 <h4>30. Árvore geométrica de Natal com toroides v3</h4>
 <a href="../vr/Tree8.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto" alt="Árvore geométrica de Natal com toroides"></a>
- <br>Construção de uma árvore de Natal usando toroides tetragonais octogonais e toroides hexagonais. 
+ <br>Construção de uma árvore de Natal usando toroides tetragonais octogonais e toroides tetragonais regulares. 
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>31. Árvore geométrica de Natal com toroides v4</h4>
 <a href="../vr/Tree8a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/31A.png" class="foto" alt="Árvore geométrica de Natal com toroides"></a>
- <br>Construção de uma árvore de Natal usando toroides tetragonais octogonais e toroides hexagonais. 
+ <br>Construção de uma árvore de Natal usando toroides tetragonais octogonais e toroides tetragonais regulares. 
  <br>
 <hr>
 <h4>32. Árvore geométrica de Natal com toroides v5</h4>
 <a href="../vr/Tree8b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/32A.png" class="foto" alt="Árvore geométrica de Natal com toroides"></a>
- <br>Construção de uma árvore de Natal usando toroides tetragonais octogonais e toroides hexagonais. 
+ <br>Construção de uma árvore de Natal usando toroides tetragonais octogonais e toroides tetragonais regulares. 
  <br>
 <hr>
 <h4>33. Árvore geométrica de Natal com toroides v6</h4>
@@ -226,6 +226,32 @@ Este trabalho mostra toroides tetragonais regulares modelados em 3D, com as visu
 <h4>37. Árvore geométrica de Natal com toroides v10</h4>
 <a href="../vr/Tree10b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="Árvore geométrica de Natal com toroides"></a>
  <br>Construção de uma árvore de Natal usando toroides tetragonais decagonais e toroides hexagonais. 
+ <br>
+<hr>
+<h4>38. Árvore geométrica de Natal com toroides v11</h4>
+<a href="../vr/Tree5.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/38A.png" class="foto" alt="Árvore geométrica de Natal com toroides"></a>
+ <br>Construção de uma árvore de Natal usando toroides tetragonais decagonais e toroides tetragonais regulares. 
+ <br>
+<hr>
+<h4>39. Árvore geométrica de Natal com toroides v12</h4>
+<a href="../vr/Tree5a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/39A.png" class="foto" alt="Árvore geométrica de Natal com toroides"></a>
+ <br>Construção de uma árvore de Natal usando toroides tetragonais decagonais e toroides tetragonais regulares. 
+ <br>
+<hr>
+<h4>40. Árvore geométrica de Natal com toroides v13</h4>
+<a href="../vr/Tree6.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/40A.png" class="foto" alt="Árvore geométrica de Natal com toroides"></a>
+ <br>Construção de uma árvore de Natal usando toroides tetragonais decagonais e toroides tetragonais regulares. 
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>41. Árvore geométrica de Natal com toroides v14</h4>
+<a href="../vr/Tree6a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/41A.png" class="foto" alt="Árvore geométrica de Natal com toroides"></a>
+ <br>Construção de uma árvore de Natal usando toroides tetragonais decagonais e toroides tetragonais regulares. 
+ <br>
+<hr>
+<h4>42. Árvore geométrica de Natal com toroides v15</h4>
+<a href="../vr/Tree6b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/42A.png" class="foto" alt="Árvore geométrica de Natal com toroides"></a>
+ <br>Construção de uma árvore de Natal usando toroides tetragonais decagonais e toroides tetragonais regulares. 
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
