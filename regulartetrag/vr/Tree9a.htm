@@ -26,6 +26,8 @@
 			<a-asset-item id="aq1" src="https://paulohscwb.github.io/torus-toroids/regulartetrag/vr/obj/Regular9TetragonalStarToroid.obj"></a-asset-item>
 			<a-asset-item id="aq2" src="https://paulohscwb.github.io/torus-toroids/hexagonal/vr/obj/HexagonalToroid_D.obj"></a-asset-item>
 			<a-mixin id="lines" scale="1.1 1 1.1" material="wireframeLinewidth:1;" line__0="start: 1.19 0.1 0.696; end: 0 0 0; color: green" line__1="start: 0.47 0.1 1.3; end: 0 0 0; color: green" line__2="start: -0.47 0.1 1.3; end: 0 0 0; color: green" line__3="start: -1.19 0.1 0.696; end: 0 0 0; color: green" line__4="start: -1.35 0.1 -0.23; end: 0 0 0; color: green" line__5="start: -0.88 0.1 -1.04; end: 0 0 0; color: green" line__6="start: 0 0.1 -1.37; end: 0 0 0; color: green" line__7="start: 0.88 0.1 -1.04; end: 0 0 0; color: green" line__8="start: 1.35 0.1 -0.23; end: 0 0 0; color: green"></a-mixin>
+			<a-mixin id="piso" scale="25 0.1 25"></a-mixin>
+
 		</a-assets>
 		<a-entity id="cena" position="0 -3.7 0" scale="1.15 1.15 1.15">
 			<a-cone class="nivel0t" position="0 2.57 0" mixin="mtl1"></a-cone>
@@ -90,8 +92,8 @@
 				</a-entity>
 			</a-entity>
 		</a-entity>
-		<a-box mixin="piso" class="piso" visible="false" position="0 -3.5 0"></a-box>
-		<a-entity id="cameraRig" position="0 -1.5 8">
+		<a-box mixin="piso" visible="false" position="0 -4.5 0"></a-box>
+		<a-entity id="cameraRig" position="0 -2.5 8">
 			<a-entity camera="fov:1; near:0.001;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 200 150 700; maxDistance: 1500;"></a-entity>
 			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
 		</a-entity>
