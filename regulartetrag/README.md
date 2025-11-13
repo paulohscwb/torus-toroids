@@ -177,81 +177,111 @@ This work shows regular tetragonal toroids modeled in 3D, with views that can be
  <br><b>faces:</b> 160 triangles | <b>vertices:</b> 80 | <b>edges:</b> 240
  <br>
 <hr>
-<h4>28. Geometric Christmas tree with toroids v1</h4>
-<a href="vr/Tree7.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/28A.png" class="foto" alt="Geometric Christmas tree with toroids"></a>
+<h4>28. Pine tree with pentagonal toroids</h4>
+<a href="vr/Pine5.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/43A.png" class="foto" alt="Pine tree with toroids"></a>
+ <br>Construction of a pine tree using tetragonal pentagonal toroids.
+ <br>
+<hr>
+<h4>29. Pine tree with hexagonal toroids</h4>
+<a href="vr/Pine6.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/44A.png" class="foto" alt="Pine tree with toroids"></a>
+ <br>Construction of a pine tree using tetragonal hexagonal toroids.
+ <br>
+<hr>
+<h4>30. Pine tree with heptagonal toroids</h4>
+<a href="vr/Pine7.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/45A.png" class="foto" alt="Pine tree with toroids"></a>
+ <br>Construction of a pine tree using tetragonal heptagonal toroids.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>31. Pine tree with octagonal toroids</h4>
+<a href="vr/Pine8.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/46A.png" class="foto" alt="Pine tree with toroids"></a>
+ <br>Construction of a pine tree using tetragonal octagonal toroids.
+ <br>
+<hr>
+<h4>32. Pine tree with enneagonal toroids</h4>
+<a href="vr/Pine9.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/47A.png" class="foto" alt="Pine tree with toroids"></a>
+ <br>Construction of a pine tree using enneagonal pentagonal toroids.
+ <br>
+<hr>
+<h4>33. Pine tree with decagonal toroids</h4>
+<a href="vr/Pine10.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/48A.png" class="foto" alt="Pine tree with toroids"></a>
+ <br>Construction of a pine tree using decagonal pentagonal toroids.
+ <br>
+<hr>
+<h4>34. Geometric Christmas tree with heptagonal toroids v1</h4>
+<a href="vr/Tree7.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/28A.png" class="foto" alt="Geometric Christmas tree with heptagonal toroids"></a>
  <br>Construction of a Christmas tree using tetragonal heptagonal toroids and regular tetragonal toroids.
  <br>
 <hr>
-<h4>29. Geometric Christmas tree with toroids v2</h4>
-<a href="vr/Tree7a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/29A.png" class="foto" alt="Geometric Christmas tree with toroids"></a>
+<h4>35. Geometric Christmas tree with heptagonal toroids v2</h4>
+<a href="vr/Tree7a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/29A.png" class="foto" alt="Geometric Christmas tree with heptagonal toroids"></a>
  <br>Construction of a Christmas tree using tetragonal heptagonal toroids and hexagonal toroids.
  <br>
 <hr>
-<h4>30. Geometric Christmas tree with toroids v3</h4>
-<a href="vr/Tree8.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/30A.png" class="foto" alt="Geometric Christmas tree with toroids"></a>
+<h4>36. Geometric Christmas tree with octagonal toroids v1</h4>
+<a href="vr/Tree8.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/30A.png" class="foto" alt="Geometric Christmas tree with octagonal toroids"></a>
  <br>Construction of a Christmas tree using tetragonal octagonal toroids and regular tetragonal toroids.
+ <br>
+<hr>
+<h4>37. Geometric Christmas tree with octagonal toroids v2</h4>
+<a href="vr/Tree8a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/31A.png" class="foto" alt="Geometric Christmas tree with octagonal toroids"></a>
+ <br>Construction of a Christmas tree using tetragonal octagonal toroids and regular tetragonal toroids.
+ <br>
+<hr>
+<h4>38. Geometric Christmas tree with octagonal toroids v3</h4>
+<a href="vr/Tree8b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/32A.png" class="foto" alt="Geometric Christmas tree with octagonal toroids"></a>
+ <br>Construction of a Christmas tree using tetragonal octagonal toroids and regular tetragonal toroids.
+ <br>
+<hr>
+<h4>39. Geometric Christmas tree with enneagonal toroids v1</h4>
+<a href="vr/Tree9.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/33A.png" class="foto" alt="Geometric Christmas tree with enneagonal toroids"></a>
+ <br>Construction of a Christmas tree using tetragonal enneagonal toroids and hexagonal toroids.
+ <br>
+<hr>
+<h4>40. Geometric Christmas tree with enneagonal toroids v2</h4>
+<a href="vr/Tree9a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/34A.png" class="foto" alt="Geometric Christmas tree with enneagonal toroids"></a>
+ <br>Construction of a Christmas tree using tetragonal enneagonal toroids and hexagonal toroids.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
-<h4>31. Geometric Christmas tree with toroids v4</h4>
-<a href="vr/Tree8a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/31A.png" class="foto" alt="Geometric Christmas tree with toroids"></a>
- <br>Construction of a Christmas tree using tetragonal octagonal toroids and regular tetragonal toroids.
- <br>
-<hr>
-<h4>32. Geometric Christmas tree with toroids v5</h4>
-<a href="vr/Tree8b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/32A.png" class="foto" alt="Geometric Christmas tree with toroids"></a>
- <br>Construction of a Christmas tree using tetragonal octagonal toroids and regular tetragonal toroids.
- <br>
-<hr>
-<h4>33. Geometric Christmas tree with toroids v6</h4>
-<a href="vr/Tree9.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/33A.png" class="foto" alt="Geometric Christmas tree with toroids"></a>
- <br>Construction of a Christmas tree using tetragonal enneagonal toroids and hexagonal toroids.
- <br>
-<hr>
-<h4>34. Geometric Christmas tree with toroids v7</h4>
-<a href="vr/Tree9a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/34A.png" class="foto" alt="Geometric Christmas tree with toroids"></a>
- <br>Construction of a Christmas tree using tetragonal enneagonal toroids and hexagonal toroids.
- <br>
-<hr>
-<h4>35. Geometric Christmas tree with toroids v8</h4>
-<a href="vr/Tree10.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto" alt="Geometric Christmas tree with toroids"></a>
+<h4>41. Geometric Christmas tree with decagonal toroids v1</h4>
+<a href="vr/Tree10.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto" alt="Geometric Christmas tree with decagonal toroids"></a>
  <br>Construction of a Christmas tree using tetragonal decagonal toroids and hexagonal toroids.
  <br>
 <hr>
-<h4>36. Geometric Christmas tree with toroids v9</h4>
-<a href="vr/Tree10a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto" alt="Geometric Christmas tree with toroids"></a>
+<h4>42. Geometric Christmas tree with decagonal toroids v2</h4>
+<a href="vr/Tree10a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto" alt="Geometric Christmas tree with decagonal toroids"></a>
  <br>Construction of a Christmas tree using tetragonal decagonal toroids and hexagonal toroids.
  <br>
 <hr>
-<h4>37. Geometric Christmas tree with toroids v10</h4>
-<a href="vr/Tree10b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="Geometric Christmas tree with toroids"></a>
+<h4>43. Geometric Christmas tree with decagonal toroids v3</h4>
+<a href="vr/Tree10b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="Geometric Christmas tree with decagonal toroids"></a>
  <br>Construction of a Christmas tree using tetragonal decagonal toroids and hexagonal toroids.
  <br>
 <hr>
-<h4>38. Geometric Christmas tree with toroids v11</h4>
-<a href="vr/Tree5.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/38A.png" class="foto" alt="Geometric Christmas tree with toroids"></a>
+<h4>44. Geometric Christmas tree with pentagonal toroids v1</h4>
+<a href="vr/Tree5.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/38A.png" class="foto" alt="Geometric Christmas tree with pentagonal toroids"></a>
  <br>Construction of a Christmas tree using tetragonal pentagonal toroids and regular tetragonal toroids.
  <br>
 <hr>
-<h4>39. Geometric Christmas tree with toroids v12</h4>
-<a href="vr/Tree5a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/39A.png" class="foto" alt="Geometric Christmas tree with toroids"></a>
+<h4>45. Geometric Christmas tree with pentagonal toroids v2</h4>
+<a href="vr/Tree5a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/39A.png" class="foto" alt="Geometric Christmas tree with pentagonal toroids"></a>
  <br>Construction of a Christmas tree using tetragonal pentagonal toroids and regular tetragonal toroids.
  <br>
 <hr>
-<h4>40. Geometric Christmas tree with toroids v13</h4>
-<a href="vr/Tree6.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/40A.png" class="foto" alt="Geometric Christmas tree with toroids"></a>
+<h4>46. Geometric Christmas tree with hexagonal toroids v1</h4>
+<a href="vr/Tree6.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/40A.png" class="foto" alt="Geometric Christmas tree with hexagonal toroids"></a>
+ <br>Construction of a Christmas tree using tetragonal hexagonal toroids and regular tetragonal toroids.
+ <br>
+<hr>
+<h4>47. Geometric Christmas tree with hexagonal toroids v2</h4>
+<a href="vr/Tree6a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/41A.png" class="foto" alt="Geometric Christmas tree with hexagonal toroids"></a>
  <br>Construction of a Christmas tree using tetragonal hexagonal toroids and regular tetragonal toroids.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
-<h4>41. Geometric Christmas tree with toroids v14</h4>
-<a href="vr/Tree6a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/41A.png" class="foto" alt="Geometric Christmas tree with toroids"></a>
- <br>Construction of a Christmas tree using tetragonal hexagonal toroids and regular tetragonal toroids.
- <br>
-<hr>
-<p class="topop"><a href="#p1" class="topo">back to top</a></p>
-<h4>42. Geometric Christmas tree with toroids v15</h4>
-<a href="vr/Tree6b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/42A.png" class="foto" alt="Geometric Christmas tree with toroids"></a>
+<h4>48. Geometric Christmas tree with hexagonal toroids v3</h4>
+<a href="vr/Tree6b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/42A.png" class="foto" alt="Geometric Christmas tree with hexagonal toroids"></a>
  <br>Construction of a Christmas tree using tetragonal hexagonal toroids and regular tetragonal toroids.
  <br>
 <hr>

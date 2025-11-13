@@ -13,11 +13,12 @@ function Conic1() {
 		cz = r * ang * Math.sin(ang)/(ac * mx);
 		cy = -h * (i / mx) + 7.7
 		cyP = -h * ((i + 1) / mx) + 7.7
-		cxP = r * (ang+ac) * Math.cos(ang+ac)/(ac * mx);
-		czP = r * (ang+ac) * Math.sin(ang+ac)/(ac * mx);
+		cxP = r * (ang-ac) * Math.cos(ang-ac)/(ac * mx);
+		czP = r * (ang-ac) * Math.sin(ang-ac)/(ac * mx);
 		if (Math.abs(cxP - cx) > 0.23 || Math.abs(czP - cz) > 0.23) {
 			var box = document.createElement("a-entity")
 			var box1 = document.createElement("a-entity")
+			box1.setAttribute("mixin", `fcc`)
 			box1.setAttribute("line", `start: ${cx} ${cy} ${cz}; end: ${cxP} ${cyP} ${czP}; color: grey`)
 			box1.setAttribute("visible", `false`)
 			box1.setAttribute("class", `nivel2t`)
@@ -35,7 +36,7 @@ function Conic1() {
 				ent.appendChild(box1)
 			}
 		}
-		ang += ac
+		ang -= ac
 		rd *= 1.015;
 	}
 }

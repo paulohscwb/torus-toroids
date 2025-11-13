@@ -25,11 +25,9 @@
 			<a-asset-item id="aq" src="https://paulohscwb.github.io/torus-toroids/regulartetrag/vr/obj/Regular5TetragonalStarToroid.obj"></a-asset-item>
 			<a-asset-item id="aq1" src="https://paulohscwb.github.io/torus-toroids/regulartetrag/vr/obj/Regular6TetragonalStarToroid.obj"></a-asset-item>
 			<a-asset-item id="aq2" src="https://paulohscwb.github.io/torus-toroids/tetragonal/vr/obj/Regular4TetragonalToroid.obj"></a-asset-item>
-			<!--<a-mixin id="anima1" animation='property: rotation; dur: 30000; from: 0 0 0; to: 0 360 0; easing: linear; delay: 15000'></a-mixin>
-			<a-mixin id="anima2" animation__2='property: rotation; dur: 30000; from: 0 0 0; to: 0 -180 0; dir: alternate; easing: linear; delay: 48000; loop: 1'></a-mixin>-->
 			<a-mixin id="lines" material="wireframeLinewidth:1;" line__0="start: 1.6 0 0; end: -1.6 0 0; color: green" line__1="start: 0.8 0 1.38; end: -0.8 -0 -1.38; color: green" line__2="start: 0.8 0 -1.38; end: -0.8 0 1.38; color: green"></a-mixin>
 		</a-assets>
-		<a-entity id="cena" position="0 -3.7 0" scale="1.15 1.15 1.15"> <!--mixin="anima1 anima2">-->
+		<a-entity id="cena" position="0 -3.7 0" scale="1.15 1.15 1.15">
 			<a-cone class="nivel0t" position="0 2.57 0" mixin="mtl1"></a-cone>
 			<a-entity class="nivel3t" visible="false">
 				<a-cylinder position="0 7.2 0" color="rgb(253,201,52)" geometry="radius:0.05; height:0.6;"></a-cylinder>
