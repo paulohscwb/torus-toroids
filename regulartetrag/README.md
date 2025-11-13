@@ -279,7 +279,6 @@ This work shows regular tetragonal toroids modeled in 3D, with views that can be
  <br>Construction of a Christmas tree using tetragonal hexagonal toroids and regular tetragonal toroids.
  <br>
 <hr>
-<p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>48. Geometric Christmas tree with hexagonal toroids v3</h4>
 <a href="vr/Tree6b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/42A.png" class="foto" alt="Geometric Christmas tree with hexagonal toroids"></a>
  <br>Construction of a Christmas tree using tetragonal hexagonal toroids and regular tetragonal toroids.
