@@ -28,6 +28,7 @@
 			<a-mixin id="lines" material="wireframeLinewidth:1;" line__0="start: 1.6 0 0; end: -1.6 0 0; color: green" line__1="start: 0.8 0 1.38; end: -0.8 -0 -1.38; color: green" line__2="start: 0.8 0 -1.38; end: -0.8 0 1.38; color: green"></a-mixin>
 			<a-mixin id="piso" scale="25 0.1 25" visible="false"></a-mixin>
 		</a-assets>
+		<a-entity camera="fov:1; near:0.001;" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 200 150 700; maxDistance: 1500;"></a-entity>
 		<a-entity id="cena" position="0 -3.7 0" scale="1.15 1.15 1.15">
 			<a-cone class="nivel0t" position="0 2.57 0" mixin="mtl1"></a-cone>
 			<a-entity class="nivel3t" visible="false">
@@ -92,10 +93,11 @@
 			</a-entity>
 			<a-box mixin="piso"></a-box>
 			<a-entity id="cameraRig" position="0 0 8">
-				<a-entity camera="fov:1; near:0.001;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 200 150 700; maxDistance: 1500;"></a-entity>
+				<a-entity camera id="head"></a-entity>
 				<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
 			</a-entity>
 		</a-entity>
+		
 		<a-light type="ambient" color="white" intensity="0.5"></a-light>
 		<a-light type="directional" color="white" intensity="0.6" position="-7 5 1"></a-light>
 		<a-light type="directional" color="white" intensity="0.6" position="7 -5 1"></a-light>
