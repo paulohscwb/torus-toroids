@@ -297,7 +297,7 @@ Este trabalho mostra toroides poligonais regulares e compostos modelados em 3D, 
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>51. Toroide de dodecadodecaedro snub invertido v5</h4>
-<a href="../vr/InvertedSnubDodecadodecahedronE.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/51A.png" class="foto" alt="Toroide de dodecadodecaedro snub invertido"></a>
+<a href="../vr/InvertedSnubDodecadodecahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/51A.png" class="foto" alt="Toroide de dodecadodecaedro snub invertido"></a>
  <br>Toroide de dodecadodecaedro snub invertido composto com toroides tetragonais.
  <br>
 <hr>

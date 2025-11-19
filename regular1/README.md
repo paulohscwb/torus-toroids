@@ -296,7 +296,7 @@ This work shows regular polygonal and composition toroids modeled in 3D, with vi
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>51. Inverted snub dodecadodecahedron toroid v5</h4>
-<a href="vr/InvertedSnubDodecadodecahedronE.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/51A.png" class="foto" alt="Inverted snub dodecadodecahedron toroid"></a>
+<a href="vr/InvertedSnubDodecadodecahedronE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/51A.png" class="foto" alt="Inverted snub dodecadodecahedron toroid"></a>
  <br>Inverted snub dodecadodecahedron toroid composed with tetragonal toroids.
  <br>
 <hr>
