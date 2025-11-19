@@ -14,8 +14,8 @@
 		<option disabled value="../../regulartetrag/pt-br/">Toroides tetragonais regulares</option>
 		<option value="../../mobiuscairo/pt-br/">Toroides de Möbius, Vélez-Jahn e Cairo</option>
 		<option value="../../hexagonal/pt-br/">Toroides hexagonais</option>
+		<option value="../../regular1/pt-br/">Toroides poligonais regulares e compostos 1</option>
 		<!--<option value="../../heptagonal/pt-br/">Dodecaedros heptagonais</option>
-		<option value="../../regular1/pt-br/">Toroides poligonais regulares 1</option>
 		<option value="../../regular2/pt-br/">Toroides poligonais regulares 2</option>
 		<option value="../../regular3/pt-br/">Toroides poligonais regulares 3</option>
 		<option value="../../rings/pt-br/">Anéis toroides</option>

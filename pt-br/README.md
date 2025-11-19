@@ -17,8 +17,8 @@
 <h3 style="margin-top:3px"><a target="_blank" href="../regulartetrag/pt-br/"><img src="../regulartetrag/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides regulares tetragonais</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../mobiuscairo/pt-br/"><img src="../mobiuscairo/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides de Möbius, Vélez-Jahn e Cairo</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../hexagonal/pt-br/"><img src="../hexagonal/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides hexagonais</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../regular1/pt-br/"><img src="../regular1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides poligonais regulares e compostos 1</a></h3>
 <!--<h3 style="margin-top:3px"><a target="_blank" href="../heptagonal/pt-br/"><img src="../heptagonal/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Dodecaedros heptagonais</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../regular1/pt-br/"><img src="../regular1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides poligonais regulares 1</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../regular2/pt-br/"><img src="../regular2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides poligonais regulares 2</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../regular3/pt-br/"><img src="../regular3/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides poligonais regulares 3</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../rings/pt-br/"><img src="../rings/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Anéis toroides</a></h3>

@@ -1,0 +1,140 @@
+<html>
+  <head>
+	<title>Toroids</title>
+	<meta charset="utf-8">
+	<link rel="icon" type="image/png" href="salas/imagens/icone.png">
+	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+	<script src="https://unpkg.com/aframe-orbit-controls@1.3.0/dist/aframe-orbit-controls.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+	<script src="nomes.js"></script>
+	<link rel="stylesheet" href="nomes.css">
+</head>  
+<body>
+<div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Lato; font-size:2.5vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2025 Paulo Henrique Siqueira</div>
+	<a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
+		<a-assets>
+			<a-mixin id="s2_3" position="0 3.3405 0"></a-mixin> <!--apotema do dodecaedro-->
+			<a-asset-item id="mt" src="https://paulohscwb.github.io/polyhedra2/fractalnonconvex/vr/outros/c1.mtl"></a-asset-item>
+			<a-asset-item id="aq" src="https://paulohscwb.github.io/polyhedra/polyhedron/vr/outros/PentagrammicAntiprismA.obj"></a-asset-item>
+			<a-asset-item id="aq1" src="https://paulohscwb.github.io/polyhedra/polyhedron/vr/outros/PentagrammicAntiprismAL.obj"></a-asset-item>
+			<a-mixin id="fc" rotation="90 0 0" position="0 0.165 0" scale="3.03 3.03 2.34" obj-model="obj: #aq; mtl: #mt"></a-mixin>
+			<a-mixin id="ar" rotation="90 0 0" position="0 0.165 0" scale="3.031 3.031 2.341" obj-model="obj: #aq1; mtl: #mt"></a-mixin>
+			<a-asset-item id="aq2" src="https://paulohscwb.github.io/polyhedra/selfintersect/vr/outros/DodecadodecahedronA.obj"></a-asset-item>
+			<a-asset-item id="aq3" src="https://paulohscwb.github.io/polyhedra/selfintersect/vr/outros/DodecadodecahedronL.obj"></a-asset-item>
+			<a-mixin id="fc1" rotation="0 -18 -58.25" scale="3.03 3.03 3.03" obj-model="obj: #aq2; mtl: #mt"></a-mixin>
+			<a-mixin id="ar1" rotation="0 -18 -58.25" scale="3.031 3.031 3.031" obj-model="obj: #aq3; mtl: #mt"></a-mixin>
+		</a-assets>
+
+		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 0 350 700; maxDistance: 1500;"></a-entity>
+		
+		<a-entity scale="1.3 1.3 1.3" position="0 0 0">
+	  		<a-light type="point" color="white" intensity="0.5" position="0 0 0"></a-light>
+			<a-entity mixin="fc1"></a-entity>
+			<a-entity mixin="ar1"></a-entity>
+			<a-entity position="0 -3.3405 0"> <!--apotema-->
+				<a-entity id="baixo">
+					<a-entity position="0 -0.165 0" mixin="fc"></a-entity>
+					<a-entity position="0 -0.165 0" mixin="ar"></a-entity>
+					<a-entity mixin="s2_3"> <!--joga para o centro do dodecaedro-->
+						<a-entity rotation="116.565 0 0"> <!--angulo entre as faces-->
+							<a-entity mixin="s2_3"> <!--joga na lateral a partir do centro-->
+								<a-entity mixin="fc"></a-entity>
+								<a-entity mixin="ar"></a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity mixin="s2_3">
+						<a-entity rotation="116.565 72 0"> <!--angulo entre as faces + lateral -->
+							<a-entity mixin="s2_3">
+								<a-entity mixin="fc"></a-entity>
+								<a-entity mixin="ar"></a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity mixin="s2_3">
+						<a-entity rotation="116.565 144 0">
+							<a-entity mixin="s2_3">
+								<a-entity mixin="fc"></a-entity>
+								<a-entity mixin="ar"></a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity mixin="s2_3">
+						<a-entity rotation="116.565 216 0">
+							<a-entity mixin="s2_3">
+								<a-entity mixin="fc"></a-entity>
+								<a-entity mixin="ar"></a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity mixin="s2_3">
+						<a-entity rotation="116.565 288 0" >
+							<a-entity mixin="s2_3">
+								<a-entity mixin="fc"></a-entity>
+								<a-entity mixin="ar"></a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+				</a-entity>
+				<a-entity id="cima" position="0 6.681 0" rotation="180 72 0">
+					<a-entity position="0 -0.165 0" mixin="fc"></a-entity>
+					<a-entity position="0 -0.165 0" mixin="ar"></a-entity>
+					<a-entity mixin="s2_3">
+						<a-entity rotation="116.565 0 0">
+							<a-entity mixin="s2_3">
+								<a-entity mixin="fc"></a-entity>
+								<a-entity mixin="ar"></a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity mixin="s2_3">
+						<a-entity rotation="116.565 72 0">
+							<a-entity mixin="s2_3">
+								<a-entity mixin="fc"></a-entity>
+								<a-entity mixin="ar"></a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity mixin="s2_3">
+						<a-entity rotation="116.565 144 0">
+							<a-entity mixin="s2_3">
+								<a-entity mixin="fc"></a-entity>
+								<a-entity mixin="ar"></a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity mixin="s2_3">
+						<a-entity rotation="116.565 216 0">
+							<a-entity mixin="s2_3">
+								<a-entity mixin="fc"></a-entity>
+								<a-entity mixin="ar"></a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity mixin="s2_3">
+						<a-entity rotation="116.565 288 0" >
+							<a-entity mixin="s2_3">
+								<a-entity mixin="fc"></a-entity>
+								<a-entity mixin="ar"></a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+				</a-entity>
+			</a-entity>
+		</a-entity>
+	  
+		<a-light type="ambient" color="white" intensity="0.5"></a-light>
+		<a-light type="directional" color="white" intensity="0.8" position="-3 2 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.8" position="3 -2 1"></a-light>
+
+		<a-sky color="#f6fff6"></a-sky>
+
+	</a-scene>
+	<div class="box">
+		<span class="titulo">Dodecadodecahedron toroid with antiprisms</span>
+		<br><span class="titulo">Toroide com antiprismas de dodecadodecaedro</span>
+		<hr><input type="checkbox" id="faces" checked onclick="mfaces()">faces&nbsp;&nbsp;&nbsp;  
+		<input type="checkbox" id="arestas" checked onclick="marestas()">edges 
+	</div>
+</body>
+</html>
