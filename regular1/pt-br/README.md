@@ -46,176 +46,176 @@ Este trabalho mostra toroides poligonais regulares e compostos modelados em 3D, 
  <br>
 <hr>
 <h4>2. Toroide de dodecadodecaedro ditrigonal v1</h4>
-<a href="../vr/DitrigonalDodecadodecahedronA.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="Toroide de dodecadodecaedro ditrigonal"></a>
+<a href="../vr/DitrigonalDodecadodecahedronA.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto" alt="Toroide de dodecadodecaedro ditrigonal"></a>
  <br>Toroide de dodecadodecaedro ditrigonal composto com prismas.
  <br>
 <hr>
 <h4>3. Toroide de dodecadodecaedro ditrigonal v2</h4>
-<a href="../vr/DitrigonalDodecadodecahedronB.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3A.png" class="foto" alt="Toroide de dodecadodecaedro ditrigonal"></a>
+<a href="../vr/DitrigonalDodecadodecahedronB.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3A.png" class="foto" alt="Toroide de dodecadodecaedro ditrigonal"></a>
  <br>Toroide de dodecadodecaedro ditrigonal composto com antiprismas.
  <br>
 <hr>
 <h4>4. Toroide de dodecadodecaedro ditrigonal v3</h4>
-<a href="../vr/DitrigonalDodecadodecahedronC.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/4A.png" class="foto" alt="Toroide de dodecadodecaedro ditrigonal"></a>
+<a href="../vr/DitrigonalDodecadodecahedronC.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/4A.png" class="foto" alt="Toroide de dodecadodecaedro ditrigonal"></a>
  <br>Toroide de dodecadodecaedro ditrigonal composto com antiprismas cruzados.
  <br>
 <hr>
 <h4>5. Toroide de dodecadodecaedro ditrigonal v4</h4>
-<a href="../vr/DitrigonalDodecadodecahedronD.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/5A.png" class="foto" alt="Toroide de dodecadodecaedro ditrigonal"></a>
+<a href="../vr/DitrigonalDodecadodecahedronD.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/5A.png" class="foto" alt="Toroide de dodecadodecaedro ditrigonal"></a>
  <br>Toroide de dodecadodecaedro ditrigonal composto com toroides tetragonais.
  <br>
 <hr>
 <h4>6. Toroide de dodecadodecaedro ditrigonal v5</h4>
-<a href="../vr/DitrigonalDodecadodecahedronE.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/6A.png" class="foto" alt="Toroide de dodecadodecaedro ditrigonal"></a>
+<a href="../vr/DitrigonalDodecadodecahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/6A.png" class="foto" alt="Toroide de dodecadodecaedro ditrigonal"></a>
  <br>Toroide de dodecadodecaedro ditrigonal composto com toroides tetragonais.
  <br>
 <hr>
 <h4>7. Toroide de dodecadodecaedro v1</h4>
-<a href="../vr/DodecadodecahedronA.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/7A.png" class="foto" alt="Toroide de dodecadodecaedro"></a>
+<a href="../vr/DodecadodecahedronA.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/7A.png" class="foto" alt="Toroide de dodecadodecaedro"></a>
  <br>Toroide de dodecadodecaedro composto com prismas.
  <br>
 <hr>
 <h4>8. Toroide de dodecadodecaedro v2</h4>
-<a href="../vr/DodecadodecahedronB.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/8A.png" class="foto" alt="Toroide de dodecadodecaedro"></a>
+<a href="../vr/DodecadodecahedronB.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/8A.png" class="foto" alt="Toroide de dodecadodecaedro"></a>
  <br>Toroide de dodecadodecaedro composto com antiprismas.
  <br>
 <hr>
 <h4>9. Toroide de dodecadodecaedro v3</h4>
-<a href="../vr/DodecadodecahedronC.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto" alt="Toroide de dodecadodecaedro"></a>
+<a href="../vr/DodecadodecahedronC.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto" alt="Toroide de dodecadodecaedro"></a>
  <br>Toroide de dodecadodecaedro composto com antiprismas cruzados.
  <br>
 <hr>
 <h4>10. Toroide de dodecadodecaedro v4</h4>
-<a href="../vr/DodecadodecahedronD.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Toroide de dodecadodecaedro"></a>
+<a href="../vr/DodecadodecahedronD.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Toroide de dodecadodecaedro"></a>
  <br>Toroide de dodecadodecaedro composto com toroides tetragonais.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>11. Toroide de dodecadodecaedro v5</h4>
-<a href="../vr/DodecadodecahedronE.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="Toroide de dodecadodecaedro"></a>
+<a href="../vr/DodecadodecahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="Toroide de dodecadodecaedro"></a>
  <br>Toroide de dodecadodecaedro composto com toroides tetragonais.
  <br>
 <hr>
 <h4>12. Toroide de dodecaedro v1</h4>
-<a href="../vr/DodecahedronA.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12A.png" class="foto" alt="Toroide de dodecaedro"></a>
+<a href="../vr/DodecahedronA.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12A.png" class="foto" alt="Toroide de dodecaedro"></a>
  <br>Toroide de dodecaedro composto com toroides.
  <br>
 <hr>
 <h4>13. Toroide de dodecaedro v2</h4>
-<a href="../vr/DodecahedronB.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13A.png" class="foto" alt="Toroide de dodecaedro"></a>
+<a href="../vr/DodecahedronB.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13A.png" class="foto" alt="Toroide de dodecaedro"></a>
  <br>Toroide de dodecaedro composto com prismas.
  <br>
 <hr>
 <h4>14. Toroide de dodecaedro v3</h4>
-<a href="../vr/DodecahedronC.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/14A.png" class="foto" alt="Toroide de dodecaedro"></a>
+<a href="../vr/DodecahedronC.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/14A.png" class="foto" alt="Toroide de dodecaedro"></a>
  <br>Toroide de dodecaedro composto com antiprismas.
  <br>
 <hr>
 <h4>15. Toroide de dodecaedro v4</h4>
-<a href="../vr/DodecahedronD.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15A.png" class="foto" alt="Toroide de dodecaedro"></a>
+<a href="../vr/DodecahedronD.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15A.png" class="foto" alt="Toroide de dodecaedro"></a>
  <br>Toroide de dodecaedro composto com toroides tetragonais.
  <br>
 <hr>
 <h4>16. Toroide de dodecaedro v5</h4>
-<a href="../vr/DodecahedronE.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/16A.png" class="foto" alt="Toroide de dodecaedro"></a>
+<a href="../vr/DodecahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/16A.png" class="foto" alt="Toroide de dodecaedro"></a>
  <br>Toroide de dodecaedro composto com toroides tetragonais.
  <br>
 <hr>
 <h4>17. Toroide de grande dodecicosidodecaedro ditrigonal v1</h4>
-<a href="../vr/GreatDitrigonalDodecicosidodecahedronD.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17A.png" class="foto" alt="Toroide de grande dodecicosidodecaedro ditrigonal"></a>
+<a href="../vr/GreatDitrigonalDodecicosidodecahedronD.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17A.png" class="foto" alt="Toroide de grande dodecicosidodecaedro ditrigonal"></a>
  <br>Toroide de grande dodecicosidodecaedro ditrigonal composto com toroides tetragonais.
  <br>
 <hr>
 <h4>18. Toroide de grande dodecicosidodecaedro ditrigonal v2</h4>
-<a href="../vr/GreatDitrigonalDodecicosidodecahedronE.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18A.png" class="foto" alt="Toroide de grande dodecicosidodecaedro ditrigonal"></a>
+<a href="../vr/GreatDitrigonalDodecicosidodecahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18A.png" class="foto" alt="Toroide de grande dodecicosidodecaedro ditrigonal"></a>
  <br>Toroide de grande dodecicosidodecaedro ditrigonal composto com toroides tetragonais.
  <br>
 <hr>
 <h4>19. Toroide de grande dodecicosidodecaedro ditrigonal v3</h4>
-<a href="../vr/GreatDitrigonalDodecicosidodecahedronF.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/19A.png" class="foto" alt="Toroide de grande dodecicosidodecaedro ditrigonal"></a>
+<a href="../vr/GreatDitrigonalDodecicosidodecahedronF.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/19A.png" class="foto" alt="Toroide de grande dodecicosidodecaedro ditrigonal"></a>
  <br>Toroide de grande dodecicosidodecaedro ditrigonal composto com toroides tetragonais.
  <br>
 <hr>
 <h4>20. Toroide de grande ditrigonal icosidodecaedro v1</h4>
-<a href="../vr/GreatDitrigonalIcosidodecahedronA.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/20A.png" class="foto" alt="Toroide de grande ditrigonal icosidodecaedro"></a>
+<a href="../vr/GreatDitrigonalIcosidodecahedronA.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/20A.png" class="foto" alt="Toroide de grande ditrigonal icosidodecaedro"></a>
  <br>Toroide de grande ditrigonal icosidodecaedro composto com prismas.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>21. Toroide de grande ditrigonal icosidodecaedro v2</h4>
-<a href="../vr/GreatDitrigonalIcosidodecahedronB.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/21A.png" class="foto" alt="Toroide de grande ditrigonal icosidodecaedro"></a>
+<a href="../vr/GreatDitrigonalIcosidodecahedronB.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/21A.png" class="foto" alt="Toroide de grande ditrigonal icosidodecaedro"></a>
  <br>Toroide de grande ditrigonal icosidodecaedro composto com antiprismas.
  <br>
 <hr>
 <h4>22. Toroide de grande ditrigonal icosidodecaedro v3</h4>
-<a href="../vr/GreatDitrigonalIcosidodecahedronC.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/22A.png" class="foto" alt="Toroide de grande ditrigonal icosidodecaedro"></a>
+<a href="../vr/GreatDitrigonalIcosidodecahedronC.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/22A.png" class="foto" alt="Toroide de grande ditrigonal icosidodecaedro"></a>
  <br>Toroide de grande ditrigonal icosidodecaedro composto com antiprismas cruzados.
  <br>
 <hr>
 <h4>23. Toroide de grande ditrigonal icosidodecaedro v4</h4>
-<a href="../vr/GreatDitrigonalIcosidodecahedronD.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/23A.png" class="foto" alt="Toroide de grande ditrigonal icosidodecaedro"></a>
+<a href="../vr/GreatDitrigonalIcosidodecahedronD.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/23A.png" class="foto" alt="Toroide de grande ditrigonal icosidodecaedro"></a>
  <br>Toroide de grande ditrigonal icosidodecaedro composto com toroides tetragonais.
  <br>
 <hr>
 <h4>24. Toroide de grande ditrigonal icosidodecaedro v5</h4>
-<a href="../vr/GreatDitrigonalIcosidodecahedronE.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/24A.png" class="foto" alt="Toroide de grande ditrigonal icosidodecaedro"></a>
+<a href="../vr/GreatDitrigonalIcosidodecahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/24A.png" class="foto" alt="Toroide de grande ditrigonal icosidodecaedro"></a>
  <br>Toroide de grande ditrigonal icosidodecaedro composto com toroides tetragonais.
  <br>
 <hr>
 <h4>25. Toroide de grande dodecahemicosaedro v1</h4>
-<a href="../vr/GreatDodecahemicosahedronA.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/25A.png" class="foto" alt="Toroide de grande dodecahemicosaedro"></a>
+<a href="../vr/GreatDodecahemicosahedronA.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/25A.png" class="foto" alt="Toroide de grande dodecahemicosaedro"></a>
  <br>Toroide de grande dodecahemicosaedro composto com prismas.
  <br>
 <hr>
 <h4>26. Toroide de grande dodecahemicosaedro v2</h4>
-<a href="../vr/GreatDodecahemicosahedronB.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/26A.png" class="foto" alt="Toroide de grande dodecahemicosaedro"></a>
+<a href="../vr/GreatDodecahemicosahedronB.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/26A.png" class="foto" alt="Toroide de grande dodecahemicosaedro"></a>
  <br>Toroide de grande dodecahemicosaedro composto com antiprismas.
  <br>
 <hr>
 <h4>27. Toroide de grande dodecahemicosaedro v3</h4>
-<a href="../vr/GreatDodecahemicosahedronC.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/27A.png" class="foto" alt="Toroide de grande dodecahemicosaedro"></a>
+<a href="../vr/GreatDodecahemicosahedronC.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/27A.png" class="foto" alt="Toroide de grande dodecahemicosaedro"></a>
  <br>Toroide de grande dodecahemicosaedro composto com antiprismas cruzados.
  <br>
 <hr>
 <h4>28. Toroide de grande dodecahemicosaedro v4</h4>
-<a href="../vr/GreatDodecahemicosahedronD.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto" alt="Toroide de grande dodecahemicosaedro"></a>
+<a href="../vr/GreatDodecahemicosahedronD.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto" alt="Toroide de grande dodecahemicosaedro"></a>
  <br>Toroide de grande dodecahemicosaedro composto com toroides tetragonais.
  <br>
 <hr>
 <h4>29. Toroide de grande dodecahemicosaedro v5</h4>
-<a href="../vr/GreatDodecahemicosahedronE.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/29A.png" class="foto" alt="Toroide de grande dodecahemicosaedro"></a>
+<a href="../vr/GreatDodecahemicosahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/29A.png" class="foto" alt="Toroide de grande dodecahemicosaedro"></a>
  <br>Toroide de grande dodecahemicosaedro composto com toroides tetragonais.
  <br>
 <hr>
 <h4>30. Toroide de grande dodecicosaedro v1</h4>
-<a href="../vr/GreatDodecicosahedronD.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto" alt="Toroide de grande dodecicosaedro"></a>
+<a href="../vr/GreatDodecicosahedronD.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto" alt="Toroide de grande dodecicosaedro"></a>
  <br>Toroide de grande dodecicosaedro composto com toroides tetragonais.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>31. Toroide de grande dodecicosaedro v2</h4>
-<a href="../vr/GreatDodecicosahedronE.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/31A.png" class="foto" alt="Toroide de grande dodecicosaedro"></a>
+<a href="../vr/GreatDodecicosahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/31A.png" class="foto" alt="Toroide de grande dodecicosaedro"></a>
  <br>Toroide de grande dodecicosaedro composto com toroides tetragonais.
  <br>
 <hr>
 <h4>32. Toroide de grande dodecicosaedro v3</h4>
-<a href="../vr/GreatDodecicosahedronF.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/32A.png" class="foto" alt="Toroide de grande dodecicosaedro"></a>
+<a href="../vr/GreatDodecicosahedronF.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/32A.png" class="foto" alt="Toroide de grande dodecicosaedro"></a>
  <br>Toroide de grande dodecicosaedro composto com toroides tetragonais.
  <br>
 <hr>
 <h4>33. Toroide de grande icosicosidodecaedro v1</h4>
-<a href="../vr/GreatIcosicosidodecahedronD.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/33A.png" class="foto" alt="Toroide de grande icosicosidodecaedro"></a>
+<a href="../vr/GreatIcosicosidodecahedronD.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/33A.png" class="foto" alt="Toroide de grande icosicosidodecaedro"></a>
  <br>Toroide de grande icosicosidodecaedro composto com toroides tetragonais.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>34. Toroide de grande icosicosidodecaedro v2</h4>
-<a href="../vr/GreatIcosicosidodecahedronE.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/34A.png" class="foto" alt="Toroide de grande icosicosidodecaedro"></a>
+<a href="../vr/GreatIcosicosidodecahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/34A.png" class="foto" alt="Toroide de grande icosicosidodecaedro"></a>
  <br>Toroide de grande icosicosidodecaedro composto com toroides tetragonais.
  <br>
 <hr>
 <h4>35. Toroide de grande icosicosidodecaedro v3</h4>
-<a href="../vr/GreatIcosicosidodecahedronF.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/35A.png" class="foto" alt="Toroide de grande icosicosidodecaedro"></a>
+<a href="../vr/GreatIcosicosidodecahedronF.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/35A.png" class="foto" alt="Toroide de grande icosicosidodecaedro"></a>
  <br>Toroide de grande icosicosidodecaedro composto com toroides tetragonais.
  <br>
 <hr>
@@ -225,73 +225,73 @@ Este trabalho mostra toroides poligonais regulares e compostos modelados em 3D, 
  <br>
 <hr>
 <h4>37. Toroide de icosidodecadodecaedro v1</h4>
-<a href="../vr/IcosidodecadodecahedronA.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="Toroide de icosidodecadodecaedro"></a>
+<a href="../vr/IcosidodecadodecahedronA.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="Toroide de icosidodecadodecaedro"></a>
  <br>Toroide de icosidodecadodecaedro composto com prismas.
  <br>
 <hr>
 <h4>38. Toroide de icosidodecadodecaedro v2</h4>
-<a href="../vr/IcosidodecadodecahedronB.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/38A.png" class="foto" alt="Toroide de icosidodecadodecaedro"></a>
+<a href="../vr/IcosidodecadodecahedronB.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/38A.png" class="foto" alt="Toroide de icosidodecadodecaedro"></a>
  <br>Toroide de icosidodecadodecaedro composto com antiprismas.
  <br>
 <hr>
 <h4>39. Toroide de icosidodecadodecaedro v3</h4>
-<a href="../vr/IcosidodecadodecahedronC.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/39A.png" class="foto" alt="Toroide de icosidodecadodecaedro"></a>
+<a href="../vr/IcosidodecadodecahedronC.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/39A.png" class="foto" alt="Toroide de icosidodecadodecaedro"></a>
  <br>Toroide de icosidodecadodecaedro composto com antiprismas cruzados.
  <br>
 <hr>
 <h4>40. Toroide de icosidodecadodecaedro v4</h4>
-<a href="../vr/IcosidodecadodecahedronD.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/40A.png" class="foto" alt="Toroide de icosidodecadodecaedro"></a>
+<a href="../vr/IcosidodecadodecahedronD.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/40A.png" class="foto" alt="Toroide de icosidodecadodecaedro"></a>
  <br>Toroide de icosidodecadodecaedro composto com toroides tetragonais.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>41. Toroide de icosidodecadodecaedro v5</h4>
-<a href="../vr/IcosidodecadodecahedronE.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/41A.png" class="foto" alt="Toroide de icosidodecadodecaedro"></a>
+<a href="../vr/IcosidodecadodecahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/41A.png" class="foto" alt="Toroide de icosidodecadodecaedro"></a>
  <br>Toroide de icosidodecadodecaedro composto com toroides tetragonais.
  <br>
 <hr>
 <h4>42. Toroide de icosidodecaedro v1</h4>
-<a href="../vr/IcosidodecahedronA.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/42A.png" class="foto" alt="Toroide de icosidodecaedro"></a>
+<a href="../vr/IcosidodecahedronA.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/42A.png" class="foto" alt="Toroide de icosidodecaedro"></a>
  <br>Toroide de icosidodecaedro composto com toroides.
  <br>
 <hr>
 <h4>43. Toroide de icosidodecaedro v2</h4>
-<a href="../vr/IcosidodecahedronB.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/43A.png" class="foto" alt="Toroide de icosidodecaedro"></a>
+<a href="../vr/IcosidodecahedronB.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/43A.png" class="foto" alt="Toroide de icosidodecaedro"></a>
  <br>Toroide de icosidodecaedro composto com prismas.
  <br>
 <hr>
 <h4>44. Toroide de icosidodecaedro v3</h4>
-<a href="../vr/IcosidodecahedronC.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/44A.png" class="foto" alt="Toroide de icosidodecaedro"></a>
+<a href="../vr/IcosidodecahedronC.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/44A.png" class="foto" alt="Toroide de icosidodecaedro"></a>
  <br>Toroide de icosidodecaedro composto com antiprismas.
  <br>
 <hr>
 <h4>45. Toroide de icosidodecaedro v4</h4>
-<a href="../vr/IcosidodecahedronD.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/45A.png" class="foto" alt="Toroide de icosidodecaedro"></a>
+<a href="../vr/IcosidodecahedronD.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/45A.png" class="foto" alt="Toroide de icosidodecaedro"></a>
  <br>Toroide de icosidodecaedro composto com toroides tetragonais.
  <br>
 <hr>
 <h4>46. Toroide de icosidodecaedro v5</h4>
-<a href="../vr/IcosidodecahedronE.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/46A.png" class="foto" alt="Toroide de icosidodecaedro"></a>
+<a href="../vr/IcosidodecahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/46A.png" class="foto" alt="Toroide de icosidodecaedro"></a>
  <br>Toroide de icosidodecaedro composto com toroides tetragonais.
  <br>
 <hr>
 <h4>47. Toroide de dodecadodecaedro snub invertido v1</h4>
-<a href="../vr/InvertedSnubDodecadodecahedronA.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/47A.png" class="foto" alt="Toroide de dodecadodecaedro snub invertido"></a>
+<a href="../vr/InvertedSnubDodecadodecahedronA.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/47A.png" class="foto" alt="Toroide de dodecadodecaedro snub invertido"></a>
  <br>Toroide de dodecadodecaedro snub invertido composto com prismas.
  <br>
 <hr>
 <h4>48. Toroide de dodecadodecaedro snub invertido v2</h4>
-<a href="../vr/InvertedSnubDodecadodecahedronB.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/48A.png" class="foto" alt="Toroide de dodecadodecaedro snub invertido"></a>
+<a href="../vr/InvertedSnubDodecadodecahedronB.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/48A.png" class="foto" alt="Toroide de dodecadodecaedro snub invertido"></a>
  <br>Toroide de dodecadodecaedro snub invertido composto com antiprismas.
  <br>
 <hr>
 <h4>49. Toroide de dodecadodecaedro snub invertido v3</h4>
-<a href="../vr/InvertedSnubDodecadodecahedronC.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/49A.png" class="foto" alt="Toroide de dodecadodecaedro snub invertido"></a>
+<a href="../vr/InvertedSnubDodecadodecahedronC.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/49A.png" class="foto" alt="Toroide de dodecadodecaedro snub invertido"></a>
  <br>Toroide de dodecadodecaedro snub invertido composto com antiprismas cruzados.
  <br>
 <hr>
 <h4>50. Toroide de dodecadodecaedro snub invertido v4</h4>
-<a href="../vr/InvertedSnubDodecadodecahedronD.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/50A.png" class="foto" alt="Toroide de dodecadodecaedro snub invertido"></a>
+<a href="../vr/InvertedSnubDodecadodecahedronD.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/50A.png" class="foto" alt="Toroide de dodecadodecaedro snub invertido"></a>
  <br>Toroide de dodecadodecaedro snub invertido composto com toroides tetragonais.
  <br>
 <hr>
