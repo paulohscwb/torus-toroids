@@ -36,7 +36,7 @@ Um sólido toroidal ou toroide é um poliedro orientável sem autointerseções 
 Este trabalho mostra dodecaedros heptagonais e garrafas de Klein modelados em 3D, com as visualizações que podem ser acessadas com recursos em salas de Realidade Virtual imersivas.
  <p align="center"><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
  <hr>
-  <p align="center"><img src="../vr/salas/videos/hexagonal1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="VR immersive hexagonal toroids"/><img src="../vr/salas/videos/hexagonal2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR immersive hexagonal toroids"/></p>  
+  <p align="center"><img src="../vr/salas/videos/heptaklein1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="VR immersive hexagonal toroids"/><img src="../vr/salas/videos/heptaklein2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR immersive hexagonal toroids"/></p>  
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXgcL9RxOVEfCA1KDLByHZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
