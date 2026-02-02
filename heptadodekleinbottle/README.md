@@ -132,28 +132,28 @@ This work shows heptagonal dodecahedrons and Klein bottles modeled in 3D, with v
  <br>
 <hr>
 <h4>19. Klein truncated cube bottle</h4>
-<a href="vr/TruncatedCube.html" target="_blank" title="3D model" class="fotoA"><img src="ar/20A.png" class="foto" alt="Klein truncated cube bottle"></a>
+<a href="vr/TruncatedCube.html" target="_blank" title="3D model" class="fotoA"><img src="ar/19A.png" class="foto" alt="Klein truncated cube bottle"></a>
  <br>The Klein bottle is a closed, non-orientable surface, without interior or exterior, originally described by Felix Klein. This model of the Klein bottle was constructed using a truncated cube, some prisms, and three cupolas.
  <br>
 <hr>
 <h4>20. Klein truncated cube bottle v2</h4>
-<a href="vr/TruncatedCube2.html" target="_blank" title="3D model" class="fotoA"><img src="ar/21A.png" class="foto" alt="Klein truncated cube bottle"></a>
+<a href="vr/TruncatedCube2.html" target="_blank" title="3D model" class="fotoA"><img src="ar/20A.png" class="foto" alt="Klein truncated cube bottle"></a>
  <br>This model of the Klein bottle was constructed using a truncated cube, some prisms, and three cupolas.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>21. Klein truncated cuboctahedron bottle</h4>
-<a href="vr/TruncatedCuboctahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/22A.png" class="foto" alt="Klein truncated cuboctahedron bottle"></a>
+<a href="vr/TruncatedCuboctahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/21A.png" class="foto" alt="Klein truncated cuboctahedron bottle"></a>
  <br>The Klein bottle is a closed, non-orientable surface, without interior or exterior, originally described by Felix Klein. This model of the Klein bottle was constructed using a truncated cuboctahedron, some prisms, and three cupolas.
  <br>
 <hr>
 <h4>22. Klein truncated cuboctahedron bottle v2</h4>
-<a href="vr/TruncatedCuboctahedron2.html" target="_blank" title="3D model" class="fotoA"><img src="ar/23A.png" class="foto" alt="Klein truncated cuboctahedron bottle"></a>
+<a href="vr/TruncatedCuboctahedron2.html" target="_blank" title="3D model" class="fotoA"><img src="ar/22A.png" class="foto" alt="Klein truncated cuboctahedron bottle"></a>
  <br>This model of the Klein bottle was constructed using a truncated cuboctahedron, some prisms, and three cupolas.
  <br>
 <hr>
 <h4>23. Klein truncated octahedron bottle</h4>
-<a href="vr/TruncatedOctahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/24A.png" class="foto" alt="Klein truncated octahedron"></a>
+<a href="vr/TruncatedOctahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/23A.png" class="foto" alt="Klein truncated octahedron"></a>
  <br>This model of the Klein bottle was constructed using a truncated octahedron and some prisms.
  <br>
 <hr>
