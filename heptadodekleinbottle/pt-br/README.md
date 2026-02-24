@@ -39,7 +39,7 @@ Este trabalho mostra dodecaedros heptagonais e garrafas de Klein modelados em 3D
   <p align="center"><img src="../vr/salas/videos/heptaklein1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="VR immersive Klein bottle"/><img src="../vr/salas/videos/heptaklein2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR immersive heptagonal toroids"/></p>  
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXgcL9RxOVEfCA1KDLByHZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWftZAnbAu27vnaGV95cStK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Dodecaedro heptagonal #1</h4>
 <a href="../vr/HeptagonalDodecahedron_A.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Dodecaedro heptagonal"></a>
  <br><b>faces:</b> 12 heptágonos não convexos | <b>vértices:</b> 28| <b>arestas:</b> 42
@@ -98,22 +98,22 @@ Este trabalho mostra dodecaedros heptagonais e garrafas de Klein modelados em 3D
 <hr>
 <h4>12. Garrafa de Klein de cubo</h4>
 <a href="../vr/Cube.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12A.png" class="foto" alt="Garrafa de Klein de cubo"></a>
- <br>A garrafa de Klein é uma superfície fechada e não orientável, sem interior ou exterior, originalmente descrita por Felix Klein. Este modelo de garrafa de Klein foi construído com um cubo, alguns prismas e três cúpolas.
+ <br>A garrafa de Klein é uma superfície fechada e não orientável, sem interior ou exterior, originalmente descrita por Felix Klein. Este modelo de garrafa de Klein foi construído com um cubo, alguns prismas e três cupolas.
  <br>
 <hr>
 <h4>13. Garrafa de Klein de cubo v2</h4>
 <a href="../vr/Cube2.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13A.png" class="foto" alt="Garrafa de Klein de cubo"></a>
- <br> Este modelo de garrafa de Klein foi construído com um cubo, alguns prismas e três cúpolas.
+ <br> Este modelo de garrafa de Klein foi construído com um cubo, alguns prismas e três cupolas.
  <br>
 <hr>
 <h4>14. Garrafa de Klein de cuboctaedro</h4>
 <a href="../vr/Cuboctahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/14A.png" class="foto" alt="Garrafa de Klein de cuboctaedro"></a>
- <br>A garrafa de Klein é uma superfície fechada e não orientável, sem interior ou exterior, originalmente descrita por Felix Klein. Este modelo de garrafa de Klein foi construído com um cuboctaedro, alguns prismas e três cúpolas.
+ <br>A garrafa de Klein é uma superfície fechada e não orientável, sem interior ou exterior, originalmente descrita por Felix Klein. Este modelo de garrafa de Klein foi construído com um cuboctaedro, alguns prismas e três cupolas.
  <br>
 <hr>
 <h4>15. Garrafa de Klein de cuboctaedro v2</h4>
 <a href="../vr/Cuboctahedron2.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15A.png" class="foto" alt="Garrafa de Klein de cuboctaedro"></a>
- <br> Este modelo de garrafa de Klein foi construído com um cuboctaedro, alguns prismas e três cúpolas.
+ <br> Este modelo de garrafa de Klein foi construído com um cuboctaedro, alguns prismas e três cupolas.
  <br>
 <hr>
 <h4>16. Garrafa de Klein de rombicuboctaedro</h4>
@@ -133,23 +133,23 @@ Este trabalho mostra dodecaedros heptagonais e garrafas de Klein modelados em 3D
 <hr>
 <h4>19. Garrafa de Klein de cubo truncado</h4>
 <a href="../vr/TruncatedCube.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/19A.png" class="foto" alt="Garrafa de Klein de cubo truncado"></a>
- <br>A garrafa de Klein é uma superfície fechada e não orientável, sem interior ou exterior, originalmente descrita por Felix Klein. Este modelo de garrafa de Klein foi construído com um cubo truncado, alguns prismas e três cúpolas.
+ <br>A garrafa de Klein é uma superfície fechada e não orientável, sem interior ou exterior, originalmente descrita por Felix Klein. Este modelo de garrafa de Klein foi construído com um cubo truncado, alguns prismas e três cupolas.
  <br>
 <hr>
 <h4>20. Garrafa de Klein de cubo truncado v2</h4>
 <a href="../vr/TruncatedCube2.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/20A.png" class="foto" alt="Garrafa de Klein de cubo truncado"></a>
- <br>Este modelo de garrafa de Klein foi construído com um cubo truncado, alguns prismas e três cúpolas.
+ <br>Este modelo de garrafa de Klein foi construído com um cubo truncado, alguns prismas e três cupolas.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>21. Garrafa de Klein de cuboctaedro truncado</h4>
 <a href="../vr/TruncatedCuboctahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/21A.png" class="foto" alt="Garrafa de Klein de cuboctaedro truncado"></a>
- <br>A garrafa de Klein é uma superfície fechada e não orientável, sem interior ou exterior, originalmente descrita por Felix Klein. Este modelo de garrafa de Klein foi construído com um cuboctaedro truncado, alguns prismas e três cúpolas.
+ <br>A garrafa de Klein é uma superfície fechada e não orientável, sem interior ou exterior, originalmente descrita por Felix Klein. Este modelo de garrafa de Klein foi construído com um cuboctaedro truncado, alguns prismas e três cupolas.
  <br>
 <hr>
 <h4>22. Garrafa de Klein de cuboctaedro truncado v2</h4>
 <a href="../vr/TruncatedCuboctahedron2.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/22A.png" class="foto" alt="Garrafa de Klein de cuboctaedro truncado"></a>
- <br>Este modelo de garrafa de Klein foi construído com um cuboctaedro truncado, alguns prismas e três cúpolas.
+ <br>Este modelo de garrafa de Klein foi construído com um cuboctaedro truncado, alguns prismas e três cupolas.
  <br>
 <hr>
 <h4>23. Garrafa de Klein de octaedro truncado</h4>

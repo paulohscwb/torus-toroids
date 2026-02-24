@@ -39,7 +39,7 @@ This work shows heptagonal dodecahedrons and Klein bottles modeled in 3D, with v
  <p align="center"><img src="vr/salas/videos/heptaklein1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV de garrafa de Klein"/><img src="vr/salas/videos/heptaklein2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de toroides heptagonais"/></p>
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXgcL9RxOVEfCA1KDLByHZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWftZAnbAu27vnaGV95cStK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Heptagonal dodecahedron #1</h4>
 <a href="vr/HeptagonalDodecahedron_A.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/1A.png" class="foto" alt="Heptagonal dodecahedron"></a>
  <br><b>faces:</b> 12 nonconvex heptagons | <b>vertices:</b> 28 | <b>edges:</b> 42
