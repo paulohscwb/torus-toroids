@@ -46,73 +46,73 @@ This work shows regular polygonal and composition toroids modeled in 3D, with vi
  <br>
 <hr>
 <h4>2. Pentagonal Trapezohedron-Antiprism Toroid</h4>
-<a href="vr/PentagonalTrapezohedronAntiprismToroid.html" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto" alt="Pentagonal Trapezohedron-Antiprism Toroid"></a>
+<a href="vr/PentagonalTrapezohedronAntiprismToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto" alt="Pentagonal Trapezohedron-Antiprism Toroid"></a>
  <br>Toroid composed of symmetric pentagons and triangles.
  <br>
 <hr>
 <h4>3. Pentagonal Trapezohedron Toroid</h4>
-<a href="vr/PentagonalTrapezohedronToroid.html" target="_blank" title="3D model" class="fotoA"><img src="ar/3A.png" class="foto" alt="Pentagonal Trapezohedron Toroid"></a>
+<a href="vr/PentagonalTrapezohedronToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/3A.png" class="foto" alt="Pentagonal Trapezohedron Toroid"></a>
  <br>Toroid composed of symmetric pentagons.
  <br>
 <hr>
 <h4>4. Regular map #1</h4>
-<a href="vr/RegularMap.html" target="_blank" title="3D model" class="fotoA"><img src="ar/4A.png" class="foto" alt="Regular map"></a>
+<a href="vr/RegularMap.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/4A.png" class="foto" alt="Regular map"></a>
  <br>Regular map composed of regular and symmetric hexagons.
  <br>
 <hr>
 <h4>5. Regular map #2</h4>
-<a href="vr/RegularMap_A.html" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto" alt="Regular map"></a>
+<a href="vr/RegularMap_A.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto" alt="Regular map"></a>
  <br>Regular map composed of rectangles and isosceles trapezoids.
  <br>
 <hr>
 <h4>6. Regular map #3</h4>
-<a href="vr/RegularMap_B.html" target="_blank" title="3D model" class="fotoA"><img src="ar/6A.png" class="foto" alt="Regular map"></a>
+<a href="vr/RegularMap_B.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/6A.png" class="foto" alt="Regular map"></a>
  <br>Regular map composed of nonconvex heptagons.
  <br>
 <hr>
 <h4>7. Regular map #4</h4>
-<a href="vr/RegularMap_C.html" target="_blank" title="3D model" class="fotoA"><img src="ar/7A.png" class="foto" alt="Regular map"></a>
+<a href="vr/RegularMap_C.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/7A.png" class="foto" alt="Regular map"></a>
  <br>Regular map composed of nonconvex heptagons.
  <br>
 <hr>
 <h4>8. Regular map #5</h4>
-<a href="vr/RegularMap_D.html" target="_blank" title="3D model" class="fotoA"><img src="ar/8A.png" class="foto" alt="Regular map"></a>
+<a href="vr/RegularMap_D.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/8A.png" class="foto" alt="Regular map"></a>
  <br>Regular map composed of nonconvex heptagons.
  <br>
 <hr>
 <h4>9. Regular map #6</h4>
-<a href="vr/RegularMap_E.html" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto" alt="Regular map"></a>
+<a href="vr/RegularMap_E.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto" alt="Regular map"></a>
  <br>Regular map composed of nonconvex heptagons.
  <br>
 <hr>
 <h4>10. Regular map #7</h4>
-<a href="vr/RegularMap_F.html" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Regular map"></a>
+<a href="vr/RegularMap_F.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Regular map"></a>
  <br>Regular map composed of nonconvex heptagons.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>11. Regular map #8</h4>
-<a href="vr/RegularMap_G.html" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Regular map"></a>
+<a href="vr/RegularMap_G.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Regular map"></a>
  <br>Regular map composed of nonconvex heptagons.
  <br>
 <hr>
 <h4>12. Regular map #9</h4>
-<a href="vr/RegularMap_H.html" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto" alt="Regular map"></a>
+<a href="vr/RegularMap_H.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto" alt="Regular map"></a>
  <br>Regular map composed of nonconvex heptagons.
  <br>
 <hr>
 <h4>13. Regular Triangular Toroid #1</h4>
-<a href="vr/RegularTriangularToroid_A.html" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto" alt="Regular Triangular Toroid"></a>
+<a href="vr/RegularTriangularToroid_A.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto" alt="Regular Triangular Toroid"></a>
  <br>Toroid composed of obtuse and equilateral triangles.
  <br>
 <hr>
-<h4>13. Regular Triangular Toroid #2</h4>
-<a href="vr/RegularTriangularToroid_B.html" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="Regular Triangular Toroid"></a>
+<h4>14. Regular Triangular Toroid #2</h4>
+<a href="vr/RegularTriangularToroid_B.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="Regular Triangular Toroid"></a>
  <br>Toroid composed of isosceles and equilateral triangles.
  <br>
 <hr>
 <h4>15. Regular Triangular Toroid #3</h4>
-<a href="vr/RegularTriangularToroid_C.html" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Regular Triangular Toroid"></a>
+<a href="vr/RegularTriangularToroid_C.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Regular Triangular Toroid"></a>
  <br>Toroid composed of obtuse and acute triangles.
  <br>
 <hr>
