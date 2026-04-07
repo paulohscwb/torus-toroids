@@ -39,7 +39,7 @@ This work shows regular polygonal and composition toroids modeled in 3D, with vi
  <p align="center"><img src="vr/salas/videos/regular1.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="RV de toroides regulares"/></p>
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWrThyG3c9HmtaH_RUtJPEN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWrThyG3c9HmtaH_RUtJPEN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Pentagonal Antiprism-Trapezohedron Toroid</h4>
 <a href="vr/PentagonalAntiprismTrapezohedronToroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/1A.png" class="foto" alt="Pentagonal Antiprism-Trapezohedron Toroid"></a>
  <br>Toroid composed of symmetric pentagons and triangles.

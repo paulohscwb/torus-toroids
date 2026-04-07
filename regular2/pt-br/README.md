@@ -39,7 +39,7 @@ Este trabalho mostra toroides poligonais regulares e compostos modelados em 3D, 
   <p align="center"><img src="../vr/salas/videos/regular1.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="VR immersive regular toroids"/></p>  
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWrThyG3c9HmtaH_RUtJPEN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWrThyG3c9HmtaH_RUtJPEN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Toroide trapezoidal antiprismático pentagonal</h4>
 <a href="../vr/PentagonalAntiprismTrapezohedronToroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Toroide trapezoidal antiprismático pentagonal"></a>
  <br>Toroide composto de pentágonos simétricos e triângulos.
