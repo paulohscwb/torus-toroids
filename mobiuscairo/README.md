@@ -454,7 +454,7 @@ Cairo tiles are named after the plaster pattern on some streets in Cairo.
  <br>
 <hr>
 <h4>82. Regular map #6</h4>
-<a href="vr/RegularMapF.html" target="_blank" title="3D model" class="fotoA"><img src="ar/82A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Regular map"></a>
+<a href="vr/RegularMapF.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/82A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Regular map"></a>
  <br>Möbius and Vélez-Jahn toroid modeled with 10 Regular maps
  <br>
 <hr>

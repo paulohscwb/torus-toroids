@@ -454,7 +454,7 @@ O azulejo do Cairo recebeu esse nome em homenagem ao padrão de reboco de alguma
  <br>
 <hr>
 <h4>82. Mapa regular #6</h4>
-<a href="../vr/RegularMapF.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/82A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Mapa regular"></a>
+<a href="../vr/RegularMapF.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/82A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Mapa regular"></a>
  <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Mapas regulares
  <br>
 <hr>
