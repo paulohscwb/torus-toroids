@@ -422,6 +422,52 @@ O azulejo do Cairo recebeu esse nome em homenagem ao padrão de reboco de alguma
  <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Grandes Rombicuboctaedros Uniformes
  <br>
 <hr>
+<h4>76. Mapa de Klein</h4>
+<a href="../vr/KleinMap.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/76A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Mapa de Klein"></a>
+ <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Mapas de Klein
+ <br>
+<hr>
+<h4>77. Mapa regular #1</h4>
+<a href="../vr/RegularMapA.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/77A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Mapa regular"></a>
+ <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Mapas regulares
+ <br>
+<hr>
+<h4>78. Mapa regular #2</h4>
+<a href="../vr/RegularMapB.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/78A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Mapa regular"></a>
+ <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Mapas regulares
+ <br>
+<hr>
+<h4>79. Mapa regular #3</h4>
+<a href="../vr/RegularMapC.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/79A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Mapa regular"></a>
+ <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Mapas regulares
+ <br>
+<hr>
+<h4>80. Mapa regular #4</h4>
+<a href="../vr/RegularMapD.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/80A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Mapa regular"></a>
+ <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Mapas regulares
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>81. Mapa regular #5</h4>
+<a href="../vr/RegularMapE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/81A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Mapa regular"></a>
+ <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Mapas regulares
+ <br>
+<hr>
+<h4>82. Mapa regular #6</h4>
+<a href="../vr/RegularMapF.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/82A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Mapa regular"></a>
+ <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Mapas regulares
+ <br>
+<hr>
+<h4>83. Mapa regular #7</h4>
+<a href="../vr/RegularMapG.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/83A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Mapa regular"></a>
+ <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Mapas regulares
+ <br>
+<hr>
+<h4>84. Mapa regular #8</h4>
+<a href="../vr/RegularMapH.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/84A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Mapa regular"></a>
+ <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Mapas regulares
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Möbius, Vélez-Jahn and Cairo toroids: visualization of solids with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/torus-toroids/mobiuscairo/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.

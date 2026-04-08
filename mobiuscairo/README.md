@@ -422,6 +422,52 @@ Cairo tiles are named after the plaster pattern on some streets in Cairo.
  <br>Möbius and Vélez-Jahn toroid modeled with 10 Uniform Great Rhombicuboctahedrons
  <br>
 <hr>
+<h4>76. Klein map</h4>
+<a href="vr/KleinMap.html" target="_blank" title="3D model" class="fotoA"><img src="ar/76A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Klein map"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Klein maps
+ <br>
+<hr>
+<h4>77. Regular map #1</h4>
+<a href="vr/RegularMapA.html" target="_blank" title="3D model" class="fotoA"><img src="ar/77A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Regular map"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Regular maps
+ <br>
+<hr>
+<h4>78. Regular map #2</h4>
+<a href="vr/RegularMapB.html" target="_blank" title="3D model" class="fotoA"><img src="ar/78A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Regular map"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Regular maps
+ <br>
+<hr>
+<h4>79. Regular map #3</h4>
+<a href="vr/RegularMapC.html" target="_blank" title="3D model" class="fotoA"><img src="ar/79A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Regular map"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Regular maps
+ <br>
+<hr>
+<h4>80. Regular map #4</h4>
+<a href="vr/RegularMapD.html" target="_blank" title="3D model" class="fotoA"><img src="ar/80A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Regular map"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Regular maps
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>81. Regular map #5</h4>
+<a href="vr/RegularMapE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/81A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Regular map"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Regular maps
+ <br>
+<hr>
+<h4>82. Regular map #6</h4>
+<a href="vr/RegularMapF.html" target="_blank" title="3D model" class="fotoA"><img src="ar/82A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Regular map"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Regular maps
+ <br>
+<hr>
+<h4>83. Regular map #7</h4>
+<a href="vr/RegularMapG.html" target="_blank" title="3D model" class="fotoA"><img src="ar/83A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Regular map"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Regular maps
+ <br>
+<hr>
+<h4>84. Regular map #8</h4>
+<a href="vr/RegularMapH.html" target="_blank" title="3D model" class="fotoA"><img src="ar/84A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Regular map"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Regular maps
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 
