@@ -20,8 +20,8 @@
 <h3 style="margin-top:3px"><a target="_blank" href="regular1/"><img src="regular1/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Regular polygonal and composition toroids 1</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="heptadodekleinbottle/"><img src="heptadodekleinbottle/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Heptagonal dodecahedrons and Klein bottles</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="regular2/"><img src="regular2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Regular polygonal and composition toroids 2</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="stewartrings/"><img src="stewartrings/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Stewart Rings</a></h3>
 <!--<h3 style="margin-top:3px"><a target="_blank" href="regular3/"><img src="regular3/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Regular polygonal toroids 3</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="rings/"><img src="rings/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Rings toroids</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="regular4/"><img src="regular4/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Regular polygonal toroids 4</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="regular5/"><img src="regular5/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Regular polygonal toroids 5</a></h3>-->
 <hr>

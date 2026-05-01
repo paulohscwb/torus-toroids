@@ -17,8 +17,8 @@
 		<option disabled value="../../regular1/pt-br/">Toroides poligonais regulares e compostos 1</option>
 		<option value="../../heptadodekleinbottle/pt-br/">Dodecaedros heptagonais e garrafas de Klein</option>
 		<option value="../../regular2/pt-br/">Toroides poligonais regulares e compostos 2</option>
+		<option value="../../stewartrings/pt-br/">Anéis de Stewart</option>
 		<!--<option value="../../regular3/pt-br/">Toroides poligonais regulares 3</option>
-		<option value="../../rings/pt-br/">Anéis toroides</option>
 		<option value="../../regular4/pt-br/">Toroides poligonais regulares 4</option>
 		<option value="../../regular5/pt-br/">Toroides poligonais regulares 5</option>-->
 	</select>
