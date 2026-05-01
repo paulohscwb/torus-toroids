@@ -61,7 +61,7 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
  <br>
 <hr>
 <h4>5. Dodecaedro Côncavo</h4>
-<a href="../vr/RingConcaveDodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/5A.png" class="foto" alt="Anéis de Stewart de Dodecaedro Côncavo"></a>
+<a href="../vr/RingConcaveDodecahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/5A.png" class="foto" alt="Anéis de Stewart de Dodecaedro Côncavo"></a>
  <br>Anéis de Stewart de Dodecaedro Côncavo.
  <br>
 <hr>
@@ -71,12 +71,12 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
  <br>
 <hr>
 <h4>7. Dodecadodecaedro Ditrigonal</h4>
-<a href="../vr/RingDitrigonalDodecadodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/7A.png" class="foto" alt="Anéis de Stewart de Dodecadodecaedro Ditrigonal"></a>
+<a href="../vr/RingDitrigonalDodecadodecahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/7A.png" class="foto" alt="Anéis de Stewart de Dodecadodecaedro Ditrigonal"></a>
  <br>Anéis de Stewart de Dodecadodecaedro Ditrigonal.
  <br>
 <hr>
 <h4>8. Dodecadodecaedro</h4>
-<a href="../vr/RingDodecadodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/8A.png" class="foto" alt="Anéis de Stewart de Dodecadodecaedro"></a>
+<a href="../vr/RingDodecadodecahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/8A.png" class="foto" alt="Anéis de Stewart de Dodecadodecaedro"></a>
  <br>Anéis de Stewart de Dodecadodecaedro.
  <br>
 <hr>
@@ -86,33 +86,33 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
  <br>
 <hr>
 <h4>10. Sólido de Escher</h4>
-<a href="../vr/RingEscher.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Anéis de Stewart de Sólido de Escher"></a>
+<a href="../vr/RingEscher.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Anéis de Stewart de Sólido de Escher"></a>
  <br>Anéis de Stewart do Sólido de Escher.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>11. Grande Cubicuboctaedro</h4>
-<a href="../vr/RingGreatCubicuboctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="Anéis de Stewart de Grande Cubicuboctaedro"></a>
+<a href="../vr/RingGreatCubicuboctahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11A.png" class="foto" alt="Anéis de Stewart de Grande Cubicuboctaedro"></a>
  <br>Anéis de Stewart de Grande Cubicuboctaedro.
  <br>
 <hr>
 <h4>12. Grande Icosidodecaedro Ditrigonal</h4>
-<a href="../vr/RingGreatDitrigonalIcosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12A.png" class="foto" alt="Anéis de Stewart de Grande Icosidodecaedro Ditrigonal"></a>
+<a href="../vr/RingGreatDitrigonalIcosidodecahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12A.png" class="foto" alt="Anéis de Stewart de Grande Icosidodecaedro Ditrigonal"></a>
  <br>Anéis de Stewart de Grande Icosidodecaedro Ditrigonal.
  <br>
 <hr>
 <h4>13. Grande Dodecaedro</h4>
-<a href="../vr/RingGreatDodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13A.png" class="foto" alt="Anéis de Stewart de Grande Dodecaedro"></a>
+<a href="../vr/RingGreatDodecahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13A.png" class="foto" alt="Anéis de Stewart de Grande Dodecaedro"></a>
  <br>Anéis de Stewart de Grande Dodecaedro.
  <br>
 <hr>
 <h4>14. Grande Dodecahemicosaedro</h4>
-<a href="../vr/RingGreatDodecahemicosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/14A.png" class="foto" alt="Anéis de Stewart de Grande Dodecahemicosaedro"></a>
+<a href="../vr/RingGreatDodecahemicosahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/14A.png" class="foto" alt="Anéis de Stewart de Grande Dodecahemicosaedro"></a>
  <br>Anéis de Stewart de Grande Dodecahemicosaedro.
  <br>
 <hr>
 <h4>15. Grande Icosaedro</h4>
-<a href="../vr/RingGreatIcosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15A.png" class="foto" alt="Anéis de Stewart de Grande Icosaedro"></a>
+<a href="../vr/RingGreatIcosahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15A.png" class="foto" alt="Anéis de Stewart de Grande Icosaedro"></a>
  <br>Anéis de Stewart de Grande Icosaedro.
  <br>
 <hr>
@@ -127,17 +127,17 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
  <br>
 <hr>
 <h4>18. Prisma Hexagonal</h4>
-<a href="../vr/RingHexagonalPrism.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18A.png" class="foto" alt="Anéis de Stewart de Prisma Hexagonal"></a>
+<a href="../vr/RingHexagonalPrism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18A.png" class="foto" alt="Anéis de Stewart de Prisma Hexagonal"></a>
  <br>Anéis de Stewart de Prisma Hexagonal.
  <br>
 <hr>
 <h4>19. Icosaedro</h4>
-<a href="../vr/RingIcosahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/19A.png" class="foto" alt="Anéis de Stewart de Icosaedro"></a>
+<a href="../vr/RingIcosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/19A.png" class="foto" alt="Anéis de Stewart de Icosaedro"></a>
  <br>Anéis de Stewart de Icosaedro.
  <br>
 <hr>
 <h4>20. Icosidodecaedro</h4>
-<a href="../vr/RingIcosidodecahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/20A.png" class="foto" alt="Anéis de Stewart de Icosidodecaedro"></a>
+<a href="../vr/RingIcosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/20A.png" class="foto" alt="Anéis de Stewart de Icosidodecaedro"></a>
  <br>Anéis de Stewart de Icosidodecaedro.
  <br>
 <hr>
@@ -148,12 +148,12 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
  <br>
 <hr>
 <h4>22. Octaedro</h4>
-<a href="../vr/RingOctahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/22A.png" class="foto" alt="Anéis de Stewart de Octaedro"></a>
+<a href="../vr/RingOctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/22A.png" class="foto" alt="Anéis de Stewart de Octaedro"></a>
  <br>Anéis de Stewart de Octaedro.
  <br>
 <hr>
 <h4>23. Octahemioctaedro</h4>
-<a href="../vr/RingOctahemioctahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/23A.png" class="foto" alt="Anéis de Stewart de Octahemioctaedro"></a>
+<a href="../vr/RingOctahemioctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/23A.png" class="foto" alt="Anéis de Stewart de Octahemioctaedro"></a>
  <br>Anéis de Stewart de Octahemioctaedro.
  <br>
 <hr>
@@ -209,22 +209,22 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
  <br>
 <hr>
 <h4>34. Rombicosidodecaedro</h4>
-<a href="../vr/RingRhombicosidodecahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/34A.png" class="foto" alt="Anéis de Stewart de Rombicosidodecaedro"></a>
+<a href="../vr/RingRhombicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/34A.png" class="foto" alt="Anéis de Stewart de Rombicosidodecaedro"></a>
  <br>Anéis de Stewart de Rombicosidodecaedro.
  <br>
 <hr>
 <h4>35. Rombicuboctaedro</h4>
-<a href="../vr/RingRhombicuboctahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/35A.png" class="foto" alt="Anéis de Stewart de Rombicuboctaedro"></a>
+<a href="../vr/RingRhombicuboctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/35A.png" class="foto" alt="Anéis de Stewart de Rombicuboctaedro"></a>
  <br>Anéis de Stewart de Rombicuboctaedro.
  <br>
 <hr>
 <h4>36. Pequeno Cubicuboctaedro</h4>
-<a href="../vr/RingSmallCubicuboctahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/36A.png" class="foto" alt="Anéis de Stewart de Pequeno Cubicuboctaedro"></a>
+<a href="../vr/RingSmallCubicuboctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/36A.png" class="foto" alt="Anéis de Stewart de Pequeno Cubicuboctaedro"></a>
  <br>Anéis de Stewart de Pequeno Cubicuboctaedro.
  <br>
 <hr>
 <h4>37. Pequeno Dodecicosidodecaedro Ditrigonal</h4>
-<a href="../vr/RingSmallDitrigonalDodecicosidodecahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="Anéis de Stewart de Pequeno Dodecicosidodecaedro Ditrigonal"></a>
+<a href="../vr/RingSmallDitrigonalDodecicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="Anéis de Stewart de Pequeno Dodecicosidodecaedro Ditrigonal"></a>
  <br>Anéis de Stewart de Pequeno Dodecicosidodecaedro Ditrigonal.
  <br>
 <hr>
@@ -234,18 +234,18 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
  <br>
 <hr>
 <h4>39. Pequeno Dodecicosidodecaedro</h4>
-<a href="../vr/RingSmallDodecicosidodecahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/39A.png" class="foto" alt="Anéis de Stewart de Pequeno Dodecicosidodecaedro"></a>
+<a href="../vr/RingSmallDodecicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/39A.png" class="foto" alt="Anéis de Stewart de Pequeno Dodecicosidodecaedro"></a>
  <br>Anéis de Stewart de Pequeno Dodecicosidodecaedro.
  <br>
 <hr>
 <h4>40. Pequeno Icosicosidodecaedro</h4>
-<a href="../vr/RingSmallIcosicosidodecahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/40A.png" class="foto" alt="Anéis de Stewart de Pequeno Icosicosidodecaedro"></a>
+<a href="../vr/RingSmallIcosicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/40A.png" class="foto" alt="Anéis de Stewart de Pequeno Icosicosidodecaedro"></a>
  <br>Anéis de Stewart de Pequeno Icosicosidodecaedro.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>41. Pequeno Icosihemidodecaedro</h4>
-<a href="../vr/RingSmallIcosihemidodecahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/41A.png" class="foto" alt="Anéis de Stewart de Pequeno Icosihemidodecaedro"></a>
+<a href="../vr/RingSmallIcosihemidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/41A.png" class="foto" alt="Anéis de Stewart de Pequeno Icosihemidodecaedro"></a>
  <br>Anéis de Stewart de Pequeno Icosihemidodecaedro.
  <br>
 <hr>
@@ -270,7 +270,7 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
  <br>
 <hr>
 <h4>46. Tetraedro</h4>
-<a href="../vr/RingTetrahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/46A.png" class="foto" alt="Anéis de Stewart de Tetraedro"></a>
+<a href="../vr/RingTetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/46A.png" class="foto" alt="Anéis de Stewart de Tetraedro"></a>
  <br>Anéis de Stewart de Tetraedro.
  <br>
 <hr>
@@ -280,17 +280,17 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
  <br>
 <hr>
 <h4>48. Cubo Truncado</h4>
-<a href="../vr/RingTruncatedCube.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/48A.png" class="foto" alt="Anéis de Stewart de Cubo Truncado"></a>
+<a href="../vr/RingTruncatedCube.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/48A.png" class="foto" alt="Anéis de Stewart de Cubo Truncado"></a>
  <br>Anéis de Stewart de Cubo Truncado.
  <br>
 <hr>
 <h4>49. Cuboctaedro Truncado</h4>
-<a href="../vr/RingTruncatedCuboctahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/49A.png" class="foto" alt="Anéis de Stewart de Cuboctaedro Truncado"></a>
+<a href="../vr/RingTruncatedCuboctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/49A.png" class="foto" alt="Anéis de Stewart de Cuboctaedro Truncado"></a>
  <br>Anéis de Stewart de Cuboctaedro Truncado.
  <br>
 <hr>
 <h4>50. Dodecaedro Truncado</h4>
-<a href="../vr/RingTruncatedDodecahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/50A.png" class="foto" alt="Anéis de Stewart de Dodecaedro Truncado"></a>
+<a href="../vr/RingTruncatedDodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/50A.png" class="foto" alt="Anéis de Stewart de Dodecaedro Truncado"></a>
  <br>Anéis de Stewart de Dodecaedro Truncado.
  <br>
 <hr>
@@ -301,17 +301,17 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
  <br>
 <hr>
 <h4>52. Icosaedro Truncado</h4>
-<a href="../vr/RingTruncatedIcosahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/52A.png" class="foto" alt="Anéis de Stewart de Icosaedro Truncado"></a>
+<a href="../vr/RingTruncatedIcosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/52A.png" class="foto" alt="Anéis de Stewart de Icosaedro Truncado"></a>
  <br>Anéis de Stewart de Icosaedro Truncado.
  <br>
 <hr>
 <h4>53. Octaedro Truncado</h4>
-<a href="../vr/RingTruncatedOctahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/53A.png" class="foto" alt="Anéis de Stewart de Pequeno Dodecaedro Estrelado"></a>
+<a href="../vr/RingTruncatedOctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/53A.png" class="foto" alt="Anéis de Stewart de Pequeno Dodecaedro Estrelado"></a>
  <br>Anéis de Stewart de Pequeno Dodecaedro Estrelado.
  <br>
 <hr>
 <h4>54. Tetraedro Truncado</h4>
-<a href="../vr/RingTruncatedTetrahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/54A.png" class="foto" alt="Anéis de Stewart de Octaedro Estrelado"></a>
+<a href="../vr/RingTruncatedTetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/54A.png" class="foto" alt="Anéis de Stewart de Octaedro Estrelado"></a>
  <br>Anéis de Stewart de Octaedro Estrelado.
  <br>
 <hr>
@@ -321,7 +321,7 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
  <br>
 <hr>
 <h4>56. Cubohemioctaedro</h4>
-<a href="../vr/RingCubohemioctahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/56A.png" class="foto" alt="Anéis de Stewart de Cubohemioctaedro"></a>
+<a href="../vr/RingCubohemioctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/56A.png" class="foto" alt="Anéis de Stewart de Cubohemioctaedro"></a>
  <br>Anéis de Stewart de Cubohemioctaedro.
  <br>
 <hr>

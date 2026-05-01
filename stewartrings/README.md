@@ -61,7 +61,7 @@ Bonnie Stewart's toroids (1964) are solids that possess regular polygonal faces.
  <br>
 <hr>
 <h4>5. Concave Dodecahedron</h4>
-<a href="vr/RingConcaveDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto" alt="Stewart rings of Concave Dodecahedron"></a>
+<a href="vr/RingConcaveDodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto" alt="Stewart rings of Concave Dodecahedron"></a>
  <br>Stewart rings of Concave Dodecahedron.
  <br>
 <hr>
@@ -71,12 +71,12 @@ Bonnie Stewart's toroids (1964) are solids that possess regular polygonal faces.
  <br>
 <hr>
 <h4>7. Ditrigonal Dodecadodecahedron</h4>
-<a href="vr/RingDitrigonalDodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/7A.png" class="foto" alt="Stewart rings of Ditrigonal Dodecadodecahedron"></a>
+<a href="vr/RingDitrigonalDodecadodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/7A.png" class="foto" alt="Stewart rings of Ditrigonal Dodecadodecahedron"></a>
  <br>Stewart rings of Ditrigonal Dodecadodecahedron.
  <br>
 <hr>
 <h4>8. Dodecadodecahedron</h4>
-<a href="vr/RingDodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/8A.png" class="foto" alt="Stewart rings of Dodecadodecahedron"></a>
+<a href="vr/RingDodecadodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/8A.png" class="foto" alt="Stewart rings of Dodecadodecahedron"></a>
  <br>Stewart rings of Dodecadodecahedron.
  <br>
 <hr>
@@ -86,33 +86,33 @@ Bonnie Stewart's toroids (1964) are solids that possess regular polygonal faces.
  <br>
 <hr>
 <h4>10. Escher Solid</h4>
-<a href="vr/RingEscher.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Stewart rings of Escher Solid"></a>
+<a href="vr/RingEscher.html" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Stewart rings of Escher Solid"></a>
  <br>Stewart rings of Escher Solid.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>11. Great Cubicuboctahedron</h4>
-<a href="vr/RingGreatCubicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Stewart rings of Great Cubicuboctahedron"></a>
+<a href="vr/RingGreatCubicuboctahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto" alt="Stewart rings of Great Cubicuboctahedron"></a>
  <br>Stewart rings of Great Cubicuboctahedron.
  <br>
 <hr>
 <h4>12. Great Ditrigonal Icosidodecahedron</h4>
-<a href="vr/RingGreatDitrigonalIcosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto" alt="Stewart rings of Great Ditrigonal Icosidodecahedron"></a>
+<a href="vr/RingGreatDitrigonalIcosidodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto" alt="Stewart rings of Great Ditrigonal Icosidodecahedron"></a>
  <br>Stewart rings of Great Ditrigonal Icosidodecahedron.
  <br>
 <hr>
 <h4>13. Great Dodecahedron</h4>
-<a href="vr/RingGreatDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto" alt="Stewart rings of Great Dodecahedron"></a>
+<a href="vr/RingGreatDodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto" alt="Stewart rings of Great Dodecahedron"></a>
  <br>Stewart rings of Great Dodecahedron.
  <br>
 <hr>
 <h4>14. Great Dodecahemicosahedron</h4>
-<a href="vr/RingGreatDodecahemicosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="Stewart rings of Great Dodecahemicosahedron"></a>
+<a href="vr/RingGreatDodecahemicosahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto" alt="Stewart rings of Great Dodecahemicosahedron"></a>
  <br>Stewart rings of Great Dodecahemicosahedron.
  <br>
 <hr>
 <h4>15. Great Icosahedron</h4>
-<a href="vr/RingGreatIcosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Stewart rings of Great Icosahedron"></a>
+<a href="vr/RingGreatIcosahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto" alt="Stewart rings of Great Icosahedron"></a>
  <br>Stewart rings of Great Icosahedron.
  <br>
 <hr>
@@ -127,17 +127,17 @@ Bonnie Stewart's toroids (1964) are solids that possess regular polygonal faces.
  <br>
 <hr>
 <h4>18. Hexagonal Prism</h4>
-<a href="vr/RingHexagonalPrism.html" target="_blank" title="3D model" class="fotoA"><img src="ar/18A.png" class="foto" alt="Stewart rings of Hexagonal Prism"></a>
+<a href="vr/RingHexagonalPrism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/18A.png" class="foto" alt="Stewart rings of Hexagonal Prism"></a>
  <br>Stewart rings of Hexagonal Prism.
  <br>
 <hr>
 <h4>19. Icosahedron</h4>
-<a href="vr/RingIcosahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/19A.png" class="foto" alt="Stewart rings of Icosahedron"></a>
+<a href="vr/RingIcosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/19A.png" class="foto" alt="Stewart rings of Icosahedron"></a>
  <br>Stewart rings of Icosahedron.
  <br>
 <hr>
 <h4>20. Icosidodecahedron</h4>
-<a href="vr/RingIcosidodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/20A.png" class="foto" alt="Stewart rings of Icosidodecahedron"></a>
+<a href="vr/RingIcosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/20A.png" class="foto" alt="Stewart rings of Icosidodecahedron"></a>
  <br>Stewart rings of Icosidodecahedron.
  <br>
 <hr>
@@ -148,12 +148,12 @@ Bonnie Stewart's toroids (1964) are solids that possess regular polygonal faces.
  <br>
 <hr>
 <h4>22. Octahedron</h4>
-<a href="vr/RingOctahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/22A.png" class="foto" alt="Stewart rings of Octahedron"></a>
+<a href="vr/RingOctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/22A.png" class="foto" alt="Stewart rings of Octahedron"></a>
  <br>Stewart rings of Octahedron.
  <br>
 <hr>
 <h4>23. Octahemioctahedron</h4>
-<a href="vr/RingOctahemioctahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/23A.png" class="foto" alt="Stewart rings of Octahemioctahedron"></a>
+<a href="vr/RingOctahemioctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/23A.png" class="foto" alt="Stewart rings of Octahemioctahedron"></a>
  <br>Stewart rings of Octahemioctahedron.
  <br>
 <hr>
@@ -209,22 +209,22 @@ Bonnie Stewart's toroids (1964) are solids that possess regular polygonal faces.
  <br>
 <hr>
 <h4>34. Rhombicosidodecahedron</h4>
-<a href="vr/RingRhombicosidodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/34A.png" class="foto" alt="Stewart rings of Rhombicosidodecahedron"></a>
+<a href="vr/RingRhombicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/34A.png" class="foto" alt="Stewart rings of Rhombicosidodecahedron"></a>
  <br>Stewart rings of Rhombicosidodecahedron.
  <br>
 <hr>
 <h4>35. Rhombicuboctahedron</h4>
-<a href="vr/RingRhombicuboctahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto" alt="Stewart rings of Rhombicuboctahedron"></a>
+<a href="vr/RingRhombicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto" alt="Stewart rings of Rhombicuboctahedron"></a>
  <br>Stewart rings of Rhombicuboctahedron.
  <br>
 <hr>
 <h4>36. Small Cubicuboctahedron</h4>
-<a href="vr/RingSmallCubicuboctahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto" alt="Stewart rings of Small Cubicuboctahedron"></a>
+<a href="vr/RingSmallCubicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto" alt="Stewart rings of Small Cubicuboctahedron"></a>
  <br>Stewart rings of Small Cubicuboctahedron.
  <br>
 <hr>
 <h4>37. Small Ditrigonal Dodecicosidodecahedron</h4>
-<a href="vr/RingSmallDitrigonalDodecicosidodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="Stewart rings of Small Ditrigonal Dodecicosidodecahedron"></a>
+<a href="vr/RingSmallDitrigonalDodecicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="Stewart rings of Small Ditrigonal Dodecicosidodecahedron"></a>
  <br>Stewart rings of Small Ditrigonal Dodecicosidodecahedron.
  <br>
 <hr>
@@ -234,18 +234,18 @@ Bonnie Stewart's toroids (1964) are solids that possess regular polygonal faces.
  <br>
 <hr>
 <h4>39. Small Dodecicosidodecahedron</h4>
-<a href="vr/RingSmallDodecicosidodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/39A.png" class="foto" alt="Stewart rings of Small Dodecicosidodecahedron"></a>
+<a href="vr/RingSmallDodecicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/39A.png" class="foto" alt="Stewart rings of Small Dodecicosidodecahedron"></a>
  <br>Stewart rings of Small Dodecicosidodecahedron.
  <br>
 <hr>
 <h4>40. Small Icosicosidodecahedron</h4>
-<a href="vr/RingSmallIcosicosidodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/40A.png" class="foto" alt="Stewart rings of Small Icosicosidodecahedron"></a>
+<a href="vr/RingSmallIcosicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/40A.png" class="foto" alt="Stewart rings of Small Icosicosidodecahedron"></a>
  <br>Stewart rings of Small Icosicosidodecahedron.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>41. Small Icosihemidodecahedron</h4>
-<a href="vr/RingSmallIcosihemidodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/41A.png" class="foto" alt="Stewart rings of Small Icosihemidodecahedron"></a>
+<a href="vr/RingSmallIcosihemidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/41A.png" class="foto" alt="Stewart rings of Small Icosihemidodecahedron"></a>
  <br>Stewart rings of Small Icosihemidodecahedron.
  <br>
 <hr>
@@ -270,7 +270,7 @@ Bonnie Stewart's toroids (1964) are solids that possess regular polygonal faces.
  <br>
 <hr>
 <h4>46. Tetrahedron</h4>
-<a href="vr/RingTetrahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/46A.png" class="foto" alt="Stewart rings of Tetrahedron"></a>
+<a href="vr/RingTetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/46A.png" class="foto" alt="Stewart rings of Tetrahedron"></a>
  <br>Stewart rings of Tetrahedron.
  <br>
 <hr>
@@ -280,17 +280,17 @@ Bonnie Stewart's toroids (1964) are solids that possess regular polygonal faces.
  <br>
 <hr>
 <h4>48. Truncated Cube</h4>
-<a href="vr/RingTruncatedCube.html" target="_blank" title="3D model" class="fotoA"><img src="ar/48A.png" class="foto" alt="Stewart rings of Truncated Cube"></a>
+<a href="vr/RingTruncatedCube.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/48A.png" class="foto" alt="Stewart rings of Truncated Cube"></a>
  <br>Stewart rings of Truncated Cube.
  <br>
 <hr>
 <h4>49. Truncated Cuboctahedron</h4>
-<a href="vr/RingTruncatedCuboctahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/49A.png" class="foto" alt="Stewart rings of Truncated Cuboctahedron"></a>
+<a href="vr/RingTruncatedCuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/49A.png" class="foto" alt="Stewart rings of Truncated Cuboctahedron"></a>
  <br>Stewart rings of Truncated Cuboctahedron.
  <br>
 <hr>
 <h4>50. Truncated Dodecahedron</h4>
-<a href="vr/RingTruncatedDodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/50A.png" class="foto" alt="Stewart rings of Truncated Dodecahedron"></a>
+<a href="vr/RingTruncatedDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/50A.png" class="foto" alt="Stewart rings of Truncated Dodecahedron"></a>
  <br>Stewart rings of Truncated Dodecahedron.
  <br>
 <hr>
@@ -301,17 +301,17 @@ Bonnie Stewart's toroids (1964) are solids that possess regular polygonal faces.
  <br>
 <hr>
 <h4>52. Truncated Icosahedron</h4>
-<a href="vr/RingTruncatedIcosahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/52A.png" class="foto" alt="Stewart rings of Truncated Icosahedron"></a>
+<a href="vr/RingTruncatedIcosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/52A.png" class="foto" alt="Stewart rings of Truncated Icosahedron"></a>
  <br>Stewart rings of Truncated Icosahedron.
  <br>
 <hr>
 <h4>53. Truncated Octahedron</h4>
-<a href="vr/RingTruncatedOctahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/53A.png" class="foto" alt="Stewart rings of Truncated Octahedron"></a>
+<a href="vr/RingTruncatedOctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/53A.png" class="foto" alt="Stewart rings of Truncated Octahedron"></a>
  <br>Stewart rings of Truncated Octahedron.
  <br>
 <hr>
 <h4>54. Truncated Tetrahedron</h4>
-<a href="vr/RingTruncatedTetrahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/54A.png" class="foto" alt="Stewart rings of Truncated Tetrahedron"></a>
+<a href="vr/RingTruncatedTetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/54A.png" class="foto" alt="Stewart rings of Truncated Tetrahedron"></a>
  <br>Stewart rings of Truncated Tetrahedron.
  <br>
 <hr>
@@ -321,7 +321,7 @@ Bonnie Stewart's toroids (1964) are solids that possess regular polygonal faces.
  <br>
 <hr>
 <h4>56. Cubohemioctahedron</h4>
-<a href="vr/RingCubohemioctahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/56A.png" class="foto" alt="Stewart rings of Cubohemioctahedron"></a>
+<a href="vr/RingCubohemioctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/56A.png" class="foto" alt="Stewart rings of Cubohemioctahedron"></a>
  <br>Stewart rings of Cubohemioctahedron.
  <br>
 <hr>
