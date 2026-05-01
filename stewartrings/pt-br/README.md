@@ -127,8 +127,8 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
  <br>
 <hr>
 <h4>18. Prisma Hexagonal</h4>
-<a href="../vr/RingHexagonalPrism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18A.png" class="foto" alt="Anéis de Stewart de Prisma Hexagonal"></a>
- <br>Anéis de Stewart de Prisma Hexagonal.
+<a href="../vr/RingHexagonalPrism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18A.png" class="foto" alt="Anel de Stewart de Prisma Hexagonal"></a>
+ <br>Anel de Stewart de Prisma Hexagonal.
  <br>
 <hr>
 <h4>19. Icosaedro</h4>
@@ -158,43 +158,43 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
  <br>
 <hr>
 <h4>24. Mapa Regular #1</h4>
-<a href="../vr/RegularMapA.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/24A.png" class="foto" alt="Anéis de Stewart de Mapa Regular"></a>
+<a href="../vr/RingRegularMapA.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/24A.png" class="foto" alt="Anéis de Stewart de Mapa Regular"></a>
  <br>Anéis de Stewart de Mapa Regular.
  <br>
 <hr>
 <h4>25. Mapa Regular #2</h4>
-<a href="../vr/RegularMapB.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/25A.png" class="foto" alt="Anéis de Stewart de Mapa Regular"></a>
+<a href="../vr/RingRegularMapB.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/25A.png" class="foto" alt="Anéis de Stewart de Mapa Regular"></a>
  <br>Anéis de Stewart de Mapa Regular.
  <br>
 <hr>
 <h4>26. Mapa Regular #3</h4>
-<a href="../vr/RegularMapC.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/26A.png" class="foto" alt="Anéis de Stewart de Mapa Regular"></a>
+<a href="../vr/RingRegularMapC.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/26A.png" class="foto" alt="Anéis de Stewart de Mapa Regular"></a>
  <br>Anéis de Stewart de Mapa Regular.
  <br>
 <hr>
 <h4>27. Mapa Regular #4</h4>
-<a href="../vr/RegularMapD.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/27A.png" class="foto" alt="Anéis de Stewart de Mapa Regular"></a>
+<a href="../vr/RingRegularMapD.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/27A.png" class="foto" alt="Anéis de Stewart de Mapa Regular"></a>
  <br>Anéis de Stewart de Mapa Regular.
  <br>
 <hr>
 <h4>28. Mapa Regular #5</h4>
-<a href="../vr/RegularMapE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto" alt="Anéis de Stewart de Mapa Regular"></a>
+<a href="../vr/RingRegularMapE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto" alt="Anéis de Stewart de Mapa Regular"></a>
  <br>Anéis de Stewart de Mapa Regular.
  <br>
 <hr>
 <h4>29. Mapa Regular #6</h4>
-<a href="../vr/RegularMapF.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/29A.png" class="foto" alt="Anéis de Stewart de Mapa Regular"></a>
+<a href="../vr/RingRegularMapF.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/29A.png" class="foto" alt="Anéis de Stewart de Mapa Regular"></a>
  <br>Anéis de Stewart de Mapa Regular.
  <br>
 <hr>
 <h4>30. Mapa Regular #7</h4>
-<a href="../vr/RegularMapG.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto" alt="Anéis de Stewart de Mapa Regular"></a>
+<a href="../vr/RingRegularMapG.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto" alt="Anéis de Stewart de Mapa Regular"></a>
  <br>Anéis de Stewart de Mapa Regular.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>31. Mapa Regular #8</h4>
-<a href="../vr/RegularMapH.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/31A.png" class="foto" alt="Anéis de Stewart de Mapa Regular"></a>
+<a href="../vr/RingRegularMapH.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/31A.png" class="foto" alt="Anéis de Stewart de Mapa Regular"></a>
  <br>Anéis de Stewart de Mapa Regular.
  <br>
 <hr>

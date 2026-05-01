@@ -127,8 +127,8 @@ Bonnie Stewart's toroids (1964) are solids that possess regular polygonal faces.
  <br>
 <hr>
 <h4>18. Hexagonal Prism</h4>
-<a href="vr/RingHexagonalPrism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/18A.png" class="foto" alt="Stewart rings of Hexagonal Prism"></a>
- <br>Stewart rings of Hexagonal Prism.
+<a href="vr/RingHexagonalPrism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/18A.png" class="foto" alt="Stewart ring of Hexagonal Prism"></a>
+ <br>Stewart ring of Hexagonal Prism.
  <br>
 <hr>
 <h4>19. Icosahedron</h4>
