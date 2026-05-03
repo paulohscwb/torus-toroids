@@ -325,6 +325,47 @@ Bonnie Stewart's toroids (1964) are solids that possess regular polygonal faces.
  <br>Stewart rings of Cubohemioctahedron.
  <br>
 <hr>
+<h4>57. Jessens Orthogonal Icosahedron</h4>
+<a href="vr/RingJessensOrthogonalIcosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/57A.png" class="foto" alt="Stewart rings of Jessens Orthogonal Icosahedron"></a>
+ <br>Stewart rings of Jessens Orthogonal Icosahedron.
+ <br>
+<hr>
+<h4>58. Tetrahemihexacron</h4>
+<a href="vr/RingTetrahemihexacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/58A.png" class="foto" alt="Stewart rings of Tetrahemihexacron"></a>
+ <br>Stewart rings of Tetrahemihexacron.
+ <br>
+<hr>
+<h4>59. Hexahemioctacron</h4>
+<a href="vr/RingHexahemioctacron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/59A.png" class="foto" alt="Stewart rings of Hexahemioctacron"></a>
+ <br>Stewart rings of Hexahemioctacron.
+ <br>
+<hr>
+<h4>60. Great Dodecahemidodecacron</h4>
+<a href="vr/RingGreatDodecahemidodecacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/60A.png" class="foto" alt="Stewart rings of Great Dodecahemidodecacron"></a>
+ <br>Stewart rings of Great Dodecahemidodecacron.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>61. Small Icosihemidodecacron</h4>
+<a href="vr/RingSmallIcosihemidodecacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/61A.png" class="foto" alt="Stewart rings of Small Icosihemidodecacron"></a>
+ <br>Stewart rings of Small Icosihemidodecacron.
+ <br>
+<hr>
+<h4>62. Great Dodecahemicosacron</h4>
+<a href="vr/RingGreatDodecahemicosacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/62A.png" class="foto" alt="Stewart rings of Great Dodecahemicosacron"></a>
+ <br>Stewart rings of Great Dodecahemicosacron.
+ <br>
+<hr>
+<h4>63. Dyakis Dodecahedron</h4>
+<a href="vr/RingDyakisDodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/63A.png" class="foto" alt="Stewart rings of Dyakis Dodecahedron"></a>
+ <br>Stewart rings of Dyakis Dodecahedron.
+ <br>
+<hr>
+<h4>64. Great Triakis Icosahedron</h4>
+<a href="vr/RingGreatTriakisIcosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/64A.png" class="foto" alt="Stewart rings of Great Triakis Icosahedron"></a>
+ <br>Stewart rings of Great Triakis Icosahedron.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Stewart rings: visualization of solids with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/torus-toroids/stewartrings/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.

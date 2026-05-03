@@ -229,8 +229,8 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
  <br>
 <hr>
 <h4>38. Pequeno Dodecahemicosaedro</h4>
-<a href="../vr/RingSmallDodecahemicosahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/38A.png" class="foto" alt="Anéis de Stewart de Rombicosaedro"></a>
- <br>Anéis de Stewart de Rombicosaedro.
+<a href="../vr/RingSmallDodecahemicosahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/38A.png" class="foto" alt="Anéis de Stewart de Pequeno Dodecahemicosaedro"></a>
+ <br>Anéis de Stewart de Pequeno Dodecahemicosaedro.
  <br>
 <hr>
 <h4>39. Pequeno Dodecicosidodecaedro</h4>
@@ -306,13 +306,13 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
  <br>
 <hr>
 <h4>53. Octaedro Truncado</h4>
-<a href="../vr/RingTruncatedOctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/53A.png" class="foto" alt="Anéis de Stewart de Pequeno Dodecaedro Estrelado"></a>
- <br>Anéis de Stewart de Pequeno Dodecaedro Estrelado.
+<a href="../vr/RingTruncatedOctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/53A.png" class="foto" alt="Anéis de Stewart de Octaedro Truncado"></a>
+ <br>Anéis de Stewart de Octaedro Truncado.
  <br>
 <hr>
 <h4>54. Tetraedro Truncado</h4>
-<a href="../vr/RingTruncatedTetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/54A.png" class="foto" alt="Anéis de Stewart de Octaedro Estrelado"></a>
- <br>Anéis de Stewart de Octaedro Estrelado.
+<a href="../vr/RingTruncatedTetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/54A.png" class="foto" alt="Anéis de Stewart de Tetraedro Truncado"></a>
+ <br>Anéis de Stewart de Tetraedro Truncado.
  <br>
 <hr>
 <h4>55. Grande Rombicuboctaedro Uniforme</h4>
@@ -323,6 +323,47 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
 <h4>56. Cubohemioctaedro</h4>
 <a href="../vr/RingCubohemioctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/56A.png" class="foto" alt="Anéis de Stewart de Cubohemioctaedro"></a>
  <br>Anéis de Stewart de Cubohemioctaedro.
+ <br>
+<hr>
+<h4>57. Icosaedro Ortogonal de Jessen</h4>
+<a href="../vr/RingJessensOrthogonalIcosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/57A.png" class="foto" alt="Anéis de Stewart de Icosaedro Ortogonal de Jessen"></a>
+ <br>Anéis de Stewart de Icosaedro Ortogonal de Jessen.
+ <br>
+<hr>
+<h4>58. Tetrahemihexacron</h4>
+<a href="../vr/RingTetrahemihexacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/58A.png" class="foto" alt="Anéis de Stewart de Tetrahemihexacron"></a>
+ <br>Anéis de Stewart de Tetrahemihexacron.
+ <br>
+<hr>
+<h4>59. Hexahemioctacron</h4>
+<a href="../vr/RingHexahemioctacron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/59A.png" class="foto" alt="Anéis de Stewart de Hexahemioctacron"></a>
+ <br>Anéis de Stewart de Hexahemioctacron.
+ <br>
+<hr>
+<h4>60. Grande Dodecahemidodecacron</h4>
+<a href="../vr/RingGreatDodecahemidodecacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/60A.png" class="foto" alt="Anéis de Stewart de Grande Dodecahemidodecacron"></a>
+ <br>Anéis de Stewart de Grande Dodecahemidodecacron.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>61. Pequeno Icosihemidodecacron</h4>
+<a href="../vr/RingSmallIcosihemidodecacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/61A.png" class="foto" alt="Anéis de Stewart de Pequeno Icosihemidodecacron"></a>
+ <br>Anéis de Stewart de Pequeno Icosihemidodecacron.
+ <br>
+<hr>
+<h4>62. Grande Dodecahemicosacron</h4>
+<a href="../vr/RingGreatDodecahemicosacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/62A.png" class="foto" alt="Anéis de Stewart de Grande Dodecahemicosacron"></a>
+ <br>Anéis de Stewart de Grande Dodecahemicosacron.
+ <br>
+<hr>
+<h4>63. Dodecaedro Diakis</h4>
+<a href="../vr/RingDyakisDodecahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/63A.png" class="foto" alt="Anéis de Stewart de Dodecaedro Diakis"></a>
+ <br>Anéis de Stewart de Dodecaedro Diakis.
+ <br>
+<hr>
+<h4>64. Grande Icosaedro Triakis</h4>
+<a href="../vr/RingGreatTriakisIcosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/64A.png" class="foto" alt="Anéis de Stewart de Grande Icosaedro Triakis"></a>
+ <br>Anéis de Stewart de Grande Icosaedro Triakis.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
