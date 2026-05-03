@@ -331,12 +331,12 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
  <br>
 <hr>
 <h4>58. Tetrahemihexacron</h4>
-<a href="../vr/RingTetrahemihexacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/58A.png" class="foto" alt="Anéis de Stewart de Tetrahemihexacron"></a>
+<a href="../vr/RingTetrahemihexacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/59A.png" class="foto" alt="Anéis de Stewart de Tetrahemihexacron"></a>
  <br>Anéis de Stewart de Tetrahemihexacron.
  <br>
 <hr>
 <h4>59. Hexahemioctacron</h4>
-<a href="../vr/RingHexahemioctacron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/59A.png" class="foto" alt="Anéis de Stewart de Hexahemioctacron"></a>
+<a href="../vr/RingHexahemioctacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/58A.png" class="foto" alt="Anéis de Stewart de Hexahemioctacron"></a>
  <br>Anéis de Stewart de Hexahemioctacron.
  <br>
 <hr>
@@ -357,7 +357,7 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
  <br>
 <hr>
 <h4>63. Dodecaedro Diakis</h4>
-<a href="../vr/RingDyakisDodecahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/63A.png" class="foto" alt="Anéis de Stewart de Dodecaedro Diakis"></a>
+<a href="../vr/RingDyakisDodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/63A.png" class="foto" alt="Anéis de Stewart de Dodecaedro Diakis"></a>
  <br>Anéis de Stewart de Dodecaedro Diakis.
  <br>
 <hr>

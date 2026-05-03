@@ -331,12 +331,12 @@ Bonnie Stewart's toroids (1964) are solids that possess regular polygonal faces.
  <br>
 <hr>
 <h4>58. Tetrahemihexacron</h4>
-<a href="vr/RingTetrahemihexacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/58A.png" class="foto" alt="Stewart rings of Tetrahemihexacron"></a>
+<a href="vr/RingTetrahemihexacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/59A.png" class="foto" alt="Stewart rings of Tetrahemihexacron"></a>
  <br>Stewart rings of Tetrahemihexacron.
  <br>
 <hr>
 <h4>59. Hexahemioctacron</h4>
-<a href="vr/RingHexahemioctacron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/59A.png" class="foto" alt="Stewart rings of Hexahemioctacron"></a>
+<a href="vr/RingHexahemioctacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/58A.png" class="foto" alt="Stewart rings of Hexahemioctacron"></a>
  <br>Stewart rings of Hexahemioctacron.
  <br>
 <hr>
@@ -357,7 +357,7 @@ Bonnie Stewart's toroids (1964) are solids that possess regular polygonal faces.
  <br>
 <hr>
 <h4>63. Dyakis Dodecahedron</h4>
-<a href="vr/RingDyakisDodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/63A.png" class="foto" alt="Stewart rings of Dyakis Dodecahedron"></a>
+<a href="vr/RingDyakisDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/63A.png" class="foto" alt="Stewart rings of Dyakis Dodecahedron"></a>
  <br>Stewart rings of Dyakis Dodecahedron.
  <br>
 <hr>
