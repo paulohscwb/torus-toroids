@@ -367,7 +367,7 @@ Bonnie Stewart's toroids (1964) are solids that possess regular or congruent pol
  <br>
 <hr>
 <h4>65. Truncated Cuboctahedron Kites</h4>
-<a href="vr/RingTruncatedCuboctahedronKites.html" target="_blank" title="3D model" class="fotoA"><img src="ar/65A.png" class="foto" alt="Stewart rings of Truncated Cuboctahedron Kites"></a>
+<a href="vr/RingTruncatedCuboctahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/65A.png" class="foto" alt="Stewart rings of Truncated Cuboctahedron Kites"></a>
  <br>Stewart rings of Truncated Cuboctahedron Kites.
  <br>
 <hr>

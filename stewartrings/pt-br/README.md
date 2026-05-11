@@ -367,7 +367,7 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
  <br>
 <hr>
 <h4>65. Cuboctaedro Truncado com pipas</h4>
-<a href="../vr/RingTruncatedCuboctahedronKites.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/65A.png" class="foto" alt="Anéis de Stewart de Cuboctaedro Truncado com pipas"></a>
+<a href="../vr/RingTruncatedCuboctahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/65A.png" class="foto" alt="Anéis de Stewart de Cuboctaedro Truncado com pipas"></a>
  <br>Anéis de Stewart de Cuboctaedro Truncado com pipas.
  <br>
 <hr>
