@@ -17,10 +17,10 @@
 			<a-mixin id="mtl9" material="color: #8ec; side:double;"></a-mixin>
 			<a-mixin id="esfera" mixin="mtl9" geometry="radius: 0.1062; segments-height:20; segments-width:20;" material="metalness:0.4; roughness:0.5;"></a-mixin></a-mixin>
 			<a-asset-item id="material" src="https://paulohscwb.github.io/polyhedra2/fractalnonconvex/vr/outros/c1.mtl"></a-asset-item>
-			<a-asset-item id="poli" src="https://paulohscwb.github.io/polyhedra/archimedes/vr/outros/Cuboctahedron.obj"></a-asset-item>
-			<a-asset-item id="poliw" src="https://paulohscwb.github.io/polyhedra/archimedes/vr/outros/CuboctahedronL.obj"></a-asset-item>
-			<a-mixin id="fc" scale="1.4085 1.4085 1.4085" obj-model="obj: #poli; mtl: #material"></a-mixin>
-			<a-mixin id="ar" scale="1.41 1.41 1.41" obj-model="obj: #poliw; mtl: #material"></a-mixin>
+			<a-asset-item id="poli" src="https://paulohscwb.github.io/polyhedra3/kites/vr/obj/Truncated_Dodecahedron.obj"></a-asset-item>
+			<a-asset-item id="poliw" src="https://paulohscwb.github.io/polyhedra3/kites/vr/obj/Truncated_DodecahedronL.obj"></a-asset-item>
+			<a-mixin id="fc" scale="0.395 0.395 0.395" obj-model="obj: #poli; mtl: #material"></a-mixin>
+			<a-mixin id="ar" scale="0.396 0.396 0.396" obj-model="obj: #poliw; mtl: #material"></a-mixin>
 		</a-assets>
 		
 		<a-entity position="0 0 -2" scale="1.5 1.5 1.5">
@@ -70,8 +70,8 @@
 		<a-sky color="azure"></a-sky>
     </a-scene>
 	<div class="box">
-		<span class="titulo">Stewart's rings of cuboctahedrons</span>
-		<br><span class="titulo">Anéis de cuboctaedros de Stewart</span>
+		<span class="titulo">Stewart's rings of truncated dodecahedrons</span>
+		<br><span class="titulo">Anéis de dodecaedros truncados de Stewart</span>
 		<hr><input type="checkbox" id="faces" checked onclick="mfaces()">faces&nbsp;&nbsp;&nbsp;  
 		<input type="checkbox" id="arestas" checked onclick="marestas()">edges
 	</div>

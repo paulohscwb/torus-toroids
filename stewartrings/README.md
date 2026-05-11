@@ -33,7 +33,7 @@ function urlHandler(value) {
   <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Stewart rings</h2>
 A toroidal solid or toroid, is an orientable polyhedron without self-intersections that has genus greater than zero (meaning that it contains one or more holes). An orientable polyhedron's genus (G) is related to the number of vertices (V), faces (F), and edges (E) as follows:
 <center>V + F − E = 2 − 2 * G</center>
-Bonnie Stewart's toroids (1964) are solids that possess regular polygonal faces. The adjacent faces of these toroids are not coplanar. This work shows Stewart rings modeled in 3D, with views that can be accessed with resources in immersive Virtual Reality rooms.
+Bonnie Stewart's toroids (1964) are solids that possess regular or congruent polygonal faces. The adjacent faces of these toroids are not coplanar. This work shows Stewart rings modeled in 3D, with views that can be accessed with resources in immersive Virtual Reality rooms.
  <p align="center"><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
  <hr>
  <p align="center"><img src="vr/salas/videos/stewart.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="RV de toroides regulares"/></p>
@@ -364,6 +364,47 @@ Bonnie Stewart's toroids (1964) are solids that possess regular polygonal faces.
 <h4>64. Great Triakis Icosahedron</h4>
 <a href="vr/RingGreatTriakisIcosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/64A.png" class="foto" alt="Stewart rings of Great Triakis Icosahedron"></a>
  <br>Stewart rings of Great Triakis Icosahedron.
+ <br>
+<hr>
+<h4>65. Truncated Cuboctahedron Kites</h4>
+<a href="vr/RingTruncatedCuboctahedronKites.html" target="_blank" title="3D model" class="fotoA"><img src="ar/65A.png" class="foto" alt="Stewart rings of Truncated Cuboctahedron Kites"></a>
+ <br>Stewart rings of Truncated Cuboctahedron Kites.
+ <br>
+<hr>
+<h4>66. Truncated Cube Kites</h4>
+<a href="vr/RingTruncatedCubeKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/66A.png" class="foto" alt="Stewart rings of Cuboctahedron Kites"></a>
+ <br>Stewart rings of Cuboctahedron Kites.
+ <br>
+<hr>
+<h4>67. Rhombicuboctahedron Kites</h4>
+<a href="vr/RingRhombicuboctahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/67A.png" class="foto" alt="Stewart rings of Rhombicuboctahedron Kites"></a>
+ <br>Stewart rings of Rhombicuboctahedron Kites.
+ <br>
+<hr>
+<h4>68. Cuboctahedron Kites</h4>
+<a href="vr/RingCuboctahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/68A.png" class="foto" alt="Stewart rings of Cuboctahedron Kites"></a>
+ <br>Stewart rings of Cuboctahedron Kites.
+ <br>
+<hr>
+<h4>69. Truncated Dodecahedron Kites</h4>
+<a href="vr/RingTruncatedDodecahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/69A.png" class="foto" alt="Stewart rings of Truncated Dodecahedron Kites"></a>
+ <br>Stewart rings of Truncated Dodecahedron Kites.
+ <br>
+<hr>
+<h4>70. Truncated Icosahedron Kites</h4>
+<a href="vr/RingTruncatedIcosahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/70A.png" class="foto" alt="Stewart rings of Truncated Icosahedron Kites"></a>
+ <br>Stewart rings of Truncated Icosahedron Kites.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>71. Truncated Octahedron Kites</h4>
+<a href="vr/RingTruncatedOctahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/71A.png" class="foto" alt="Stewart rings of Truncated Octahedron Kites"></a>
+ <br>Stewart rings of Truncated Octahedron Kites.
+ <br>
+<hr>
+<h4>72. Rhombicosidodecahedron Kites</h4>
+<a href="vr/RingRhombicosidodecahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/72A.png" class="foto" alt="Stewart rings of Rhombicosidodecahedron Kites"></a>
+ <br>Stewart rings of Rhombicosidodecahedron Kites.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>

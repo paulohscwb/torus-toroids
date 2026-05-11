@@ -33,7 +33,7 @@ function urlHandler(value) {
   <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Anéis de Stewart</h2>
 Um sólido toroidal ou toroide é um poliedro orientável sem autointerseções que tem gênero maior que zero (o que significa que contém um ou mais buracos). O gênero (G) de um poliedro orientável está relacionado ao número de vértices (V), faces (F) e arestas (E) da seguinte forma:
 <center>V + F − E = 2 − 2 * G</center>
-Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais regulares. As faces adjacentes destes toroides não são coplanares. Este trabalho mostra anéis de Stewart modelados em 3D, com as visualizações que podem ser acessadas com recursos em salas de Realidade Virtual imersivas.
+Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais regulares ou congruentes. As faces adjacentes destes toroides não são coplanares. Este trabalho mostra anéis de Stewart modelados em 3D, com as visualizações que podem ser acessadas com recursos em salas de Realidade Virtual imersivas.
  <p align="center"><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
  <hr>
   <p align="center"><img src="../vr/salas/videos/stewart.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="VR immersive regular toroids"/></p>  
@@ -364,6 +364,47 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
 <h4>64. Grande Icosaedro Triakis</h4>
 <a href="../vr/RingGreatTriakisIcosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/64A.png" class="foto" alt="Anéis de Stewart de Grande Icosaedro Triakis"></a>
  <br>Anéis de Stewart de Grande Icosaedro Triakis.
+ <br>
+<hr>
+<h4>65. Cuboctaedro Truncado com pipas</h4>
+<a href="../vr/RingTruncatedCuboctahedronKites.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/65A.png" class="foto" alt="Anéis de Stewart de Cuboctaedro Truncado com pipas"></a>
+ <br>Anéis de Stewart de Cuboctaedro Truncado com pipas.
+ <br>
+<hr>
+<h4>66. Cubo truncado com pipas</h4>
+<a href="../vr/RingTruncatedCubeKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/66A.png" class="foto" alt="Anéis de Stewart de Cuboctaedro com pipas"></a>
+ <br>Anéis de Stewart de Cuboctaedro com pipas.
+ <br>
+<hr>
+<h4>67. Rombicuboctaedro com pipas</h4>
+<a href="../vr/RingRhombicuboctahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/67A.png" class="foto" alt="Anéis de Stewart de Rombicuboctaedro com pipas"></a>
+ <br>Anéis de Stewart de Rombicuboctaedro com pipas.
+ <br>
+<hr>
+<h4>68. Cuboctaedro com pipas</h4>
+<a href="../vr/RingCuboctahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/68A.png" class="foto" alt="Anéis de Stewart de Cuboctaedro com pipas"></a>
+ <br>Anéis de Stewart de Cuboctaedro com pipas.
+ <br>
+<hr>
+<h4>69. Dodecaedro Truncado com pipas</h4>
+<a href="../vr/RingTruncatedDodecahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/69A.png" class="foto" alt="Anéis de Stewart de Dodecaedro Truncado com pipas"></a>
+ <br>Anéis de Stewart de Dodecaedro Truncado com pipas.
+ <br>
+<hr>
+<h4>70. Icosaedro Truncado com pipas</h4>
+<a href="../vr/RingTruncatedIcosahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/70A.png" class="foto" alt="Anéis de Stewart de Icosaedro Truncado com pipas"></a>
+ <br>Anéis de Stewart de Icosaedro Truncado com pipas.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>71. Octaedro Truncado com pipas</h4>
+<a href="../vr/RingTruncatedOctahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/71A.png" class="foto" alt="Anéis de Stewart de Octaedro Truncado com pipas"></a>
+ <br>Anéis de Stewart de Octaedro Truncado com pipas.
+ <br>
+<hr>
+<h4>72. Rombicosidodecaedro com pipas</h4>
+<a href="../vr/RingRhombicosidodecahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/72A.png" class="foto" alt="Anéis de Stewart de Rombicosidodecaedro com pipas"></a>
+ <br>Anéis de Stewart de Rombicosidodecaedro com pipas.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
