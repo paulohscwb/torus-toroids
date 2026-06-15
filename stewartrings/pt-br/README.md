@@ -18,8 +18,8 @@
 		<option value="../../heptadodekleinbottle/pt-br/">Dodecaedros heptagonais e garrafas de Klein</option>
 		<option value="../../regular2/pt-br/">Toroides poligonais regulares e compostos 2</option>
 		<option disabled value="../../stewartrings/pt-br/">Anéis de Stewart</option>
-		<!--<option value="../../regular3/pt-br/">Toroides poligonais regulares 3</option>
-		<option value="../../regular4/pt-br/">Toroides poligonais regulares 4</option>
+		<option value="../../regular3/pt-br/">Toroides poligonais regulares e compostos 3</option>
+		<!--<option value="../../regular4/pt-br/">Toroides poligonais regulares 4</option>
 		<option value="../../regular5/pt-br/">Toroides poligonais regulares 5</option>-->
 	</select>
 </form>
@@ -39,7 +39,7 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
   <p align="center"><img src="../vr/salas/videos/stewart.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="VR immersive regular toroids"/></p>  
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWrThyG3c9HmtaH_RUtJPEN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUe3QZ5k9QmKWFJl81c5plh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 <h4>1. Cubo</h4>
 <a href="../vr/RingBox.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Anéis de Stewart de Cubo"></a>
  <br>Anéis de Stewart de Cubo.
