@@ -117,7 +117,7 @@ A toroidal solid or toroid, is an orientable polyhedron without self-intersectio
  <br>
 <hr>
 <h4>16. Square gyrobicupola</h4>
-<a href="vr/SquareGyrobicupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/16A.png" class="foto" alt="Rhombicosahedron toroid"></a>
+<a href="vr/SquareGyrobicupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/16A.png" class="foto" alt="Square gyrobicupola toroid"></a>
  <br>A toroid constructed from a square gyrobicupola, with constructions based on the work of Rinus Roelofs.
  <br>
 <hr>
