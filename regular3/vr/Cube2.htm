@@ -37,7 +37,7 @@
 			<a-asset-item id="poli" src="glb/Cube2.glb"></a-asset-item>
 		</a-assets>
 		
-		<a-light type="point" color="white" intensity="0.6" position="0 0 0"></a-light>
+		<a-light type="point" color="white" intensity="0.7" position="0 0 0"></a-light>
 		<a-entity rotation="0 0 0" scale="7.2 7.2 7.2">
 			<a-gltf-model model-opacity="0.825" id="fc" src="#poli"></a-gltf-model>
 		</a-entity>
@@ -48,9 +48,10 @@
 			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
 		</a-entity>
 	  
-		<a-light type="ambient" color="white" intensity="0.6"></a-light>
-		<a-light type="directional" color="white" intensity="0.9" position="-3 2 1"></a-light>
-		<a-light type="directional" color="white" intensity="0.9" position="3 -2 1"></a-light>
+		<a-light type="ambient" color="white" intensity="0.95"></a-light>
+		<a-light type="directional" color="white" intensity="0.5" position="-7 5 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.5" position="7 -5 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.5" position="7 5 -1"></a-light>
 
 		<a-sky color="#f6fff6"></a-sky>
     </a-scene>

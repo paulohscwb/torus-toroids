@@ -39,7 +39,7 @@ Bonnie Stewart's toroids (1964) are solids that possess regular or congruent pol
  <p align="center"><img src="vr/salas/videos/stewart.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="RV de toroides regulares"/></p>
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUe3QZ5k9QmKWFJl81c5plh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUe3QZ5k9QmKWFJl81c5plh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Cube</h4>
 <a href="vr/RingBox.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/1A.png" class="foto" alt="Stewart rings of Cube"></a>
  <br>Stewart rings of Cube.
