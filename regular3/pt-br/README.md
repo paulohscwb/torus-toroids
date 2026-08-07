@@ -19,6 +19,7 @@
 		<option value="../../regular2/pt-br/">Toroides poligonais regulares e compostos 2</option>
 		<option value="../../stewartrings/pt-br/">Anéis de Stewart</option>
 		<option disabled value="../../regular3/pt-br/">Toroides poligonais regulares e compostos 3</option>
+		<option value="../../borromean/">Anéis Borromeanos</option>
 		<!--<option value="../../regular4/pt-br/">Toroides poligonais regulares 4</option>
 		<option value="../../regular5/pt-br/">Toroides poligonais regulares 5</option>-->
 	</select>

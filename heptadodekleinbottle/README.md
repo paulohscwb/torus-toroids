@@ -19,6 +19,7 @@
 		<option value="../regular2/">Regular polygonal and composition toroids 2</option>
 		<option value="../stewartrings/">Stewart Rings</option>
 		<option value="../regular3/">Regular polygonal and composition toroids 3</option>
+		<option value="../borromean/">Borromean rings</option>
 		<!--<option value="../regular4/">Regular polygonal toroids 4</option>
 		<option value="../regular5/">Regular polygonal toroids 5</option>-->
 	</select>

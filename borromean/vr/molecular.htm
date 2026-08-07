@@ -1,0 +1,210 @@
+<html>
+  <head>
+    <title>Torus and toroids</title>
+    <meta charset="utf-8">
+	<link rel="icon" type="image/png" href="salas/imagens/icone.png">
+	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+	<script src="https://unpkg.com/aframe-orbit-controls@1.3.0/dist/aframe-orbit-controls.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+	<script src="nomes.js"></script>
+	<link rel="stylesheet" href="nomes.css">
+ 	<script src="https://unpkg.com/aframe-teleport-controls@0.3.x/dist/aframe-teleport-controls.min.js"></script>
+  </head>
+  <body>
+<div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2026 Paulo Henrique Siqueira</div>
+    <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
+		<a-assets>
+			<a-mixin id="fc" material="side: double; color: #0f6; opacity:0.8; metalness:0.7; roughness:0.3" geometry="radius:3; primitive: torus; radius-tubular:0.185; segments-radial: 50; segments-tubular: 6;"></a-mixin>
+			<a-mixin id="sp" material="color: #0f6; opacity:0.8; metalness:0.7; roughness:0.3" geometry="radius:0.345; primitive: sphere;"></a-mixin>
+			<a-mixin id="fc1" mixin="fc" material="color: #f55"></a-mixin>
+			<a-mixin id="fc2" mixin="fc" material="color: #6af"></a-mixin>
+			<a-mixin id="mtl1" material="color: #5cb404;"></a-mixin>
+			<a-mixin id="a120" mixin="fc" geometry="arc: 120; segments-tubular: 2;"> 
+			<a-mixin id="a60" mixin="fc" geometry="arc: 60; segments-tubular: 1;"> 
+			<a-mixin id="a180" mixin="fc" geometry="arc: 180; segments-tubular: 3;"> 
+			<a-mixin id="sp1" mixin="sp" material="color: #f55;"></a-mixin>
+			<a-mixin id="a1201" mixin="a120" material="color: #f55;"> 
+			<a-mixin id="a601" mixin="a60" material="color: #f55;"> 
+			<a-mixin id="a1801" mixin="a180" material="color: #f55;">
+			<a-mixin id="sp2" mixin="sp" material="color: #6af;"></a-mixin>
+			<a-mixin id="a1202" mixin="a120" material="color: #6af;"> 
+			<a-mixin id="a602" mixin="a60" material="color: #6af;"> 
+			<a-mixin id="a1802" mixin="a180" material="color: #6af;">
+			<a-mixin id="sp3" mixin="sp" geometry="radius:2" material="color: #0fd; opacity:0.93;"></a-mixin>
+		</a-assets>
+		<a-light type="point" color="yellow" intensity="0.5" position="0 0 0"></a-light>
+		<a-entity rotation="0 0 0" scale="0.25 0.25 0.25">
+			<a-entity>
+				<a-entity position="15.59 0 0" rotation="0 0 150" mixin="a60"></a-entity>
+				<a-entity position="12.99 4.5 0" rotation="0 0 30" mixin="fc"></a-entity>
+				<a-entity position="10.392 9 0" rotation="0 0 150" mixin="a120"></a-entity>
+				<a-entity position="7.79 13.5 0" rotation="0 90 30" mixin="fc"></a-entity>
+				<a-entity position="10.392 18 0" rotation="0 0 150" mixin="a60"></a-entity>
+				<a-entity position="7.79 19.44 0" mixin="sp"></a-entity>
+				<a-entity position="0 19.44 0" mixin="sp3"></a-entity>
+				<a-entity line="start: 0 19.44 0; end: 0 21.5 -3.6; color: grey" line__2="start: 0 19.44 0; end: 5 20.1 -1.2; color: grey"
+				line__3="start: 0 19.44 0; end: -5 20.1 -1.2; color: grey" line__4="start: 0 19.44 0; end: 0 15.6 3; color: grey" line__5="start: 0 19.44 0; end: 0 15.6 -3; color: grey"></a-entity>
+				<a-entity position="0 23.2 -6.49" rotation="-60 0 0">
+					<a-entity position="0 0 0" rotation="0 0 -90" mixin="fc"></a-entity>
+					<a-entity position="2.598 -4.5 0" rotation="0 0 -30" mixin="a120"></a-entity>
+					<a-entity position="7.79 -4.5 0" rotation="0 0 150" mixin="a120"></a-entity>
+					<a-entity position="-2.598 -4.5 0" rotation="0 0 90" mixin="a120"></a-entity>
+					<a-entity position="-7.79 -4.5 0" rotation="0 0 -90" mixin="a120"></a-entity>
+				</a-entity>
+				<a-entity position="-15.59 0 0" rotation="0 0 -30" mixin="a60"></a-entity>
+				<a-entity position="-12.99 4.5 0" rotation="0 0 30" mixin="fc"></a-entity>
+				<a-entity position="-10.392 9 0" rotation="0 0 -90" mixin="a120"></a-entity>
+				<a-entity position="-7.79 13.5 0" rotation="0 90 30" mixin="fc"></a-entity>
+				<a-entity position="-10.392 18 0" rotation="0 0 -30" mixin="a60"></a-entity>
+				<a-entity position="-7.79 19.44 0" mixin="sp"></a-entity>
+			</a-entity>
+						
+			<a-entity rotation="0 180 180">
+				<a-entity position="15.59 0 0" rotation="0 0 150" mixin="a60"></a-entity>
+				<a-entity position="12.99 4.5 0" rotation="0 0 30" mixin="fc"></a-entity>
+				<a-entity position="10.392 9 0" rotation="0 0 150" mixin="a120"></a-entity>
+				<a-entity position="7.79 13.5 0" rotation="0 90 30" mixin="fc"></a-entity>
+				<a-entity position="10.392 18 0" rotation="0 0 150" mixin="a60"></a-entity>
+				<a-entity position="7.79 19.44 0" mixin="sp"></a-entity>
+				<a-entity position="0 19.44 0" mixin="sp3"></a-entity>
+				<a-entity line="start: 0 19.44 0; end: 0 21.5 -3.6; color: grey" line__2="start: 0 19.44 0; end: 5 20.1 -1.2; color: grey"
+				line__3="start: 0 19.44 0; end: -5 20.1 -1.2; color: grey" line__4="start: 0 19.44 0; end: 0 15.6 3; color: grey" line__5="start: 0 19.44 0; end: 0 15.6 -3; color: grey"></a-entity>
+				<a-entity position="0 23.2 -6.49" rotation="-60 0 0">
+					<a-entity position="0 0 0" rotation="0 0 -90" mixin="fc"></a-entity>
+					<a-entity position="2.598 -4.5 0" rotation="0 0 -30" mixin="a120"></a-entity>
+					<a-entity position="7.79 -4.5 0" rotation="0 0 150" mixin="a120"></a-entity>
+					<a-entity position="-2.598 -4.5 0" rotation="0 0 90" mixin="a120"></a-entity>
+					<a-entity position="-7.79 -4.5 0" rotation="0 0 -90" mixin="a120"></a-entity>
+				</a-entity>
+				<a-entity position="-15.59 0 0" rotation="0 0 -30" mixin="a60"></a-entity>
+				<a-entity position="-12.99 4.5 0" rotation="0 0 30" mixin="fc"></a-entity>
+				<a-entity position="-10.392 9 0" rotation="0 0 -90" mixin="a120"></a-entity>
+				<a-entity position="-7.79 13.5 0" rotation="0 90 30" mixin="fc"></a-entity>
+				<a-entity position="-10.392 18 0" rotation="0 0 -30" mixin="a60"></a-entity>
+				<a-entity position="-7.79 19.44 0" mixin="sp"></a-entity>
+			</a-entity>
+		</a-entity>
+		
+		<a-entity rotation="0 90 90" scale="0.25 0.25 0.25">
+			<a-entity>
+				<a-entity position="15.59 0 0" rotation="0 0 150" mixin="a601"></a-entity>
+				<a-entity position="12.99 4.5 0" rotation="0 0 30" mixin="fc1"></a-entity>
+				<a-entity position="10.392 9 0" rotation="0 0 150" mixin="a1201"></a-entity>
+				<a-entity position="7.79 13.5 0" rotation="0 90 30" mixin="fc1"></a-entity>
+				<a-entity position="10.392 18 0" rotation="0 0 150" mixin="a601"></a-entity>
+				<a-entity position="7.79 19.44 0" mixin="sp1"></a-entity>
+				<a-entity position="0 19.44 0" mixin="sp3"></a-entity>
+				<a-entity line="start: 0 19.44 0; end: 0 21.5 -3.6; color: grey" line__2="start: 0 19.44 0; end: 5 20.1 -1.2; color: grey"
+				line__3="start: 0 19.44 0; end: -5 20.1 -1.2; color: grey" line__4="start: 0 19.44 0; end: 0 15.6 3; color: grey" line__5="start: 0 19.44 0; end: 0 15.6 -3; color: grey"></a-entity>
+				<a-entity position="0 23.2 -6.49" rotation="-60 0 0">
+					<a-entity position="0 0 0" rotation="0 0 -90" mixin="fc1"></a-entity>
+					<a-entity position="2.598 -4.5 0" rotation="0 0 -30" mixin="a1201"></a-entity>
+					<a-entity position="7.79 -4.5 0" rotation="0 0 150" mixin="a1201"></a-entity>
+					<a-entity position="-2.598 -4.5 0" rotation="0 0 90" mixin="a1201"></a-entity>
+					<a-entity position="-7.79 -4.5 0" rotation="0 0 -90" mixin="a1201"></a-entity>
+				</a-entity>
+				<a-entity position="-15.59 0 0" rotation="0 0 -30" mixin="a601"></a-entity>
+				<a-entity position="-12.99 4.5 0" rotation="0 0 30" mixin="fc1"></a-entity>
+				<a-entity position="-10.392 9 0" rotation="0 0 -90" mixin="a1201"></a-entity>
+				<a-entity position="-7.79 13.5 0" rotation="0 90 30" mixin="fc1"></a-entity>
+				<a-entity position="-10.392 18 0" rotation="0 0 -30" mixin="a601"></a-entity>
+				<a-entity position="-7.79 19.44 0" mixin="sp1"></a-entity>
+			</a-entity>
+						
+			<a-entity rotation="0 180 180">
+				<a-entity position="15.59 0 0" rotation="0 0 150" mixin="a601"></a-entity>
+				<a-entity position="12.99 4.5 0" rotation="0 0 30" mixin="fc1"></a-entity>
+				<a-entity position="10.392 9 0" rotation="0 0 150" mixin="a1201"></a-entity>
+				<a-entity position="7.79 13.5 0" rotation="0 90 30" mixin="fc1"></a-entity>
+				<a-entity position="10.392 18 0" rotation="0 0 150" mixin="a601"></a-entity>
+				<a-entity position="7.79 19.44 0" mixin="sp1"></a-entity>
+				<a-entity position="0 19.44 0" mixin="sp3"></a-entity>
+				<a-entity line="start: 0 19.44 0; end: 0 21.5 -3.6; color: grey" line__2="start: 0 19.44 0; end: 5 20.1 -1.2; color: grey"
+				line__3="start: 0 19.44 0; end: -5 20.1 -1.2; color: grey" line__4="start: 0 19.44 0; end: 0 15.6 3; color: grey" line__5="start: 0 19.44 0; end: 0 15.6 -3; color: grey"></a-entity>
+				<a-entity position="0 23.2 -6.49" rotation="-60 0 0">
+					<a-entity position="0 0 0" rotation="0 0 -90" mixin="fc1"></a-entity>
+					<a-entity position="2.598 -4.5 0" rotation="0 0 -30" mixin="a1201"></a-entity>
+					<a-entity position="7.79 -4.5 0" rotation="0 0 150" mixin="a1201"></a-entity>
+					<a-entity position="-2.598 -4.5 0" rotation="0 0 90" mixin="a1201"></a-entity>
+					<a-entity position="-7.79 -4.5 0" rotation="0 0 -90" mixin="a1201"></a-entity>
+				</a-entity>
+				<a-entity position="-15.59 0 0" rotation="0 0 -30" mixin="a601"></a-entity>
+				<a-entity position="-12.99 4.5 0" rotation="0 0 30" mixin="fc1"></a-entity>
+				<a-entity position="-10.392 9 0" rotation="0 0 -90" mixin="a1201"></a-entity>
+				<a-entity position="-7.79 13.5 0" rotation="0 90 30" mixin="fc1"></a-entity>
+				<a-entity position="-10.392 18 0" rotation="0 0 -30" mixin="a601"></a-entity>
+				<a-entity position="-7.79 19.44 0" mixin="sp1"></a-entity>
+			</a-entity>
+		</a-entity>
+		
+		<a-entity rotation="90 0 90" scale="0.25 0.25 0.25">
+			<a-entity>
+				<a-entity position="15.59 0 0" rotation="0 0 150" mixin="a602"></a-entity>
+				<a-entity position="12.99 4.5 0" rotation="0 0 30" mixin="fc2"></a-entity>
+				<a-entity position="10.392 9 0" rotation="0 0 150" mixin="a1202"></a-entity>
+				<a-entity position="7.79 13.5 0" rotation="0 90 30" mixin="fc2"></a-entity>
+				<a-entity position="10.392 18 0" rotation="0 0 150" mixin="a602"></a-entity>
+				<a-entity position="7.79 19.44 0" mixin="sp2"></a-entity>
+				<a-entity position="0 19.44 0" mixin="sp3"></a-entity>
+				<a-entity line="start: 0 19.44 0; end: 0 21.5 -3.6; color: grey" line__2="start: 0 19.44 0; end: 5 20.1 -1.2; color: grey"
+				line__3="start: 0 19.44 0; end: -5 20.1 -1.2; color: grey" line__4="start: 0 19.44 0; end: 0 15.6 3; color: grey" line__5="start: 0 19.44 0; end: 0 15.6 -3; color: grey"></a-entity>
+				<a-entity position="0 23.2 -6.49" rotation="-60 0 0">
+					<a-entity position="0 0 0" rotation="0 0 -90" mixin="fc2"></a-entity>
+					<a-entity position="2.598 -4.5 0" rotation="0 0 -30" mixin="a1202"></a-entity>
+					<a-entity position="7.79 -4.5 0" rotation="0 0 150" mixin="a1202"></a-entity>
+					<a-entity position="-2.598 -4.5 0" rotation="0 0 90" mixin="a1202"></a-entity>
+					<a-entity position="-7.79 -4.5 0" rotation="0 0 -90" mixin="a1202"></a-entity>
+				</a-entity>
+				<a-entity position="-15.59 0 0" rotation="0 0 -30" mixin="a602"></a-entity>
+				<a-entity position="-12.99 4.5 0" rotation="0 0 30" mixin="fc2"></a-entity>
+				<a-entity position="-10.392 9 0" rotation="0 0 -90" mixin="a1202"></a-entity>
+				<a-entity position="-7.79 13.5 0" rotation="0 90 30" mixin="fc2"></a-entity>
+				<a-entity position="-10.392 18 0" rotation="0 0 -30" mixin="a602"></a-entity>
+				<a-entity position="-7.79 19.44 0" mixin="sp2"></a-entity>
+			</a-entity>
+						
+			<a-entity rotation="0 180 180">
+				<a-entity position="15.59 0 0" rotation="0 0 150" mixin="a602"></a-entity>
+				<a-entity position="12.99 4.5 0" rotation="0 0 30" mixin="fc2"></a-entity>
+				<a-entity position="10.392 9 0" rotation="0 0 150" mixin="a1202"></a-entity>
+				<a-entity position="7.79 13.5 0" rotation="0 90 30" mixin="fc2"></a-entity>
+				<a-entity position="10.392 18 0" rotation="0 0 150" mixin="a602"></a-entity>
+				<a-entity position="7.79 19.44 0" mixin="sp2"></a-entity>
+				<a-entity position="0 19.44 0" mixin="sp3"></a-entity>
+				<a-entity line="start: 0 19.44 0; end: 0 21.5 -3.6; color: grey" line__2="start: 0 19.44 0; end: 5 20.1 -1.2; color: grey"
+				line__3="start: 0 19.44 0; end: -5 20.1 -1.2; color: grey" line__4="start: 0 19.44 0; end: 0 15.6 3; color: grey" line__5="start: 0 19.44 0; end: 0 15.6 -3; color: grey"></a-entity>
+				<a-entity position="0 23.2 -6.49" rotation="-60 0 0">
+					<a-entity position="0 0 0" rotation="0 0 -90" mixin="fc2"></a-entity>
+					<a-entity position="2.598 -4.5 0" rotation="0 0 -30" mixin="a1202"></a-entity>
+					<a-entity position="7.79 -4.5 0" rotation="0 0 150" mixin="a1202"></a-entity>
+					<a-entity position="-2.598 -4.5 0" rotation="0 0 90" mixin="a1202"></a-entity>
+					<a-entity position="-7.79 -4.5 0" rotation="0 0 -90" mixin="a1202"></a-entity>
+				</a-entity>
+				<a-entity position="-15.59 0 0" rotation="0 0 -30" mixin="a602"></a-entity>
+				<a-entity position="-12.99 4.5 0" rotation="0 0 30" mixin="fc2"></a-entity>
+				<a-entity position="-10.392 9 0" rotation="0 0 -90" mixin="a1202"></a-entity>
+				<a-entity position="-7.79 13.5 0" rotation="0 90 30" mixin="fc2"></a-entity>
+				<a-entity position="-10.392 18 0" rotation="0 0 -30" mixin="a602"></a-entity>
+				<a-entity position="-7.79 19.44 0" mixin="sp2"></a-entity>
+			</a-entity>
+		</a-entity>
+		
+		<a-box mixin="piso" class="piso" visible="false" position="0 -1.5 0"></a-box>
+		<a-entity id="cameraRig" position="0 0 11">
+			<a-entity camera="fov:1; near:0.001;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 165 440 600; maxDistance: 1500;"></a-entity>
+			<a-entity teleport-controls="cameraRig: #cameraRig; collisionEntities: [mixin='piso']; teleportOrigin: #head; button: grip;" hand-controls="hand: right"></a-entity>
+		</a-entity>
+	  
+		<a-light type="ambient" color="white" intensity="0.6"></a-light>
+		<a-light type="directional" color="white" intensity="0.65" position="-7 5 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.65" position="7 -5 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.65" position="7 5 -1"></a-light>
+
+		<a-sky color="#f6fff6"></a-sky>
+    </a-scene>
+	<div class="box">
+		<span class="titulo">Borromean rings</span>
+		<br><span class="titulo">Anéis Borromeanos</span>
+	</div>
+  </body>
+</html>

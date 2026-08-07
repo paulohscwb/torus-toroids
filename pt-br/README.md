@@ -22,6 +22,7 @@
 <h3 style="margin-top:3px"><a target="_blank" href="../regular2/pt-br/"><img src="../regular2/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides poligonais regulares e compostos 2</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../stewartrings/pt-br/"><img src="../stewartrings/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Anéis de Stewart</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../regular3/pt-br/"><img src="../regular3/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides poligonais regulares e compostos 3</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../borromean/pt-br/"><img src="../borromean/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Anéis Borromeanos</a></h3>
 <!--<h3 style="margin-top:3px"><a target="_blank" href="../regular4/pt-br/"><img src="../regular4/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides poligonais regulares 4</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../regular5/pt-br/"><img src="../regular5/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Toroides poligonais regulares 5</a></h3>-->
 <hr>
