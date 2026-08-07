@@ -34,7 +34,7 @@ function urlHandler(value) {
   <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Borromean rings</h2>
 A toroidal solid or toroid, is an orientable polyhedron without self-intersections that has genus greater than zero (meaning that it contains one or more holes). An orientable polyhedron's genus (G) is related to the number of vertices (V), faces (F), and edges (E) as follows:
 <center>V + F − E = 2 − 2 * G</center>
-Bonnie Stewart's toroids (1964) are solids that possess regular or congruent polygonal faces. The adjacent faces of these toroids are not coplanar. This work shows Stewart rings modeled in 3D, with views that can be accessed with resources in immersive Virtual Reality rooms.
+Borromean rings, also known as Borromean toroids, form a system of three interlinked rings in which no single pair is directly connected, yet the entire assembly is inseparable. If any one of the rings is removed or cut, the other two come apart. The name of this ring system honors the noble Italian Renaissance family Borromeo, who used a similar arrangement in their coat of arms. This symbol also appears in ancient Norse cultures and in sacred art.
  <p align="center"><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
  <hr>
  <p align="center"><img src="vr/salas/videos/borromean.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="RV de toroides regulares"/></p>
@@ -297,7 +297,7 @@ Bonnie Stewart's toroids (1964) are solids that possess regular or congruent pol
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>51. Tetrahemihexacron</h4>
-<a href="vr/TriakisTetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/51A.png" class="foto" alt="Borromean ring of Tetrahemihexacron"></a>
+<a href="vr/Tetrahemihexacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/51A.png" class="foto" alt="Borromean ring of Tetrahemihexacron"></a>
  <br>Borromean ring of Tetrahemihexacron.
  <br>
 <hr>

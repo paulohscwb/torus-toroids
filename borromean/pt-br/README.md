@@ -34,7 +34,7 @@ function urlHandler(value) {
   <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Anéis Borromeanos</h2>
 Um sólido toroidal ou toroide é um poliedro orientável sem autointerseções que tem gênero maior que zero (o que significa que contém um ou mais buracos). O gênero (G) de um poliedro orientável está relacionado ao número de vértices (V), faces (F) e arestas (E) da seguinte forma:
 <center>V + F − E = 2 − 2 * G</center>
-Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais regulares ou congruentes. As faces adjacentes destes toroides não são coplanares. Este trabalho mostra anéis de Stewart modelados em 3D, com as visualizações que podem ser acessadas com recursos em salas de Realidade Virtual imersivas.
+Os anéis Borromeanos, também chamados de toroides Borromeanos, formam um sistema de três anéis que são interligados, porém, nenhum par fica diretamente conectado e o conjunto inteiro é inseparável. Se qualquer um dos anéis for removido ou cortado, os outros dois ficam soltos. O nome deste sistema de anéis é uma homenagem à nobre família renascentista italiana Borromeo, que usava o arranjo similar em seu brasão. Este símbolo aparece também em culturas nórdicas antigas e na arte sagrada.
  <p align="center"><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
  <hr>
   <p align="center"><img src="../vr/salas/videos/borromean.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="VR immersive regular toroids"/></p>  
