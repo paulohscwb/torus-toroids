@@ -392,6 +392,76 @@ Borromean rings, also known as Borromean toroids, form a system of three interli
 <a href="vr/Toroid8.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/69A.png" class="foto" alt="Borromean ring of Octagonal Iris Toroid"></a>
  <br>Borromean ring of Octagonal Iris Toroid.
  <br>
+ <hr>
+<h4>70. Cuboctahedron Kites</h4>
+<a href="vr/CuboctahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/70A.png" class="foto" alt="Borromean ring of Cuboctahedron Kites"></a>
+ <br>Borromean ring of Cuboctahedron Kites.
+ <br>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>71. Rhombicosidodecahedron Kites</h4>
+<a href="vr/RhombicosidodecahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/71A.png" class="foto" alt="Borromean ring of Rhombicosidodecahedron Kites"></a>
+ <br>Borromean ring of Rhombicosidodecahedron Kites.
+ <br>
+<hr>
+<h4>72. Rhombicuboctahedron Kites</h4>
+<a href="vr/RhombicuboctahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/72A.png" class="foto" alt="Borromean ring of Rhombicuboctahedron Kites"></a>
+ <br>Borromean ring of Hexagonal Trapezohedron Toroid.
+ <br>
+<hr>
+<h4>73. Truncated Tetrahedron Kites</h4>
+<a href="vr/TruncatedTetrahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/73A.png" class="foto" alt="Borromean ring of Truncated Tetrahedron Kites"></a>
+ <br>Borromean ring of Truncated Tetrahedron Kites.
+ <br>
+<hr>
+<h4>74. Truncated Cube Kites</h4>
+<a href="vr/TruncatedCubeKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/74A.png" class="foto" alt="Borromean ring of Truncated Cube Kites"></a>
+ <br>Borromean ring of Truncated Cube Kites.
+ <br>
+<hr>
+<h4>75. Truncated Cuboctahedron Kites</h4>
+<a href="vr/TruncatedCuboctahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/75A.png" class="foto" alt="Borromean ring of Truncated Cuboctahedron Kites"></a>
+ <br>Borromean ring of Truncated Cuboctahedron Kites.
+ <br>
+<hr>
+<h4>76. Truncated Dodecahedron Kites</h4>
+<a href="vr/TruncatedDodecahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/76A.png" class="foto" alt="Borromean ring of Truncated Dodecahedron Kites"></a>
+ <br>Borromean ring of Truncated Dodecahedron Kites.
+ <br>
+<hr>
+<h4>77. Truncated Icosahedron Kites</h4>
+<a href="vr/TruncatedIcosahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/77A.png" class="foto" alt="Borromean ring of Truncated Icosahedron Kites"></a>
+ <br>Borromean ring of Truncated Icosahedron Kites.
+ <br>
+<hr>
+<h4>78. Truncated Octahedron Kites</h4>
+<a href="vr/TruncatedOctahedronKites.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/78A.png" class="foto" alt="Borromean ring of Truncated Octahedron Kites"></a>
+ <br>Borromean ring of Truncated Octahedron Kites.
+ <br>
+<hr>
+<h4>79. Great Triakis Icosahedron</h4>
+<a href="vr/GreatTriakisIcosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/79A.png" class="foto" alt="Borromean ring of Great Triakis Icosahedron"></a>
+ <br>Borromean ring of Great Triakis Icosahedron.
+ <br>
+ <hr>
+<h4>80. Dyakis Dodecahedron</h4>
+<a href="vr/DyakisDodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/80A.png" class="foto" alt="Borromean ring of Dyakis Dodecahedron"></a>
+ <br>Borromean ring of Dyakis Dodecahedron.
+ <br>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>81. Great Dodecahemicosacron</h4>
+<a href="vr/GreatDodecahemicosacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/81A.png" class="foto" alt="Borromean ring of Great Dodecahemicosacron"></a>
+ <br>Borromean ring of Great Dodecahemicosacron.
+ <br>
+<hr>
+<h4>82. Hexahemioctacron</h4>
+<a href="vr/Hexahemioctacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/82A.png" class="foto" alt="Borromean ring of Hexahemioctacron"></a>
+ <br>Borromean ring of Hexahemioctacron.
+ <br>
+ <hr>
+<h4>83. Jessens Orthogonal Icosahedron</h4>
+<a href="vr/JessensOrthogonalIcosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/83A.png" class="foto" alt="Borromean ring of Jessens Orthogonal Icosahedron"></a>
+ <br>Borromean ring of Jessens Orthogonal Icosahedron.
+ <br>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Borromean rings: visualization of solids with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/torus-toroids/borromean/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.

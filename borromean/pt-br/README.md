@@ -393,6 +393,78 @@ Os anéis Borromeanos, também chamados de toroides Borromeanos, formam um siste
  <br>Anel Borromeano de Toroide de Íris Octogonal.
  <br>
 <hr>
+<h4>70. Cuboctaedro de pipas</h4>
+<a href="../vr/CuboctahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/70A.png" class="foto" alt="Anel Borromeano de Cuboctaedro de pipas"></a>
+ <br>Anel Borromeano de Cuboctaedro de pipas.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>71. Rombicosidodecaedro de pipas</h4>
+<a href="../vr/RhombicosidodecahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/71A.png" class="foto" alt="Anel Borromeano de Rombicosidodecaedro de pipas"></a>
+ <br>Anel Borromeano de Rombicosidodecaedro de pipas.
+ <br>
+<hr>
+<h4>72. Rombicuboctaedro de pipas</h4>
+<a href="../vr/RhombicuboctahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/72A.png" class="foto" alt="Anel Borromeano de Rombicuboctaedro de pipas"></a>
+ <br>Anel Borromeano de Rombicuboctaedro de pipas.
+ <br>
+<hr>
+<h4>73. Tetraedro Truncado de pipas</h4>
+<a href="../vr/TruncatedTetrahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/73A.png" class="foto" alt="Anel Borromeano de Tetraedro Truncado de pipas"></a>
+ <br>Anel Borromeano de Toroide de Tetraedro Truncado de pipas.
+ <br>
+<hr>
+<h4>74. Cubo Truncado de pipas</h4>
+<a href="../vr/TruncatedCubeKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/74A.png" class="foto" alt="Anel Borromeano de Cubo Truncado de pipas"></a>
+ <br>Anel Borromeano de Toroide de Cubo Truncado de pipas
+ <br>
+<hr>
+<h4>75. Cuboctaedro Truncado de pipas</h4>
+<a href="../vr/TruncatedCuboctahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/75A.png" class="foto" alt="Anel Borromeano de Cuboctaedro Truncado de pipas"></a>
+ <br>Anel Borromeano de Toroide de Cuboctaedro Truncado de pipas.
+ <br>
+<hr>
+<h4>76. Dodecaedro Truncado de pipas</h4>
+<a href="../vr/TruncatedDodecahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/76A.png" class="foto" alt="Anel Borromeano de Dodecaedro Truncado de pipas"></a>
+ <br>Anel Borromeano de Toroide de Dodecaedro Truncado de pipas.
+ <br>
+<hr>
+<h4>77. Icosaedro Truncado de pipas</h4>
+<a href="../vr/TruncatedIcosahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/77A.png" class="foto" alt="Anel Borromeano de Icosaedro Truncado de pipas"></a>
+ <br>Anel Borromeano de Icosaedro Truncado de pipas.
+ <br>
+<hr>
+<h4>78. Octaedro Truncado de pipas</h4>
+<a href="../vr/TruncatedOctahedronKites.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/78A.png" class="foto" alt="Anel Borromeano de Octaedro Truncado de pipas"></a>
+ <br>Anel Borromeano de Octaedro Truncado de pipas.
+ <br>
+<hr>
+<h4>79. Grande Icosaedro Triakis</h4>
+<a href="../vr/GreatTriakisIcosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/79A.png" class="foto" alt="Anel Borromeano de Grande Icosaedro Triakis"></a>
+ <br>Anel Borromeano de Grande Icosaedro Triakis.
+ <br>
+<hr>
+<h4>80. Dodecaedro Diakis</h4>
+<a href="../vr/DyakisDodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/80A.png" class="foto" alt="Anel Borromeano de Dodecaedro Diakis"></a>
+ <br>Anel Borromeano de Dodecaedro Diakis.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>81. Hexahemioctacron</h4>
+<a href="../vr/Hexahemioctacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/81A.png" class="foto" alt="Anel Borromeano de Hexahemioctacron"></a>
+ <br>Anel Borromeano de Hexahemioctacron.
+ <br>
+<hr>
+<h4>82. Toroide de Íris Octogonal</h4>
+<a href="../vr/Toroid8.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/82A.png" class="foto" alt="Anel Borromeano de Toroide de Íris Octogonal"></a>
+ <br>Anel Borromeano de Toroide de Íris Octogonal.
+ <br>
+<hr>
+<h4>83. Icosaedro Ortogonal de Jessen</h4>
+<a href="../vr/JessensOrthogonalIcosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/83A.png" class="foto" alt="Anel Borromeano de Icosaedro Ortogonal de Jessen"></a>
+ <br>Anel Borromeano de Icosaedro Ortogonal de Jessen.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Borromean rings: visualization of solids with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/torus-toroids/borromean/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
