@@ -450,14 +450,14 @@ Os anéis Borromeanos, também chamados de toroides Borromeanos, formam um siste
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
-<h4>81. Hexahemioctacron</h4>
-<a href="../vr/Hexahemioctacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/81A.png" class="foto" alt="Anel Borromeano de Hexahemioctacron"></a>
- <br>Anel Borromeano de Hexahemioctacron.
+<h4>81. Grande Dodecahemicosacron</h4>
+<a href="../vr/GreatDodecahemicosacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/81A.png" class="foto" alt="Anel Borromeano de Grande Dodecahemicosacron"></a>
+ <br>Anel Borromeano de Grande Dodecahemicosacron.
  <br>
 <hr>
-<h4>82. Toroide de Íris Octogonal</h4>
-<a href="../vr/Toroid8.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/82A.png" class="foto" alt="Anel Borromeano de Toroide de Íris Octogonal"></a>
- <br>Anel Borromeano de Toroide de Íris Octogonal.
+<h4>82. Hexahemioctacron</h4>
+<a href="../vr/Hexahemioctacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/82A.png" class="foto" alt="Anel Borromeano de Hexahemioctacron"></a>
+ <br>Anel Borromeano de Hexahemioctacron.
  <br>
 <hr>
 <h4>83. Icosaedro Ortogonal de Jessen</h4>
