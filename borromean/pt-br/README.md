@@ -41,7 +41,7 @@ Os anéis Borromeanos, também chamados de toroides Borromeanos, formam um siste
   <p align="center"><img src="../vr/salas/videos/borromean.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="VR immersive regular toroids"/></p>  
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUe3QZ5k9QmKWFJl81c5plh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?si=iNQ20wURQZPkNb0g&amp;list=PLCv8BZlshwGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Cubo</h4>
 <a href="../vr/Box.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Anel Borromeano de Cubo"></a>
  <br>Anel Borromeano de Cubo.
