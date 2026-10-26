@@ -408,6 +408,52 @@ Os toroides de Bonnie Stewart (1964) são sólidos que possuem faces poligonais 
  <br>Anéis de Stewart de Rombicosidodecaedro com pipas.
  <br>
 <hr>
+<h4>73. Dodecaedro Côncavo</h4>
+<a href="../vr/ConcaveDodecahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/73A.png" class="foto" alt="Anéis de Stewart de Dodecaedro Côncavo"></a>
+ <br>Anéis de Stewart de Dodecaedro Côncavo.
+ <br>
+<hr>
+<h4>74. Sólido de Escher</h4>
+<a href="../vr/EscherE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/74A.png" class="foto" alt="Anéis de Stewart de Sólido de Escher"></a>
+ <br>Anéis de Stewart do Sólido de Escher.
+ <br>
+<hr>
+<h4>75. Grande Dodecaedro</h4>
+<a href="../vr/GreatDodecahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/75A.png" class="foto" alt="Anéis de Stewart de Grande Dodecaedro"></a>
+ <br>Anéis de Stewart de Grande Dodecaedro.
+ <br>
+<hr>
+<h4>76. Grande Icosaedro</h4>
+<a href="../vr/GreatIcosahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/76A.png" class="foto" alt="Anéis de Stewart de Grande Icosaedro"></a>
+ <br>Anéis de Stewart de Grande Icosaedro.
+ <br>
+<hr>
+<h4>77. Grande Dodecaedro Estrelado</h4>
+<a href="../vr/GreatStellatedDodecahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/77A.png" class="foto" alt="Anéis de Stewart de Grande Dodecaedro Estrelado"></a>
+ <br>Anéis de Stewart de Grande Dodecaedro Estrelado.
+ <br>
+<hr>
+<h4>78. Hexecontaedro deltoidal medial</h4>
+<a href="../vr/MedialDeltoidalHexecontahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/78A.png" class="foto" alt="Anéis de Stewart de Hexecontaedro deltoidal medial"></a>
+ <br>Anéis de Stewart de Hexecontaedro deltoidal medial.
+ <br>
+<hr>
+<h4>79. Triacontaedro rômbico medial</h4>
+<a href="../vr/MedialRhombicTriacontahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/79A.png" class="foto" alt="Anéis de Stewart de Triacontaedro rômbico medial"></a>
+ <br>Anéis de Stewart de Triacontaedro rômbico medial.
+ <br>
+<hr>
+<h4>80. Octaedro hexakis de Möbius</h4>
+<a href="../vr/Mobius48bE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/80A.png" class="foto" alt="Anéis de Stewart de Octaedro hexakis de Möbius"></a>
+ <br>Anéis de Stewart de Octaedro hexakis de Möbius.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>81. Hexaedro octakis de Möbius</h4>
+<a href="../vr/Mobius48aE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/81A.png" class="foto" alt="Anéis de Stewart de Hexaedro octakis de Möbius"></a>
+ <br>Anéis de Stewart de Hexaedro octakis de Möbius.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Stewart rings: visualization of solids with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/torus-toroids/stewartrings/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.

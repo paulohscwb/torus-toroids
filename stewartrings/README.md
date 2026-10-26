@@ -408,6 +408,52 @@ Bonnie Stewart's toroids (1964) are solids that possess regular or congruent pol
  <br>Stewart rings of Rhombicosidodecahedron Kites.
  <br>
 <hr>
+<h4>73. Concave Dodecahedron</h4>
+<a href="vr/ConcaveDodecahedronE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/73A.png" class="foto" alt="Stewart rings of Concave Dodecahedron"></a>
+ <br>Stewart rings of Concave Dodecahedron.
+ <br>
+<hr>
+<h4>74. Escher Solid</h4>
+<a href="vr/EscherE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/74A.png" class="foto" alt="Stewart rings of Escher Solid"></a>
+ <br>Stewart rings of Escher Solid.
+ <br>
+<hr>
+<h4>75. Great Dodecahedron</h4>
+<a href="vr/GreatDodecahedronE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/75A.png" class="foto" alt="Stewart rings of Great Dodecahedron"></a>
+ <br>Stewart rings of Great Dodecahedron.
+ <br>
+<hr>
+<h4>76. Great Icosahedron</h4>
+<a href="vr/GreatIcosahedronE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/76A.png" class="foto" alt="Stewart rings of Great Icosahedron"></a>
+ <br>Stewart rings of Great Icosahedron.
+ <br>
+<hr>
+<h4>77. Great Stellated Dodecahedron</h4>
+<a href="vr/GreatStellatedDodecahedronE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/77A.png" class="foto" alt="Stewart rings of Great Stellated Dodecahedron"></a>
+ <br>Stewart rings of Great Stellated Dodecahedron.
+ <br>
+<hr>
+<h4>78. Medial deltoidal hexecontahedron</h4>
+<a href="vr/MedialDeltoidalHexecontahedronE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/78A.png" class="foto" alt="Stewart rings of Medial deltoidal hexecontahedron"></a>
+ <br>Stewart rings of Medial deltoidal hexecontahedron.
+ <br>
+<hr>
+<h4>79. Medial rhombic triacontahedron</h4>
+<a href="vr/MedialRhombicTriacontahedronE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/79A.png" class="foto" alt="Stewart rings of Medial rhombic triacontahedron"></a>
+ <br>Stewart rings of Medial rhombic triacontahedron.
+ <br>
+<hr>
+<h4>80. Möbius hexakis octahedron</h4>
+<a href="vr/Mobius48bE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/80A.png" class="foto" alt="Stewart rings of Möbius hexakis octahedron"></a>
+ <br>Stewart rings of Möbius hexakis octahedron.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>81. Möbius octakis hexahedron</h4>
+<a href="vr/Mobius48aE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/81A.png" class="foto" alt="Stewart rings of Möbius octakis hexahedron"></a>
+ <br>Stewart rings of Möbius octakis hexahedron.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Stewart rings: visualization of solids with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/torus-toroids/stewartrings/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.

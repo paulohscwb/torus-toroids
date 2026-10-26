@@ -219,7 +219,7 @@ Cairo tiles are named after the plaster pattern on some streets in Cairo.
  <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Dodecacronic Hexecontahedrons
  <br>
 <hr>
-<h4>36. Great Godecahedron</h4>
+<h4>36. Great Dodecahedron</h4>
 <a href="vr/GreatDodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of great dodecahedron"></a>
  <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Dodecahedrons
  <br>
@@ -467,6 +467,52 @@ Cairo tiles are named after the plaster pattern on some streets in Cairo.
 <h4>84. Regular map #8</h4>
 <a href="vr/RegularMapH.html" target="_blank" title="3D model" class="fotoA"><img src="ar/84A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Regular map"></a>
  <br>Möbius and Vélez-Jahn toroid modeled with 10 Regular maps
+ <br>
+<hr>
+<h4>85. Escher solid</h4>
+<a href="vr/EscherE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/85A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Escher solid"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Escher solids
+ <br>
+<hr>
+<h4>86. Concave Dodecahedron</h4>
+<a href="vr/ConcaveDodecahedronE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/86A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of concave dodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Concave Dodecahedrons
+ <br>
+<hr>
+<h4>87. Great Dodecahedron</h4>
+<a href="vr/GreatDodecahedronE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/87A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of great dodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Dodecahedrons
+ <br>
+<hr>
+<h4>88. Great Icosahedron</h4>
+<a href="vr/GreatIcosahedronE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/88A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of great icosahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Great Icosahedrons
+ <br>
+<hr>
+<h4>89. Möbius octakis hexahedron</h4>
+<a href="vr/Mobius48aE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/89A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Möbius octakis hexahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Möbius octakis hexahedrons
+ <br>
+<hr>
+<h4>90. Möbius hexakis octahedron</h4>
+<a href="vr/Mobius48bE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/90A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Möbius hexakis octahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Möbius hexakis octahedrons
+ <br>
+<hr>
+<h4>91. Medial rhombic triacontahedron</h4>
+<a href="vr/MedialRhombicTriacontahedronE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/91A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Medial rhombic triacontahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 Medial rhombic triacontahedrons
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>92. Medial deltoidal hexecontahedron</h4>
+<a href="vr/MedialDeltoidalHexecontahedronE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/92A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Medial deltoidal hexecontahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 medial deltoidal hexecontahedrons
+ <br>
+<hr>
+<h4>93. Great stellated dodecahedron</h4>
+<a href="vr/GreatStellatedDodecahedronE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/93A.png" class="foto" alt="Möbius and Vélez-Jahn Toroid of Great stellated dodecahedron"></a>
+ <br>Möbius and Vélez-Jahn toroid modeled with 10 great stellated dodecahedrons
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>

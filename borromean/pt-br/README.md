@@ -465,6 +465,52 @@ Os anéis Borromeanos, também chamados de toroides Borromeanos, formam um siste
  <br>Anel Borromeano de Icosaedro Ortogonal de Jessen.
  <br>
 <hr>
+<h4>84. Dodecaedro Côncavo</h4>
+<a href="../vr/ConcaveDodecahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/84A.png" class="foto" alt="Anel Borromeano de Dodecaedro Côncavo"></a>
+ <br>Anel Borromeano de Dodecaedro Côncavo.
+ <br>
+<hr>
+<h4>85. Sólido de Escher</h4>
+<a href="../vr/EscherE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/85A.png" class="foto" alt="Anel Borromeano de Sólido de Escher"></a>
+ <br>Anel Borromeano do Sólido de Escher.
+ <br>
+<hr>
+<h4>86. Grande Dodecaedro</h4>
+<a href="../vr/GreatDodecahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/86A.png" class="foto" alt="Anel Borromeano de Grande Dodecaedro"></a>
+ <br>Anel Borromeano de Grande Dodecaedro.
+ <br>
+<hr>
+<h4>87. Grande Icosaedro</h4>
+<a href="../vr/GreatIcosahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/87A.png" class="foto" alt="Anel Borromeano de Grande Icosaedro"></a>
+ <br>Anel Borromeano de Grande Icosaedro.
+ <br>
+<hr>
+<h4>88. Grande Dodecaedro Estrelado</h4>
+<a href="../vr/GreatStellatedDodecahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/88A.png" class="foto" alt="Anel Borromeano de Grande Dodecaedro Estrelado"></a>
+ <br>Anel Borromeano de Grande Dodecaedro Estrelado.
+ <br>
+<hr>
+<h4>89. Hexecontaedro deltoidal medial</h4>
+<a href="../vr/MedialDeltoidalHexecontahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/89A.png" class="foto" alt="Anel Borromeano de Hexecontaedro deltoidal medial"></a>
+ <br>Anel Borromeano de Hexecontaedro deltoidal medial.
+ <br>
+<hr>
+<h4>90. Triacontaedro rômbico medial</h4>
+<a href="../vr/MedialRhombicTriacontahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/90A.png" class="foto" alt="Anel Borromeano de Triacontaedro rômbico medial"></a>
+ <br>Anel Borromeano de Triacontaedro rômbico medial.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>91. Octaedro hexakis de Möbius</h4>
+<a href="../vr/Mobius48bE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/91A.png" class="foto" alt="Anel Borromeano de Octaedro hexakis de Möbius"></a>
+ <br>Anel Borromeano de Octaedro hexakis de Möbius.
+ <br>
+<hr>
+<h4>92. Hexaedro octakis de Möbius</h4>
+<a href="../vr/Mobius48aE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/92A.png" class="foto" alt="Anel Borromeano de Hexaedro octakis de Möbius"></a>
+ <br>Anel Borromeano de Hexaedro octakis de Möbius.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Borromean rings: visualization of solids with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/torus-toroids/borromean/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.

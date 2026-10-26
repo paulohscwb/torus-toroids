@@ -462,6 +462,52 @@ Borromean rings, also known as Borromean toroids, form a system of three interli
 <a href="vr/JessensOrthogonalIcosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/83A.png" class="foto" alt="Borromean ring of Jessens Orthogonal Icosahedron"></a>
  <br>Borromean ring of Jessens Orthogonal Icosahedron.
  <br>
+ <h4>84. Concave Dodecahedron</h4>
+<a href="vr/ConcaveDodecahedronE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/84A.png" class="foto" alt="Borromean ring of Concave Dodecahedron"></a>
+ <br>Borromean ring of Concave Dodecahedron.
+ <br>
+<hr>
+<h4>85. Escher Solid</h4>
+<a href="vr/EscherE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/85A.png" class="foto" alt="Borromean ring of Escher Solid"></a>
+ <br>Borromean ring of Escher Solid.
+ <br>
+<hr>
+<h4>86. Great Dodecahedron</h4>
+<a href="vr/GreatDodecahedronE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/86A.png" class="foto" alt="Borromean ring of Great Dodecahedron"></a>
+ <br>Borromean ring of Great Dodecahedron.
+ <br>
+<hr>
+<h4>87. Great Icosahedron</h4>
+<a href="vr/GreatIcosahedronE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/87A.png" class="foto" alt="Borromean ring of Great Icosahedron"></a>
+ <br>Borromean ring of Great Icosahedron.
+ <br>
+<hr>
+<h4>88. Great Stellated Dodecahedron</h4>
+<a href="vr/GreatStellatedDodecahedronE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/88A.png" class="foto" alt="Borromean ring of Great Stellated Dodecahedron"></a>
+ <br>Borromean ring of Great Stellated Dodecahedron.
+ <br>
+<hr>
+<h4>89. Medial deltoidal hexecontahedron</h4>
+<a href="vr/MedialDeltoidalHexecontahedronE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/89A.png" class="foto" alt="Borromean ring of Medial deltoidal hexecontahedron"></a>
+ <br>Borromean ring of Medial deltoidal hexecontahedron.
+ <br>
+<hr>
+<h4>90. Medial rhombic triacontahedron</h4>
+<a href="vr/MedialRhombicTriacontahedronE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/90A.png" class="foto" alt="Borromean ring of Medial rhombic triacontahedron"></a>
+ <br>Borromean ring of Medial rhombic triacontahedron.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>91. Möbius hexakis octahedron</h4>
+<a href="vr/Mobius48bE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/91A.png" class="foto" alt="Borromean ring of Möbius hexakis octahedron"></a>
+ <br>Borromean ring of Möbius hexakis octahedron.
+ <br>
+<hr>
+<h4>92. Möbius octakis hexahedron</h4>
+<a href="vr/Mobius48aE.html" target="_blank" title="3D model" class="fotoA"><img src="ar/92A.png" class="foto" alt="Borromean ring of Möbius octakis hexahedron"></a>
+ <br>Borromean ring of Möbius octakis hexahedron.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Borromean rings: visualization of solids with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/torus-toroids/borromean/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.

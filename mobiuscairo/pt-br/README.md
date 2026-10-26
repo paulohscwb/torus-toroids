@@ -469,6 +469,52 @@ O azulejo do Cairo recebeu esse nome em homenagem ao padrão de reboco de alguma
  <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Mapas regulares
  <br>
 <hr>
+<h4>85. Sólido de Escher</h4>
+<a href="../vr/EscherE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/85A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn do sólido de Escher"></a>
+ <br>Toroide de Möbius e Vélez-Jahn modelado com 10 sólidos de Escher
+ <br>
+<hr>
+<h4>86. Dodecaedro Côncavo</h4>
+<a href="../vr/ConcaveDodecahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/86A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de dodecaedro côncavo"></a>
+ <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Codecaedros Côncavos
+ <br>
+<hr>
+<h4>87. Grande Dodecaedro</h4>
+<a href="../vr/GreatDodecahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/87A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de grande dodecaedro"></a>
+ <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Grandes Dodecaedros
+ <br>
+<hr>
+<h4>88. Grande Icosaedro</h4>
+<a href="../vr/GreatIcosahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/88A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de grande icosaedro"></a>
+ <br>Toroide de Möbius e Vélez-Jahn modelado com 10 Grandes Icosaedros
+ <br>
+<hr>
+<h4>89. Hexaedro octakis de Möbius</h4>
+<a href="../vr/Mobius48aE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/89A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Hexaedro octakis de Möbius"></a>
+ <br>Toroide de Möbius e Vélez-Jahn modelado com 10 hexaedros octakis de Möbius
+ <br>
+<hr>
+<h4>90. Octaedro hexakis de Möbius</h4>
+<a href="../vr/Mobius48bE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/90A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Octaedro hexakis de Möbius"></a>
+ <br>Toroide de Möbius e Vélez-Jahn modelado com 10 octaedros hexakis de Möbius
+ <br>
+<hr>
+<h4>91. Triacontaedro rômbico medial</h4>
+<a href="../vr/MedialRhombicTriacontahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/91A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Triacontaedro rômbico medial"></a>
+ <br>Toroide de Möbius e Vélez-Jahn modelado com 10 triacontaedros rômbicos mediais
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>92. Hexecontaedro deltoidal medial</h4>
+<a href="../vr/MedialDeltoidalHexecontahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/92A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Hexecontaedro deltoidal medial"></a>
+ <br>Toroide de Möbius e Vélez-Jahn modelado com 10 hexecontaedros deltoides mediais
+ <br>
+<hr>
+<h4>93. Grande dodecaedro estrelado</h4>
+<a href="../vr/GreatStellatedDodecahedronE.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/93A.png" class="foto" alt="Toroide de Möbius e Vélez-Jahn de Grande dodecaedro estrelado"></a>
+ <br>Toroide de Möbius e Vélez-Jahn modelado com 10 grandes dodecaedros estrelados
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Möbius, Vélez-Jahn and Cairo toroids: visualization of solids with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/torus-toroids/mobiuscairo/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
