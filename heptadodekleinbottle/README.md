@@ -158,6 +158,11 @@ This work shows heptagonal dodecahedrons and Klein bottles modeled in 3D, with v
  <br>This model of the Klein bottle was constructed using a truncated octahedron and some prisms.
  <br>
 <hr>
+<h4>24. Snub cube Klein bottle</h4>
+<a href="vr/SnubCube.html" target="_blank" title="3D model" class="fotoA"><img src="ar/24A.png" class="foto" alt="Snub cube Klein bottle"></a>
+ <br>This model of the Klein bottle was constructed using a snub cube and some prisms and antiprisms.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 

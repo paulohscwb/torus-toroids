@@ -158,6 +158,11 @@ Este trabalho mostra dodecaedros heptagonais e garrafas de Klein modelados em 3D
  <br>Este modelo de garrafa de Klein foi construído com um octaedro truncado e alguns prismas.
  <br>
 <hr>
+<h4>24. Garrafa de Klein de cubo snub</h4>
+<a href="../vr/SnubCube.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/24A.png" class="foto" alt="Garrafa de Klein de cubo snub"></a>
+ <br>Este modelo de garrafa de Klein foi construído com um cubo snub e alguns prismas e antiprismas.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Heptagonal dodecahedrons and Klein bottles: visualization of solids with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/torus-toroids/heptadodekleinbottle/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
